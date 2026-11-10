@@ -1,0 +1,1234 @@
+seed,suite,model,actual,predicted,f,pair_id
+42,Suite 1: Random Holdout (IID),Random Forest,326.0,338.86666666666673,0.6443000000000001,MA-S
+42,Suite 1: Random Holdout (IID),Random Forest,307.0,309.7751666666666,0.6222,tBA-BMA
+42,Suite 1: Random Holdout (IID),Random Forest,294.0,299.81989610389604,0.43329999999999996,EA-EMA
+42,Suite 1: Random Holdout (IID),Random Forest,266.0,275.54,0.8172,iBA-iBMA
+42,Suite 1: Random Holdout (IID),Random Forest,360.0,360.5795,0.35090000000000005,tBA-S
+42,Suite 1: Random Holdout (IID),Random Forest,247.0,246.46,0.7778,BA-EMA
+42,Suite 1: Random Holdout (IID),Random Forest,375.0,368.75,0.0641,MA-AN
+42,Suite 1: Random Holdout (IID),Random Forest,376.0,378.32142857142856,0.20629999999999998,MMA-S
+42,Suite 1: Random Holdout (IID),Random Forest,249.0,255.49,0.4,BA-iBA
+42,Suite 1: Random Holdout (IID),Random Forest,307.0,334.8647619047619,0.5,MA-tBA
+42,Suite 1: Random Holdout (IID),Random Forest,327.0,328.4082056277056,0.3419,iBA-MMA
+42,Suite 1: Random Holdout (IID),Random Forest,280.0,279.01,0.4253,BA-iBMA
+42,Suite 1: Random Holdout (IID),Random Forest,368.0,356.2719523809524,0.16390000000000002,tBA-MMA
+42,Suite 1: Random Holdout (IID),Random Forest,313.0,310.75083333333333,0.4253,BA-tBMA
+42,Suite 1: Random Holdout (IID),Random Forest,278.0,289.52,0.7985,EA-MMA
+42,Suite 1: Random Holdout (IID),Random Forest,285.0,308.4633333333333,0.8092,EA-S
+42,Suite 1: Random Holdout (IID),Random Forest,279.0,282.954,0.6786,EA-iBMA
+42,Suite 1: Random Holdout (IID),Random Forest,295.0,301.9169523809524,0.8172,iBA-tBMA
+42,Suite 1: Random Holdout (IID),Random Forest,227.0,240.59,0.8523000000000001,BA-EHA
+42,Suite 1: Random Holdout (IID),Random Forest,278.0,300.32666666666665,0.4,BA-tBA
+42,Suite 1: Random Holdout (IID),Random Forest,264.0,273.1,0.6222,iBA-BMA
+42,Suite 1: Random Holdout (IID),Random Forest,239.0,238.96,0.6944,EHA-S
+42,Suite 1: Random Holdout (IID),Random Forest,339.0,337.5533333333333,0.5221,MA-tBMA
+42,Suite 1: Random Holdout (IID),Random Forest,374.0,332.87,0.6812999999999999,MMA-AN
+42,Suite 1: Random Holdout (IID),Random Forest,369.0,365.5818803418803,0.2161,tBA-AN
+42,Suite 1: Random Holdout (IID),XGBoost,326.0,347.45623779296875,0.6443000000000001,MA-S
+42,Suite 1: Random Holdout (IID),XGBoost,307.0,308.3382568359375,0.6222,tBA-BMA
+42,Suite 1: Random Holdout (IID),XGBoost,294.0,311.37701416015625,0.43329999999999996,EA-EMA
+42,Suite 1: Random Holdout (IID),XGBoost,266.0,276.9238586425781,0.8172,iBA-iBMA
+42,Suite 1: Random Holdout (IID),XGBoost,360.0,363.6417541503906,0.35090000000000005,tBA-S
+42,Suite 1: Random Holdout (IID),XGBoost,247.0,247.3448944091797,0.7778,BA-EMA
+42,Suite 1: Random Holdout (IID),XGBoost,375.0,363.52996826171875,0.0641,MA-AN
+42,Suite 1: Random Holdout (IID),XGBoost,376.0,379.1720275878906,0.20629999999999998,MMA-S
+42,Suite 1: Random Holdout (IID),XGBoost,249.0,250.6697235107422,0.4,BA-iBA
+42,Suite 1: Random Holdout (IID),XGBoost,307.0,333.572265625,0.5,MA-tBA
+42,Suite 1: Random Holdout (IID),XGBoost,327.0,331.37677001953125,0.3419,iBA-MMA
+42,Suite 1: Random Holdout (IID),XGBoost,280.0,275.5292053222656,0.4253,BA-iBMA
+42,Suite 1: Random Holdout (IID),XGBoost,368.0,359.8824462890625,0.16390000000000002,tBA-MMA
+42,Suite 1: Random Holdout (IID),XGBoost,313.0,309.73468017578125,0.4253,BA-tBMA
+42,Suite 1: Random Holdout (IID),XGBoost,278.0,285.1561584472656,0.7985,EA-MMA
+42,Suite 1: Random Holdout (IID),XGBoost,285.0,311.0915222167969,0.8092,EA-S
+42,Suite 1: Random Holdout (IID),XGBoost,279.0,279.728515625,0.6786,EA-iBMA
+42,Suite 1: Random Holdout (IID),XGBoost,295.0,300.58837890625,0.8172,iBA-tBMA
+42,Suite 1: Random Holdout (IID),XGBoost,227.0,238.9563751220703,0.8523000000000001,BA-EHA
+42,Suite 1: Random Holdout (IID),XGBoost,278.0,291.2517395019531,0.4,BA-tBA
+42,Suite 1: Random Holdout (IID),XGBoost,264.0,270.4778747558594,0.6222,iBA-BMA
+42,Suite 1: Random Holdout (IID),XGBoost,239.0,241.67987060546875,0.6944,EHA-S
+42,Suite 1: Random Holdout (IID),XGBoost,339.0,338.3916931152344,0.5221,MA-tBMA
+42,Suite 1: Random Holdout (IID),XGBoost,374.0,348.41845703125,0.6812999999999999,MMA-AN
+42,Suite 1: Random Holdout (IID),XGBoost,369.0,368.17779541015625,0.2161,tBA-AN
+42,Suite 1: Random Holdout (IID),Concatenation,326.0,341.6578063964844,0.6443000000000001,MA-S
+42,Suite 1: Random Holdout (IID),Concatenation,307.0,293.1671447753906,0.6222,tBA-BMA
+42,Suite 1: Random Holdout (IID),Concatenation,294.0,292.44000244140625,0.43329999999999996,EA-EMA
+42,Suite 1: Random Holdout (IID),Concatenation,266.0,281.1250915527344,0.8172,iBA-iBMA
+42,Suite 1: Random Holdout (IID),Concatenation,360.0,353.5424499511719,0.35090000000000005,tBA-S
+42,Suite 1: Random Holdout (IID),Concatenation,247.0,271.45245361328125,0.7778,BA-EMA
+42,Suite 1: Random Holdout (IID),Concatenation,375.0,343.8394470214844,0.0641,MA-AN
+42,Suite 1: Random Holdout (IID),Concatenation,376.0,379.0462646484375,0.20629999999999998,MMA-S
+42,Suite 1: Random Holdout (IID),Concatenation,249.0,238.23995971679688,0.4,BA-iBA
+42,Suite 1: Random Holdout (IID),Concatenation,307.0,299.3829650878906,0.5,MA-tBA
+42,Suite 1: Random Holdout (IID),Concatenation,327.0,315.7821960449219,0.3419,iBA-MMA
+42,Suite 1: Random Holdout (IID),Concatenation,280.0,269.52801513671875,0.4253,BA-iBMA
+42,Suite 1: Random Holdout (IID),Concatenation,368.0,346.3581848144531,0.16390000000000002,tBA-MMA
+42,Suite 1: Random Holdout (IID),Concatenation,313.0,296.3038635253906,0.4253,BA-tBMA
+42,Suite 1: Random Holdout (IID),Concatenation,278.0,312.0367736816406,0.7985,EA-MMA
+42,Suite 1: Random Holdout (IID),Concatenation,285.0,325.5594787597656,0.8092,EA-S
+42,Suite 1: Random Holdout (IID),Concatenation,279.0,287.683837890625,0.6786,EA-iBMA
+42,Suite 1: Random Holdout (IID),Concatenation,295.0,317.2469787597656,0.8172,iBA-tBMA
+42,Suite 1: Random Holdout (IID),Concatenation,227.0,220.87539672851562,0.8523000000000001,BA-EHA
+42,Suite 1: Random Holdout (IID),Concatenation,278.0,265.96868896484375,0.4,BA-tBA
+42,Suite 1: Random Holdout (IID),Concatenation,264.0,266.7967834472656,0.6222,iBA-BMA
+42,Suite 1: Random Holdout (IID),Concatenation,239.0,286.7317810058594,0.6944,EHA-S
+42,Suite 1: Random Holdout (IID),Concatenation,339.0,329.61083984375,0.5221,MA-tBMA
+42,Suite 1: Random Holdout (IID),Concatenation,374.0,368.2456970214844,0.6812999999999999,MMA-AN
+42,Suite 1: Random Holdout (IID),Concatenation,369.0,357.6152648925781,0.2161,tBA-AN
+42,Suite 1: Random Holdout (IID),LatentConvex,326.0,326.9407043457031,0.6443000000000001,MA-S
+42,Suite 1: Random Holdout (IID),LatentConvex,307.0,307.4425964355469,0.6222,tBA-BMA
+42,Suite 1: Random Holdout (IID),LatentConvex,294.0,295.7203674316406,0.43329999999999996,EA-EMA
+42,Suite 1: Random Holdout (IID),LatentConvex,266.0,266.6417236328125,0.8172,iBA-iBMA
+42,Suite 1: Random Holdout (IID),LatentConvex,360.0,359.4844055175781,0.35090000000000005,tBA-S
+42,Suite 1: Random Holdout (IID),LatentConvex,247.0,248.0597686767578,0.7778,BA-EMA
+42,Suite 1: Random Holdout (IID),LatentConvex,375.0,370.5038146972656,0.0641,MA-AN
+42,Suite 1: Random Holdout (IID),LatentConvex,376.0,371.68023681640625,0.20629999999999998,MMA-S
+42,Suite 1: Random Holdout (IID),LatentConvex,249.0,247.1405029296875,0.4,BA-iBA
+42,Suite 1: Random Holdout (IID),LatentConvex,307.0,305.8433837890625,0.5,MA-tBA
+42,Suite 1: Random Holdout (IID),LatentConvex,327.0,326.0407409667969,0.3419,iBA-MMA
+42,Suite 1: Random Holdout (IID),LatentConvex,280.0,279.4798889160156,0.4253,BA-iBMA
+42,Suite 1: Random Holdout (IID),LatentConvex,368.0,368.6925964355469,0.16390000000000002,tBA-MMA
+42,Suite 1: Random Holdout (IID),LatentConvex,313.0,310.6568298339844,0.4253,BA-tBMA
+42,Suite 1: Random Holdout (IID),LatentConvex,278.0,277.3739318847656,0.7985,EA-MMA
+42,Suite 1: Random Holdout (IID),LatentConvex,285.0,280.445068359375,0.8092,EA-S
+42,Suite 1: Random Holdout (IID),LatentConvex,279.0,279.34954833984375,0.6786,EA-iBMA
+42,Suite 1: Random Holdout (IID),LatentConvex,295.0,274.31475830078125,0.8172,iBA-tBMA
+42,Suite 1: Random Holdout (IID),LatentConvex,227.0,229.79876708984375,0.8523000000000001,BA-EHA
+42,Suite 1: Random Holdout (IID),LatentConvex,278.0,278.54693603515625,0.4,BA-tBA
+42,Suite 1: Random Holdout (IID),LatentConvex,264.0,267.18896484375,0.6222,iBA-BMA
+42,Suite 1: Random Holdout (IID),LatentConvex,239.0,236.85240173339844,0.6944,EHA-S
+42,Suite 1: Random Holdout (IID),LatentConvex,339.0,338.490234375,0.5221,MA-tBMA
+42,Suite 1: Random Holdout (IID),LatentConvex,374.0,371.1711120605469,0.6812999999999999,MMA-AN
+42,Suite 1: Random Holdout (IID),LatentConvex,369.0,362.26031494140625,0.2161,tBA-AN
+42,Suite 1: Random Holdout (IID),Thermodynamic,326.0,328.6320495605469,0.6443000000000001,MA-S
+42,Suite 1: Random Holdout (IID),Thermodynamic,307.0,302.6821594238281,0.6222,tBA-BMA
+42,Suite 1: Random Holdout (IID),Thermodynamic,294.0,298.53643798828125,0.43329999999999996,EA-EMA
+42,Suite 1: Random Holdout (IID),Thermodynamic,266.0,268.2174987792969,0.8172,iBA-iBMA
+42,Suite 1: Random Holdout (IID),Thermodynamic,360.0,361.2675476074219,0.35090000000000005,tBA-S
+42,Suite 1: Random Holdout (IID),Thermodynamic,247.0,249.80960083007812,0.7778,BA-EMA
+42,Suite 1: Random Holdout (IID),Thermodynamic,375.0,373.6591796875,0.0641,MA-AN
+42,Suite 1: Random Holdout (IID),Thermodynamic,376.0,375.18255615234375,0.20629999999999998,MMA-S
+42,Suite 1: Random Holdout (IID),Thermodynamic,249.0,249.03958129882812,0.4,BA-iBA
+42,Suite 1: Random Holdout (IID),Thermodynamic,307.0,306.2105712890625,0.5,MA-tBA
+42,Suite 1: Random Holdout (IID),Thermodynamic,327.0,325.2771301269531,0.3419,iBA-MMA
+42,Suite 1: Random Holdout (IID),Thermodynamic,280.0,284.9473876953125,0.4253,BA-iBMA
+42,Suite 1: Random Holdout (IID),Thermodynamic,368.0,369.3324279785156,0.16390000000000002,tBA-MMA
+42,Suite 1: Random Holdout (IID),Thermodynamic,313.0,317.90069580078125,0.4253,BA-tBMA
+42,Suite 1: Random Holdout (IID),Thermodynamic,278.0,282.548583984375,0.7985,EA-MMA
+42,Suite 1: Random Holdout (IID),Thermodynamic,285.0,288.1874694824219,0.8092,EA-S
+42,Suite 1: Random Holdout (IID),Thermodynamic,279.0,283.754638671875,0.6786,EA-iBMA
+42,Suite 1: Random Holdout (IID),Thermodynamic,295.0,282.5359191894531,0.8172,iBA-tBMA
+42,Suite 1: Random Holdout (IID),Thermodynamic,227.0,230.30386352539062,0.8523000000000001,BA-EHA
+42,Suite 1: Random Holdout (IID),Thermodynamic,278.0,279.2169189453125,0.4,BA-tBA
+42,Suite 1: Random Holdout (IID),Thermodynamic,264.0,268.92620849609375,0.6222,iBA-BMA
+42,Suite 1: Random Holdout (IID),Thermodynamic,239.0,238.99110412597656,0.6944,EHA-S
+42,Suite 1: Random Holdout (IID),Thermodynamic,339.0,341.57928466796875,0.5221,MA-tBMA
+42,Suite 1: Random Holdout (IID),Thermodynamic,374.0,370.0492858886719,0.6812999999999999,MMA-AN
+42,Suite 1: Random Holdout (IID),Thermodynamic,369.0,365.0016174316406,0.2161,tBA-AN
+42,Suite 1: Random Holdout (IID),BigSMILES_LM,326.0,333.86541748046875,0.6443000000000001,MA-S
+42,Suite 1: Random Holdout (IID),BigSMILES_LM,307.0,312.92315673828125,0.6222,tBA-BMA
+42,Suite 1: Random Holdout (IID),BigSMILES_LM,294.0,312.64617919921875,0.43329999999999996,EA-EMA
+42,Suite 1: Random Holdout (IID),BigSMILES_LM,266.0,296.5606994628906,0.8172,iBA-iBMA
+42,Suite 1: Random Holdout (IID),BigSMILES_LM,360.0,351.4768371582031,0.35090000000000005,tBA-S
+42,Suite 1: Random Holdout (IID),BigSMILES_LM,247.0,276.7481384277344,0.7778,BA-EMA
+42,Suite 1: Random Holdout (IID),BigSMILES_LM,375.0,341.0099792480469,0.0641,MA-AN
+42,Suite 1: Random Holdout (IID),BigSMILES_LM,376.0,368.107177734375,0.20629999999999998,MMA-S
+42,Suite 1: Random Holdout (IID),BigSMILES_LM,249.0,255.3653564453125,0.4,BA-iBA
+42,Suite 1: Random Holdout (IID),BigSMILES_LM,307.0,324.3048095703125,0.5,MA-tBA
+42,Suite 1: Random Holdout (IID),BigSMILES_LM,327.0,327.85003662109375,0.3419,iBA-MMA
+42,Suite 1: Random Holdout (IID),BigSMILES_LM,280.0,283.1103515625,0.4253,BA-iBMA
+42,Suite 1: Random Holdout (IID),BigSMILES_LM,368.0,353.5691833496094,0.16390000000000002,tBA-MMA
+42,Suite 1: Random Holdout (IID),BigSMILES_LM,313.0,304.7461242675781,0.4253,BA-tBMA
+42,Suite 1: Random Holdout (IID),BigSMILES_LM,278.0,281.0159912109375,0.7985,EA-MMA
+42,Suite 1: Random Holdout (IID),BigSMILES_LM,285.0,352.44921875,0.8092,EA-S
+42,Suite 1: Random Holdout (IID),BigSMILES_LM,279.0,299.740478515625,0.6786,EA-iBMA
+42,Suite 1: Random Holdout (IID),BigSMILES_LM,295.0,322.6427001953125,0.8172,iBA-tBMA
+42,Suite 1: Random Holdout (IID),BigSMILES_LM,227.0,240.77957153320312,0.8523000000000001,BA-EHA
+42,Suite 1: Random Holdout (IID),BigSMILES_LM,278.0,297.67657470703125,0.4,BA-tBA
+42,Suite 1: Random Holdout (IID),BigSMILES_LM,264.0,269.5256652832031,0.6222,iBA-BMA
+42,Suite 1: Random Holdout (IID),BigSMILES_LM,239.0,313.4803771972656,0.6944,EHA-S
+42,Suite 1: Random Holdout (IID),BigSMILES_LM,339.0,295.22467041015625,0.5221,MA-tBMA
+42,Suite 1: Random Holdout (IID),BigSMILES_LM,374.0,375.0943908691406,0.6812999999999999,MMA-AN
+42,Suite 1: Random Holdout (IID),BigSMILES_LM,369.0,368.4881896972656,0.2161,tBA-AN
+42,Suite 1: Random Holdout (IID),Gordon-Taylor,326.0,327.4146960971547,0.6443000000000001,MA-S
+42,Suite 1: Random Holdout (IID),Gordon-Taylor,307.0,308.25226284616275,0.6222,tBA-BMA
+42,Suite 1: Random Holdout (IID),Gordon-Taylor,294.0,296.1685029264073,0.43329999999999996,EA-EMA
+42,Suite 1: Random Holdout (IID),Gordon-Taylor,266.0,265.6501091200172,0.8172,iBA-iBMA
+42,Suite 1: Random Holdout (IID),Gordon-Taylor,360.0,360.19813234867485,0.35090000000000005,tBA-S
+42,Suite 1: Random Holdout (IID),Gordon-Taylor,247.0,246.2887557820021,0.7778,BA-EMA
+42,Suite 1: Random Holdout (IID),Gordon-Taylor,375.0,372.64703964188385,0.0641,MA-AN
+42,Suite 1: Random Holdout (IID),Gordon-Taylor,376.0,379.94933255461837,0.20629999999999998,MMA-S
+42,Suite 1: Random Holdout (IID),Gordon-Taylor,249.0,248.47938627521597,0.4,BA-iBA
+42,Suite 1: Random Holdout (IID),Gordon-Taylor,307.0,307.33317761947694,0.5,MA-tBA
+42,Suite 1: Random Holdout (IID),Gordon-Taylor,327.0,324.61967031237043,0.3419,iBA-MMA
+42,Suite 1: Random Holdout (IID),Gordon-Taylor,280.0,283.2801346136019,0.4253,BA-iBMA
+42,Suite 1: Random Holdout (IID),Gordon-Taylor,368.0,364.04477491937797,0.16390000000000002,tBA-MMA
+42,Suite 1: Random Holdout (IID),Gordon-Taylor,313.0,312.53403815592424,0.4253,BA-tBMA
+42,Suite 1: Random Holdout (IID),Gordon-Taylor,278.0,282.193877488467,0.7985,EA-MMA
+42,Suite 1: Random Holdout (IID),Gordon-Taylor,285.0,287.37179766804104,0.8092,EA-S
+42,Suite 1: Random Holdout (IID),Gordon-Taylor,279.0,281.5467689052991,0.6786,EA-iBMA
+42,Suite 1: Random Holdout (IID),Gordon-Taylor,295.0,286.7816254122819,0.8172,iBA-tBMA
+42,Suite 1: Random Holdout (IID),Gordon-Taylor,227.0,227.03763452839775,0.8523000000000001,BA-EHA
+42,Suite 1: Random Holdout (IID),Gordon-Taylor,278.0,278.37588319920366,0.4,BA-tBA
+42,Suite 1: Random Holdout (IID),Gordon-Taylor,264.0,267.62709308369784,0.6222,iBA-BMA
+42,Suite 1: Random Holdout (IID),Gordon-Taylor,239.0,238.36896440966603,0.6944,EHA-S
+42,Suite 1: Random Holdout (IID),Gordon-Taylor,339.0,336.5738906850903,0.5221,MA-tBMA
+42,Suite 1: Random Holdout (IID),Gordon-Taylor,374.0,378.00000000000006,0.6812999999999999,MMA-AN
+42,Suite 1: Random Holdout (IID),Gordon-Taylor,369.0,364.5932079979527,0.2161,tBA-AN
+42,Suite 1: Random Holdout (IID),Fox,326.0,320.5004495869375,0.6443000000000001,MA-S
+42,Suite 1: Random Holdout (IID),Fox,307.0,318.91418709079744,0.6222,tBA-BMA
+42,Suite 1: Random Holdout (IID),Fox,294.0,302.85968789653697,0.43329999999999996,EA-EMA
+42,Suite 1: Random Holdout (IID),Fox,266.0,267.76480695433673,0.8172,iBA-iBMA
+42,Suite 1: Random Holdout (IID),Fox,360.0,359.974445973219,0.35090000000000005,tBA-S
+42,Suite 1: Random Holdout (IID),Fox,247.0,247.81498171493038,0.7778,BA-EMA
+42,Suite 1: Random Holdout (IID),Fox,375.0,371.3035715534382,0.0641,MA-AN
+42,Suite 1: Random Holdout (IID),Fox,376.0,379.58566918754815,0.20629999999999998,MMA-S
+42,Suite 1: Random Holdout (IID),Fox,249.0,244.9251247920133,0.4,BA-iBA
+42,Suite 1: Random Holdout (IID),Fox,307.0,310.62600321027287,0.5,MA-tBA
+42,Suite 1: Random Holdout (IID),Fox,327.0,325.0391821889492,0.3419,iBA-MMA
+42,Suite 1: Random Holdout (IID),Fox,280.0,281.33576230884796,0.4253,BA-iBMA
+42,Suite 1: Random Holdout (IID),Fox,368.0,368.7859724267166,0.16390000000000002,tBA-MMA
+42,Suite 1: Random Holdout (IID),Fox,313.0,295.71242695045913,0.4253,BA-tBMA
+42,Suite 1: Random Holdout (IID),Fox,278.0,281.9859218169611,0.7985,EA-MMA
+42,Suite 1: Random Holdout (IID),Fox,285.0,281.23935228370823,0.8092,EA-S
+42,Suite 1: Random Holdout (IID),Fox,279.0,284.538417226578,0.6786,EA-iBMA
+42,Suite 1: Random Holdout (IID),Fox,295.0,271.7646699134996,0.8172,iBA-tBMA
+42,Suite 1: Random Holdout (IID),Fox,227.0,227.6541038738027,0.8523000000000001,BA-EHA
+42,Suite 1: Random Holdout (IID),Fox,278.0,280.2377414561664,0.4,BA-tBA
+42,Suite 1: Random Holdout (IID),Fox,264.0,272.54214664638425,0.6222,iBA-BMA
+42,Suite 1: Random Holdout (IID),Fox,239.0,247.89426414544747,0.6944,EHA-S
+42,Suite 1: Random Holdout (IID),Fox,339.0,328.4902366020525,0.5221,MA-tBMA
+42,Suite 1: Random Holdout (IID),Fox,374.0,378.0,0.6812999999999999,MMA-AN
+42,Suite 1: Random Holdout (IID),Fox,369.0,365.9450126178775,0.2161,tBA-AN
+42,Suite 1: Random Holdout (IID),Linear,326.0,325.2345,0.6443000000000001,MA-S
+42,Suite 1: Random Holdout (IID),Linear,307.0,319.3106,0.6222,tBA-BMA
+42,Suite 1: Random Holdout (IID),Linear,294.0,307.5025,0.43329999999999996,EA-EMA
+42,Suite 1: Random Holdout (IID),Linear,266.0,270.8068,0.8172,iBA-iBMA
+42,Suite 1: Random Holdout (IID),Linear,360.0,361.75320000000005,0.35090000000000005,tBA-S
+42,Suite 1: Random Holdout (IID),Linear,247.0,254.442,0.7778,BA-EMA
+42,Suite 1: Random Holdout (IID),Linear,375.0,372.67969999999997,0.0641,MA-AN
+42,Suite 1: Random Holdout (IID),Linear,376.0,379.58740000000006,0.20629999999999998,MMA-S
+42,Suite 1: Random Holdout (IID),Linear,249.0,245.6,0.4,BA-iBA
+42,Suite 1: Random Holdout (IID),Linear,307.0,311.5,0.5,MA-tBA
+42,Suite 1: Random Holdout (IID),Linear,327.0,336.28819999999996,0.3419,iBA-MMA
+42,Suite 1: Random Holdout (IID),Linear,280.0,291.4929,0.4253,BA-iBMA
+42,Suite 1: Random Holdout (IID),Linear,368.0,369.805,0.16390000000000002,tBA-MMA
+42,Suite 1: Random Holdout (IID),Linear,313.0,313.3315,0.4253,BA-tBMA
+42,Suite 1: Random Holdout (IID),Linear,278.0,287.7695,0.7985,EA-MMA
+42,Suite 1: Random Holdout (IID),Linear,285.0,286.942,0.8092,EA-S
+42,Suite 1: Random Holdout (IID),Linear,279.0,288.1408,0.6786,EA-iBMA
+42,Suite 1: Random Holdout (IID),Linear,295.0,277.7532,0.8172,iBA-tBMA
+42,Suite 1: Random Holdout (IID),Linear,227.0,227.7845,0.8523000000000001,BA-EHA
+42,Suite 1: Random Holdout (IID),Linear,278.0,288.79999999999995,0.4,BA-tBA
+42,Suite 1: Random Holdout (IID),Linear,264.0,274.5122,0.6222,iBA-BMA
+42,Suite 1: Random Holdout (IID),Linear,239.0,265.424,0.6944,EHA-S
+42,Suite 1: Random Holdout (IID),Linear,339.0,333.23199999999997,0.5221,MA-tBMA
+42,Suite 1: Random Holdout (IID),Linear,374.0,378.0,0.6812999999999999,MMA-AN
+42,Suite 1: Random Holdout (IID),Linear,369.0,367.19500000000005,0.2161,tBA-AN
+42,Suite 2: Core-to-Tail Extrap,Random Forest,325.0,321.52672943722945,0.24789999999999998,MA-EMA
+42,Suite 2: Core-to-Tail Extrap,Random Forest,296.0,306.92814285714286,0.8387,MA-EMA
+42,Suite 2: Core-to-Tail Extrap,Random Forest,315.0,295.85,0.2386,EMA-BMA
+42,Suite 2: Core-to-Tail Extrap,Random Forest,334.0,319.93666666666667,0.8301999999999999,EMA-BMA
+42,Suite 2: Core-to-Tail Extrap,Random Forest,295.0,345.04,0.8523000000000001,tBA-EHA
+42,Suite 2: Core-to-Tail Extrap,Random Forest,241.0,257.11,0.2427,EA-BA
+42,Suite 2: Core-to-Tail Extrap,Random Forest,259.0,266.32,0.8332999999999999,EA-BA
+42,Suite 2: Core-to-Tail Extrap,Random Forest,260.0,271.67,0.2427,EA-iBA
+42,Suite 2: Core-to-Tail Extrap,Random Forest,263.0,271.45,0.8332999999999999,EA-iBA
+42,Suite 2: Core-to-Tail Extrap,Random Forest,276.0,263.22,0.1625,EHA-BMA
+42,Suite 2: Core-to-Tail Extrap,Random Forest,224.0,236.69,0.7537999999999999,EHA-BMA
+42,Suite 2: Core-to-Tail Extrap,Random Forest,336.0,327.2835389610389,0.1818,tBA-EMA
+42,Suite 2: Core-to-Tail Extrap,Random Forest,320.0,329.94,0.7778,tBA-EMA
+42,Suite 2: Core-to-Tail Extrap,Random Forest,331.0,317.9131349206349,0.2159,tBA-iBMA
+42,Suite 2: Core-to-Tail Extrap,Random Forest,318.0,335.94,0.8172,tBA-iBMA
+42,Suite 2: Core-to-Tail Extrap,Random Forest,367.0,331.59,0.8525,MMA-BMA
+42,Suite 2: Core-to-Tail Extrap,Random Forest,279.0,291.4690476190476,0.8525,EA-tBMA
+42,Suite 2: Core-to-Tail Extrap,Random Forest,333.0,317.885,0.2,BMA-iBMA
+42,Suite 2: Core-to-Tail Extrap,Random Forest,317.0,286.32,0.7976000000000001,BMA-iBMA
+42,Suite 2: Core-to-Tail Extrap,Random Forest,289.0,299.171,0.8543000000000001,MA-iBA
+42,Suite 2: Core-to-Tail Extrap,Random Forest,249.0,272.22,0.8523000000000001,iBA-EHA
+42,Suite 2: Core-to-Tail Extrap,Random Forest,355.0,355.96,0.16949999999999998,iBA-S
+42,Suite 2: Core-to-Tail Extrap,Random Forest,279.0,296.61,0.7624,iBA-S
+42,Suite 2: Core-to-Tail Extrap,Random Forest,270.0,305.8225,0.22460000000000002,MA-EA
+42,Suite 2: Core-to-Tail Extrap,Random Forest,289.0,302.26714285714286,0.8239,MA-EA
+42,Suite 2: Core-to-Tail Extrap,Random Forest,378.0,361.7491666666667,0.2159,tBA-tBMA
+42,Suite 2: Core-to-Tail Extrap,Random Forest,336.0,341.17,0.8172,tBA-tBMA
+42,Suite 2: Core-to-Tail Extrap,Random Forest,349.0,332.69259451659457,0.16390000000000002,BA-MMA
+42,Suite 2: Core-to-Tail Extrap,Random Forest,255.0,251.17,0.7573000000000001,BA-MMA
+42,Suite 2: Core-to-Tail Extrap,Random Forest,305.0,297.84,0.1625,EHA-iBMA
+42,Suite 2: Core-to-Tail Extrap,Random Forest,231.0,241.07,0.7537999999999999,EHA-iBMA
+42,Suite 2: Core-to-Tail Extrap,Random Forest,309.0,322.61491666666666,0.2,iBA-tBA
+42,Suite 2: Core-to-Tail Extrap,Random Forest,265.0,287.5942857142857,0.8,iBA-tBA
+42,Suite 2: Core-to-Tail Extrap,Random Forest,347.0,338.454,0.16949999999999998,BA-S
+42,Suite 2: Core-to-Tail Extrap,Random Forest,257.0,273.45,0.7624,BA-S
+42,Suite 2: Core-to-Tail Extrap,XGBoost,325.0,325.8539123535156,0.24789999999999998,MA-EMA
+42,Suite 2: Core-to-Tail Extrap,XGBoost,296.0,302.2115478515625,0.8387,MA-EMA
+42,Suite 2: Core-to-Tail Extrap,XGBoost,315.0,298.9400634765625,0.2386,EMA-BMA
+42,Suite 2: Core-to-Tail Extrap,XGBoost,334.0,323.465576171875,0.8301999999999999,EMA-BMA
+42,Suite 2: Core-to-Tail Extrap,XGBoost,295.0,345.34130859375,0.8523000000000001,tBA-EHA
+42,Suite 2: Core-to-Tail Extrap,XGBoost,241.0,252.8093719482422,0.2427,EA-BA
+42,Suite 2: Core-to-Tail Extrap,XGBoost,259.0,269.99139404296875,0.8332999999999999,EA-BA
+42,Suite 2: Core-to-Tail Extrap,XGBoost,260.0,267.55035400390625,0.2427,EA-iBA
+42,Suite 2: Core-to-Tail Extrap,XGBoost,263.0,271.613525390625,0.8332999999999999,EA-iBA
+42,Suite 2: Core-to-Tail Extrap,XGBoost,276.0,281.6861572265625,0.1625,EHA-BMA
+42,Suite 2: Core-to-Tail Extrap,XGBoost,224.0,240.65383911132812,0.7537999999999999,EHA-BMA
+42,Suite 2: Core-to-Tail Extrap,XGBoost,336.0,329.0126953125,0.1818,tBA-EMA
+42,Suite 2: Core-to-Tail Extrap,XGBoost,320.0,324.98114013671875,0.7778,tBA-EMA
+42,Suite 2: Core-to-Tail Extrap,XGBoost,331.0,315.2608947753906,0.2159,tBA-iBMA
+42,Suite 2: Core-to-Tail Extrap,XGBoost,318.0,338.99444580078125,0.8172,tBA-iBMA
+42,Suite 2: Core-to-Tail Extrap,XGBoost,367.0,346.6664123535156,0.8525,MMA-BMA
+42,Suite 2: Core-to-Tail Extrap,XGBoost,279.0,302.2117919921875,0.8525,EA-tBMA
+42,Suite 2: Core-to-Tail Extrap,XGBoost,333.0,322.67413330078125,0.2,BMA-iBMA
+42,Suite 2: Core-to-Tail Extrap,XGBoost,317.0,296.0407409667969,0.7976000000000001,BMA-iBMA
+42,Suite 2: Core-to-Tail Extrap,XGBoost,289.0,298.649658203125,0.8543000000000001,MA-iBA
+42,Suite 2: Core-to-Tail Extrap,XGBoost,249.0,265.6376037597656,0.8523000000000001,iBA-EHA
+42,Suite 2: Core-to-Tail Extrap,XGBoost,355.0,351.86627197265625,0.16949999999999998,iBA-S
+42,Suite 2: Core-to-Tail Extrap,XGBoost,279.0,281.052001953125,0.7624,iBA-S
+42,Suite 2: Core-to-Tail Extrap,XGBoost,270.0,314.1875915527344,0.22460000000000002,MA-EA
+42,Suite 2: Core-to-Tail Extrap,XGBoost,289.0,298.2059326171875,0.8239,MA-EA
+42,Suite 2: Core-to-Tail Extrap,XGBoost,378.0,361.984619140625,0.2159,tBA-tBMA
+42,Suite 2: Core-to-Tail Extrap,XGBoost,336.0,340.0544128417969,0.8172,tBA-tBMA
+42,Suite 2: Core-to-Tail Extrap,XGBoost,349.0,340.6837463378906,0.16390000000000002,BA-MMA
+42,Suite 2: Core-to-Tail Extrap,XGBoost,255.0,252.88160705566406,0.7573000000000001,BA-MMA
+42,Suite 2: Core-to-Tail Extrap,XGBoost,305.0,298.45654296875,0.1625,EHA-iBMA
+42,Suite 2: Core-to-Tail Extrap,XGBoost,231.0,245.3217315673828,0.7537999999999999,EHA-iBMA
+42,Suite 2: Core-to-Tail Extrap,XGBoost,309.0,326.64703369140625,0.2,iBA-tBA
+42,Suite 2: Core-to-Tail Extrap,XGBoost,265.0,279.3449401855469,0.8,iBA-tBA
+42,Suite 2: Core-to-Tail Extrap,XGBoost,347.0,340.1683654785156,0.16949999999999998,BA-S
+42,Suite 2: Core-to-Tail Extrap,XGBoost,257.0,278.3791809082031,0.7624,BA-S
+42,Suite 2: Core-to-Tail Extrap,Concatenation,325.0,306.6412658691406,0.24789999999999998,MA-EMA
+42,Suite 2: Core-to-Tail Extrap,Concatenation,296.0,302.5076599121094,0.8387,MA-EMA
+42,Suite 2: Core-to-Tail Extrap,Concatenation,315.0,315.6294860839844,0.2386,EMA-BMA
+42,Suite 2: Core-to-Tail Extrap,Concatenation,334.0,309.9137878417969,0.8301999999999999,EMA-BMA
+42,Suite 2: Core-to-Tail Extrap,Concatenation,295.0,246.8831787109375,0.8523000000000001,tBA-EHA
+42,Suite 2: Core-to-Tail Extrap,Concatenation,241.0,246.9239044189453,0.2427,EA-BA
+42,Suite 2: Core-to-Tail Extrap,Concatenation,259.0,244.4092559814453,0.8332999999999999,EA-BA
+42,Suite 2: Core-to-Tail Extrap,Concatenation,260.0,257.3570861816406,0.2427,EA-iBA
+42,Suite 2: Core-to-Tail Extrap,Concatenation,263.0,254.77587890625,0.8332999999999999,EA-iBA
+42,Suite 2: Core-to-Tail Extrap,Concatenation,276.0,244.56158447265625,0.1625,EHA-BMA
+42,Suite 2: Core-to-Tail Extrap,Concatenation,224.0,241.87428283691406,0.7537999999999999,EHA-BMA
+42,Suite 2: Core-to-Tail Extrap,Concatenation,336.0,317.4444274902344,0.1818,tBA-EMA
+42,Suite 2: Core-to-Tail Extrap,Concatenation,320.0,312.2829284667969,0.7778,tBA-EMA
+42,Suite 2: Core-to-Tail Extrap,Concatenation,331.0,309.45172119140625,0.2159,tBA-iBMA
+42,Suite 2: Core-to-Tail Extrap,Concatenation,318.0,304.6139831542969,0.8172,tBA-iBMA
+42,Suite 2: Core-to-Tail Extrap,Concatenation,367.0,328.2132263183594,0.8525,MMA-BMA
+42,Suite 2: Core-to-Tail Extrap,Concatenation,279.0,313.8912658691406,0.8525,EA-tBMA
+42,Suite 2: Core-to-Tail Extrap,Concatenation,333.0,314.0021667480469,0.2,BMA-iBMA
+42,Suite 2: Core-to-Tail Extrap,Concatenation,317.0,308.3031005859375,0.7976000000000001,BMA-iBMA
+42,Suite 2: Core-to-Tail Extrap,Concatenation,289.0,267.9395446777344,0.8543000000000001,MA-iBA
+42,Suite 2: Core-to-Tail Extrap,Concatenation,249.0,224.8035125732422,0.8523000000000001,iBA-EHA
+42,Suite 2: Core-to-Tail Extrap,Concatenation,355.0,316.6668395996094,0.16949999999999998,iBA-S
+42,Suite 2: Core-to-Tail Extrap,Concatenation,279.0,311.5032958984375,0.7624,iBA-S
+42,Suite 2: Core-to-Tail Extrap,Concatenation,270.0,276.9557800292969,0.22460000000000002,MA-EA
+42,Suite 2: Core-to-Tail Extrap,Concatenation,289.0,273.3966369628906,0.8239,MA-EA
+42,Suite 2: Core-to-Tail Extrap,Concatenation,378.0,348.0211181640625,0.2159,tBA-tBMA
+42,Suite 2: Core-to-Tail Extrap,Concatenation,336.0,343.1082763671875,0.8172,tBA-tBMA
+42,Suite 2: Core-to-Tail Extrap,Concatenation,349.0,296.2156066894531,0.16390000000000002,BA-MMA
+42,Suite 2: Core-to-Tail Extrap,Concatenation,255.0,292.0330810546875,0.7573000000000001,BA-MMA
+42,Suite 2: Core-to-Tail Extrap,Concatenation,305.0,257.7118225097656,0.1625,EHA-iBMA
+42,Suite 2: Core-to-Tail Extrap,Concatenation,231.0,253.9590301513672,0.7537999999999999,EHA-iBMA
+42,Suite 2: Core-to-Tail Extrap,Concatenation,309.0,283.35028076171875,0.2,iBA-tBA
+42,Suite 2: Core-to-Tail Extrap,Concatenation,265.0,277.6336669921875,0.8,iBA-tBA
+42,Suite 2: Core-to-Tail Extrap,Concatenation,347.0,299.5476379394531,0.16949999999999998,BA-S
+42,Suite 2: Core-to-Tail Extrap,Concatenation,257.0,295.12054443359375,0.7624,BA-S
+42,Suite 2: Core-to-Tail Extrap,LatentConvex,325.0,324.92266845703125,0.24789999999999998,MA-EMA
+42,Suite 2: Core-to-Tail Extrap,LatentConvex,296.0,296.34326171875,0.8387,MA-EMA
+42,Suite 2: Core-to-Tail Extrap,LatentConvex,315.0,308.089599609375,0.2386,EMA-BMA
+42,Suite 2: Core-to-Tail Extrap,LatentConvex,334.0,333.69647216796875,0.8301999999999999,EMA-BMA
+42,Suite 2: Core-to-Tail Extrap,LatentConvex,295.0,295.3314208984375,0.8523000000000001,tBA-EHA
+42,Suite 2: Core-to-Tail Extrap,LatentConvex,241.0,240.48117065429688,0.2427,EA-BA
+42,Suite 2: Core-to-Tail Extrap,LatentConvex,259.0,257.66473388671875,0.8332999999999999,EA-BA
+42,Suite 2: Core-to-Tail Extrap,LatentConvex,260.0,257.9386291503906,0.2427,EA-iBA
+42,Suite 2: Core-to-Tail Extrap,LatentConvex,263.0,261.91571044921875,0.8332999999999999,EA-iBA
+42,Suite 2: Core-to-Tail Extrap,LatentConvex,276.0,273.97613525390625,0.1625,EHA-BMA
+42,Suite 2: Core-to-Tail Extrap,LatentConvex,224.0,224.72320556640625,0.7537999999999999,EHA-BMA
+42,Suite 2: Core-to-Tail Extrap,LatentConvex,336.0,334.2225341796875,0.1818,tBA-EMA
+42,Suite 2: Core-to-Tail Extrap,LatentConvex,320.0,318.6672058105469,0.7778,tBA-EMA
+42,Suite 2: Core-to-Tail Extrap,LatentConvex,331.0,327.2384338378906,0.2159,tBA-iBMA
+42,Suite 2: Core-to-Tail Extrap,LatentConvex,318.0,317.6801452636719,0.8172,tBA-iBMA
+42,Suite 2: Core-to-Tail Extrap,LatentConvex,367.0,367.1946105957031,0.8525,MMA-BMA
+42,Suite 2: Core-to-Tail Extrap,LatentConvex,279.0,276.59259033203125,0.8525,EA-tBMA
+42,Suite 2: Core-to-Tail Extrap,LatentConvex,333.0,326.6186218261719,0.2,BMA-iBMA
+42,Suite 2: Core-to-Tail Extrap,LatentConvex,317.0,306.1858215332031,0.7976000000000001,BMA-iBMA
+42,Suite 2: Core-to-Tail Extrap,LatentConvex,289.0,286.49462890625,0.8543000000000001,MA-iBA
+42,Suite 2: Core-to-Tail Extrap,LatentConvex,249.0,247.91427612304688,0.8523000000000001,iBA-EHA
+42,Suite 2: Core-to-Tail Extrap,LatentConvex,355.0,352.2151184082031,0.16949999999999998,iBA-S
+42,Suite 2: Core-to-Tail Extrap,LatentConvex,279.0,276.84814453125,0.7624,iBA-S
+42,Suite 2: Core-to-Tail Extrap,LatentConvex,270.0,268.87847900390625,0.22460000000000002,MA-EA
+42,Suite 2: Core-to-Tail Extrap,LatentConvex,289.0,287.1278076171875,0.8239,MA-EA
+42,Suite 2: Core-to-Tail Extrap,LatentConvex,378.0,368.34747314453125,0.2159,tBA-tBMA
+42,Suite 2: Core-to-Tail Extrap,LatentConvex,336.0,327.8778076171875,0.8172,tBA-tBMA
+42,Suite 2: Core-to-Tail Extrap,LatentConvex,349.0,348.4482421875,0.16390000000000002,BA-MMA
+42,Suite 2: Core-to-Tail Extrap,LatentConvex,255.0,253.7289581298828,0.7573000000000001,BA-MMA
+42,Suite 2: Core-to-Tail Extrap,LatentConvex,305.0,301.86834716796875,0.1625,EHA-iBMA
+42,Suite 2: Core-to-Tail Extrap,LatentConvex,231.0,229.63998413085938,0.7537999999999999,EHA-iBMA
+42,Suite 2: Core-to-Tail Extrap,LatentConvex,309.0,306.2859191894531,0.2,iBA-tBA
+42,Suite 2: Core-to-Tail Extrap,LatentConvex,265.0,266.6229553222656,0.8,iBA-tBA
+42,Suite 2: Core-to-Tail Extrap,LatentConvex,347.0,345.377197265625,0.16949999999999998,BA-S
+42,Suite 2: Core-to-Tail Extrap,LatentConvex,257.0,254.4890594482422,0.7624,BA-S
+42,Suite 2: Core-to-Tail Extrap,Thermodynamic,325.0,323.9610900878906,0.24789999999999998,MA-EMA
+42,Suite 2: Core-to-Tail Extrap,Thermodynamic,296.0,298.399658203125,0.8387,MA-EMA
+42,Suite 2: Core-to-Tail Extrap,Thermodynamic,315.0,314.41973876953125,0.2386,EMA-BMA
+42,Suite 2: Core-to-Tail Extrap,Thermodynamic,334.0,334.10113525390625,0.8301999999999999,EMA-BMA
+42,Suite 2: Core-to-Tail Extrap,Thermodynamic,295.0,297.026123046875,0.8523000000000001,tBA-EHA
+42,Suite 2: Core-to-Tail Extrap,Thermodynamic,241.0,242.40359497070312,0.2427,EA-BA
+42,Suite 2: Core-to-Tail Extrap,Thermodynamic,259.0,260.29620361328125,0.8332999999999999,EA-BA
+42,Suite 2: Core-to-Tail Extrap,Thermodynamic,260.0,261.024169921875,0.2427,EA-iBA
+42,Suite 2: Core-to-Tail Extrap,Thermodynamic,263.0,265.18829345703125,0.8332999999999999,EA-iBA
+42,Suite 2: Core-to-Tail Extrap,Thermodynamic,276.0,281.12347412109375,0.1625,EHA-BMA
+42,Suite 2: Core-to-Tail Extrap,Thermodynamic,224.0,227.9036865234375,0.7537999999999999,EHA-BMA
+42,Suite 2: Core-to-Tail Extrap,Thermodynamic,336.0,332.9073486328125,0.1818,tBA-EMA
+42,Suite 2: Core-to-Tail Extrap,Thermodynamic,320.0,320.5030212402344,0.7778,tBA-EMA
+42,Suite 2: Core-to-Tail Extrap,Thermodynamic,331.0,325.03778076171875,0.2159,tBA-iBMA
+42,Suite 2: Core-to-Tail Extrap,Thermodynamic,318.0,318.4812927246094,0.8172,tBA-iBMA
+42,Suite 2: Core-to-Tail Extrap,Thermodynamic,367.0,369.6736755371094,0.8525,MMA-BMA
+42,Suite 2: Core-to-Tail Extrap,Thermodynamic,279.0,282.71343994140625,0.8525,EA-tBMA
+42,Suite 2: Core-to-Tail Extrap,Thermodynamic,333.0,330.10845947265625,0.2,BMA-iBMA
+42,Suite 2: Core-to-Tail Extrap,Thermodynamic,317.0,314.8956604003906,0.7976000000000001,BMA-iBMA
+42,Suite 2: Core-to-Tail Extrap,Thermodynamic,289.0,289.1278076171875,0.8543000000000001,MA-iBA
+42,Suite 2: Core-to-Tail Extrap,Thermodynamic,249.0,249.5055389404297,0.8523000000000001,iBA-EHA
+42,Suite 2: Core-to-Tail Extrap,Thermodynamic,355.0,352.95770263671875,0.16949999999999998,iBA-S
+42,Suite 2: Core-to-Tail Extrap,Thermodynamic,279.0,282.4185791015625,0.7624,iBA-S
+42,Suite 2: Core-to-Tail Extrap,Thermodynamic,270.0,272.7552795410156,0.22460000000000002,MA-EA
+42,Suite 2: Core-to-Tail Extrap,Thermodynamic,289.0,290.1127014160156,0.8239,MA-EA
+42,Suite 2: Core-to-Tail Extrap,Thermodynamic,378.0,367.8756408691406,0.2159,tBA-tBMA
+42,Suite 2: Core-to-Tail Extrap,Thermodynamic,336.0,334.56683349609375,0.8172,tBA-tBMA
+42,Suite 2: Core-to-Tail Extrap,Thermodynamic,349.0,351.29376220703125,0.16390000000000002,BA-MMA
+42,Suite 2: Core-to-Tail Extrap,Thermodynamic,255.0,257.7667236328125,0.7573000000000001,BA-MMA
+42,Suite 2: Core-to-Tail Extrap,Thermodynamic,305.0,307.26336669921875,0.1625,EHA-iBMA
+42,Suite 2: Core-to-Tail Extrap,Thermodynamic,231.0,233.632568359375,0.7537999999999999,EHA-iBMA
+42,Suite 2: Core-to-Tail Extrap,Thermodynamic,309.0,310.56005859375,0.2,iBA-tBA
+42,Suite 2: Core-to-Tail Extrap,Thermodynamic,265.0,271.1264343261719,0.8,iBA-tBA
+42,Suite 2: Core-to-Tail Extrap,Thermodynamic,347.0,347.4536437988281,0.16949999999999998,BA-S
+42,Suite 2: Core-to-Tail Extrap,Thermodynamic,257.0,261.1844787597656,0.7624,BA-S
+42,Suite 2: Core-to-Tail Extrap,BigSMILES_LM,325.0,310.58428955078125,0.24789999999999998,MA-EMA
+42,Suite 2: Core-to-Tail Extrap,BigSMILES_LM,296.0,305.39990234375,0.8387,MA-EMA
+42,Suite 2: Core-to-Tail Extrap,BigSMILES_LM,315.0,346.73138427734375,0.2386,EMA-BMA
+42,Suite 2: Core-to-Tail Extrap,BigSMILES_LM,334.0,333.974365234375,0.8301999999999999,EMA-BMA
+42,Suite 2: Core-to-Tail Extrap,BigSMILES_LM,295.0,280.9670715332031,0.8523000000000001,tBA-EHA
+42,Suite 2: Core-to-Tail Extrap,BigSMILES_LM,241.0,290.3854064941406,0.2427,EA-BA
+42,Suite 2: Core-to-Tail Extrap,BigSMILES_LM,259.0,260.4095458984375,0.8332999999999999,EA-BA
+42,Suite 2: Core-to-Tail Extrap,BigSMILES_LM,260.0,274.197998046875,0.2427,EA-iBA
+42,Suite 2: Core-to-Tail Extrap,BigSMILES_LM,263.0,266.51678466796875,0.8332999999999999,EA-iBA
+42,Suite 2: Core-to-Tail Extrap,BigSMILES_LM,276.0,279.126953125,0.1625,EHA-BMA
+42,Suite 2: Core-to-Tail Extrap,BigSMILES_LM,224.0,283.3304443359375,0.7537999999999999,EHA-BMA
+42,Suite 2: Core-to-Tail Extrap,BigSMILES_LM,336.0,336.72833251953125,0.1818,tBA-EMA
+42,Suite 2: Core-to-Tail Extrap,BigSMILES_LM,320.0,330.98651123046875,0.7778,tBA-EMA
+42,Suite 2: Core-to-Tail Extrap,BigSMILES_LM,331.0,350.9280090332031,0.2159,tBA-iBMA
+42,Suite 2: Core-to-Tail Extrap,BigSMILES_LM,318.0,336.61431884765625,0.8172,tBA-iBMA
+42,Suite 2: Core-to-Tail Extrap,BigSMILES_LM,367.0,353.1065673828125,0.8525,MMA-BMA
+42,Suite 2: Core-to-Tail Extrap,BigSMILES_LM,279.0,327.9898986816406,0.8525,EA-tBMA
+42,Suite 2: Core-to-Tail Extrap,BigSMILES_LM,333.0,336.9482421875,0.2,BMA-iBMA
+42,Suite 2: Core-to-Tail Extrap,BigSMILES_LM,317.0,305.2497253417969,0.7976000000000001,BMA-iBMA
+42,Suite 2: Core-to-Tail Extrap,BigSMILES_LM,289.0,288.6605529785156,0.8543000000000001,MA-iBA
+42,Suite 2: Core-to-Tail Extrap,BigSMILES_LM,249.0,247.66204833984375,0.8523000000000001,iBA-EHA
+42,Suite 2: Core-to-Tail Extrap,BigSMILES_LM,355.0,350.49261474609375,0.16949999999999998,iBA-S
+42,Suite 2: Core-to-Tail Extrap,BigSMILES_LM,279.0,351.088134765625,0.7624,iBA-S
+42,Suite 2: Core-to-Tail Extrap,BigSMILES_LM,270.0,298.16448974609375,0.22460000000000002,MA-EA
+42,Suite 2: Core-to-Tail Extrap,BigSMILES_LM,289.0,300.5129699707031,0.8239,MA-EA
+42,Suite 2: Core-to-Tail Extrap,BigSMILES_LM,378.0,365.1297607421875,0.2159,tBA-tBMA
+42,Suite 2: Core-to-Tail Extrap,BigSMILES_LM,336.0,352.9424743652344,0.8172,tBA-tBMA
+42,Suite 2: Core-to-Tail Extrap,BigSMILES_LM,349.0,334.9659118652344,0.16390000000000002,BA-MMA
+42,Suite 2: Core-to-Tail Extrap,BigSMILES_LM,255.0,285.5490417480469,0.7573000000000001,BA-MMA
+42,Suite 2: Core-to-Tail Extrap,BigSMILES_LM,305.0,305.84716796875,0.1625,EHA-iBMA
+42,Suite 2: Core-to-Tail Extrap,BigSMILES_LM,231.0,273.4981384277344,0.7537999999999999,EHA-iBMA
+42,Suite 2: Core-to-Tail Extrap,BigSMILES_LM,309.0,317.9264221191406,0.2,iBA-tBA
+42,Suite 2: Core-to-Tail Extrap,BigSMILES_LM,265.0,304.64508056640625,0.8,iBA-tBA
+42,Suite 2: Core-to-Tail Extrap,BigSMILES_LM,347.0,339.2264404296875,0.16949999999999998,BA-S
+42,Suite 2: Core-to-Tail Extrap,BigSMILES_LM,257.0,328.0496826171875,0.7624,BA-S
+42,Suite 2: Core-to-Tail Extrap,Gordon-Taylor,325.0,319.3704434845676,0.24789999999999998,MA-EMA
+42,Suite 2: Core-to-Tail Extrap,Gordon-Taylor,296.0,298.1351057970016,0.8387,MA-EMA
+42,Suite 2: Core-to-Tail Extrap,Gordon-Taylor,315.0,312.0645713960088,0.2386,EMA-BMA
+42,Suite 2: Core-to-Tail Extrap,Gordon-Taylor,334.0,332.92306597886136,0.8301999999999999,EMA-BMA
+42,Suite 2: Core-to-Tail Extrap,Gordon-Taylor,295.0,297.5616582958306,0.8523000000000001,tBA-EHA
+42,Suite 2: Core-to-Tail Extrap,Gordon-Taylor,241.0,239.71903385306248,0.2427,EA-BA
+42,Suite 2: Core-to-Tail Extrap,Gordon-Taylor,259.0,259.9974548393838,0.8332999999999999,EA-BA
+42,Suite 2: Core-to-Tail Extrap,Gordon-Taylor,260.0,259.03711024565985,0.2427,EA-iBA
+42,Suite 2: Core-to-Tail Extrap,Gordon-Taylor,263.0,263.99379747746224,0.8332999999999999,EA-iBA
+42,Suite 2: Core-to-Tail Extrap,Gordon-Taylor,276.0,277.28678539824256,0.1625,EHA-BMA
+42,Suite 2: Core-to-Tail Extrap,Gordon-Taylor,224.0,226.22073718803307,0.7537999999999999,EHA-BMA
+42,Suite 2: Core-to-Tail Extrap,Gordon-Taylor,336.0,330.20449298130563,0.1818,tBA-EMA
+42,Suite 2: Core-to-Tail Extrap,Gordon-Taylor,320.0,328.1690103857342,0.7778,tBA-EMA
+42,Suite 2: Core-to-Tail Extrap,Gordon-Taylor,331.0,329.38326088433604,0.2159,tBA-iBMA
+42,Suite 2: Core-to-Tail Extrap,Gordon-Taylor,318.0,328.0995578749368,0.8172,tBA-iBMA
+42,Suite 2: Core-to-Tail Extrap,Gordon-Taylor,367.0,366.0481181034484,0.8525,MMA-BMA
+42,Suite 2: Core-to-Tail Extrap,Gordon-Taylor,279.0,282.89847989580596,0.8525,EA-tBMA
+42,Suite 2: Core-to-Tail Extrap,Gordon-Taylor,333.0,333.1769527451787,0.2,BMA-iBMA
+42,Suite 2: Core-to-Tail Extrap,Gordon-Taylor,317.0,315.19529736497384,0.7976000000000001,BMA-iBMA
+42,Suite 2: Core-to-Tail Extrap,Gordon-Taylor,289.0,287.2317872836307,0.8543000000000001,MA-iBA
+42,Suite 2: Core-to-Tail Extrap,Gordon-Taylor,249.0,247.59736496402806,0.8523000000000001,iBA-EHA
+42,Suite 2: Core-to-Tail Extrap,Gordon-Taylor,355.0,353.11093659514864,0.16949999999999998,iBA-S
+42,Suite 2: Core-to-Tail Extrap,Gordon-Taylor,279.0,279.1634853913911,0.7624,iBA-S
+42,Suite 2: Core-to-Tail Extrap,Gordon-Taylor,270.0,271.70776949434196,0.22460000000000002,MA-EA
+42,Suite 2: Core-to-Tail Extrap,Gordon-Taylor,289.0,289.6917272610182,0.8239,MA-EA
+42,Suite 2: Core-to-Tail Extrap,Gordon-Taylor,378.0,366.22534523746907,0.2159,tBA-tBMA
+42,Suite 2: Core-to-Tail Extrap,Gordon-Taylor,336.0,337.94305809375226,0.8172,tBA-tBMA
+42,Suite 2: Core-to-Tail Extrap,Gordon-Taylor,349.0,343.8194696779552,0.16390000000000002,BA-MMA
+42,Suite 2: Core-to-Tail Extrap,Gordon-Taylor,255.0,255.60496134665388,0.7573000000000001,BA-MMA
+42,Suite 2: Core-to-Tail Extrap,Gordon-Taylor,305.0,303.2443301054529,0.1625,EHA-iBMA
+42,Suite 2: Core-to-Tail Extrap,Gordon-Taylor,231.0,232.33904719223116,0.7537999999999999,EHA-iBMA
+42,Suite 2: Core-to-Tail Extrap,Gordon-Taylor,309.0,310.80156189613,0.2,iBA-tBA
+42,Suite 2: Core-to-Tail Extrap,Gordon-Taylor,265.0,267.95755334353254,0.8,iBA-tBA
+42,Suite 2: Core-to-Tail Extrap,Gordon-Taylor,347.0,346.456674277993,0.16949999999999998,BA-S
+42,Suite 2: Core-to-Tail Extrap,Gordon-Taylor,257.0,257.1324533593483,0.7624,BA-S
+42,Suite 2: Core-to-Tail Extrap,Fox,325.0,327.611295567122,0.24789999999999998,MA-EMA
+42,Suite 2: Core-to-Tail Extrap,Fox,296.0,301.4351981943941,0.8387,MA-EMA
+42,Suite 2: Core-to-Tail Extrap,Fox,315.0,312.6799718980006,0.2386,EMA-BMA
+42,Suite 2: Core-to-Tail Extrap,Fox,334.0,333.50163856398115,0.8301999999999999,EMA-BMA
+42,Suite 2: Core-to-Tail Extrap,Fox,295.0,304.37209013246576,0.8523000000000001,tBA-EHA
+42,Suite 2: Core-to-Tail Extrap,Fox,241.0,237.6167372629437,0.2427,EA-BA
+42,Suite 2: Core-to-Tail Extrap,Fox,259.0,258.4439511606656,0.8332999999999999,EA-BA
+42,Suite 2: Core-to-Tail Extrap,Fox,260.0,258.12765371322945,0.2427,EA-iBA
+42,Suite 2: Core-to-Tail Extrap,Fox,263.0,263.4560037405782,0.8332999999999999,EA-iBA
+42,Suite 2: Core-to-Tail Extrap,Fox,276.0,285.57430593358737,0.1625,EHA-BMA
+42,Suite 2: Core-to-Tail Extrap,Fox,224.0,231.84321988954966,0.7537999999999999,EHA-BMA
+42,Suite 2: Core-to-Tail Extrap,Fox,336.0,337.75352714990777,0.1818,tBA-EMA
+42,Suite 2: Core-to-Tail Extrap,Fox,320.0,330.59262403745134,0.7778,tBA-EMA
+42,Suite 2: Core-to-Tail Extrap,Fox,331.0,335.0153405238661,0.2159,tBA-iBMA
+42,Suite 2: Core-to-Tail Extrap,Fox,318.0,329.60911846199906,0.8172,tBA-iBMA
+42,Suite 2: Core-to-Tail Extrap,Fox,367.0,365.11040559905626,0.8525,MMA-BMA
+42,Suite 2: Core-to-Tail Extrap,Fox,279.0,276.9841822869486,0.8525,EA-tBMA
+42,Suite 2: Core-to-Tail Extrap,Fox,333.0,330.0738599871547,0.2,BMA-iBMA
+42,Suite 2: Core-to-Tail Extrap,Fox,317.0,310.976657614352,0.7976000000000001,BMA-iBMA
+42,Suite 2: Core-to-Tail Extrap,Fox,289.0,288.5942228419729,0.8543000000000001,MA-iBA
+42,Suite 2: Core-to-Tail Extrap,Fox,249.0,248.98702001350787,0.8523000000000001,iBA-EHA
+42,Suite 2: Core-to-Tail Extrap,Fox,355.0,351.1685161253059,0.16949999999999998,iBA-S
+42,Suite 2: Core-to-Tail Extrap,Fox,279.0,277.51659165807035,0.7624,iBA-S
+42,Suite 2: Core-to-Tail Extrap,Fox,270.0,271.1942607766546,0.22460000000000002,MA-EA
+42,Suite 2: Core-to-Tail Extrap,Fox,289.0,289.23387708438935,0.8239,MA-EA
+42,Suite 2: Core-to-Tail Extrap,Fox,378.0,363.74680501663033,0.2159,tBA-tBMA
+42,Suite 2: Core-to-Tail Extrap,Fox,336.0,335.6909939837624,0.8172,tBA-tBMA
+42,Suite 2: Core-to-Tail Extrap,Fox,349.0,341.9372194769706,0.16390000000000002,BA-MMA
+42,Suite 2: Core-to-Tail Extrap,Fox,255.0,254.15077858889313,0.7573000000000001,BA-MMA
+42,Suite 2: Core-to-Tail Extrap,Fox,305.0,308.5489194080698,0.1625,EHA-iBMA
+42,Suite 2: Core-to-Tail Extrap,Fox,231.0,236.03775822279906,0.7537999999999999,EHA-iBMA
+42,Suite 2: Core-to-Tail Extrap,Fox,309.0,310.5325443786982,0.2,iBA-tBA
+42,Suite 2: Core-to-Tail Extrap,Fox,265.0,267.7551020408163,0.8,iBA-tBA
+42,Suite 2: Core-to-Tail Extrap,Fox,347.0,342.17480669472445,0.16949999999999998,BA-S
+42,Suite 2: Core-to-Tail Extrap,Fox,257.0,253.80415843884307,0.7624,BA-S
+42,Suite 2: Core-to-Tail Extrap,Linear,325.0,328.8445,0.24789999999999998,MA-EMA
+42,Suite 2: Core-to-Tail Extrap,Linear,296.0,302.2585,0.8387,MA-EMA
+42,Suite 2: Core-to-Tail Extrap,Linear,315.0,313.351,0.2386,EMA-BMA
+42,Suite 2: Core-to-Tail Extrap,Linear,334.0,334.057,0.8301999999999999,EMA-BMA
+42,Suite 2: Core-to-Tail Extrap,Linear,295.0,311.3099,0.8523000000000001,tBA-EHA
+42,Suite 2: Core-to-Tail Extrap,Linear,241.0,238.49450000000002,0.2427,EA-BA
+42,Suite 2: Core-to-Tail Extrap,Linear,259.0,259.1655,0.8332999999999999,EA-BA
+42,Suite 2: Core-to-Tail Extrap,Linear,260.0,258.1843,0.2427,EA-iBA
+42,Suite 2: Core-to-Tail Extrap,Linear,263.0,263.49969999999996,0.8332999999999999,EA-iBA
+42,Suite 2: Core-to-Tail Extrap,Linear,276.0,290.375,0.1625,EHA-BMA
+42,Suite 2: Core-to-Tail Extrap,Linear,224.0,237.15800000000002,0.7537999999999999,EHA-BMA
+42,Suite 2: Core-to-Tail Extrap,Linear,336.0,337.8184,0.1818,tBA-EMA
+42,Suite 2: Core-to-Tail Extrap,Linear,320.0,330.6664,0.7778,tBA-EMA
+42,Suite 2: Core-to-Tail Extrap,Linear,331.0,335.0569,0.2159,tBA-iBMA
+42,Suite 2: Core-to-Tail Extrap,Linear,318.0,329.6452,0.8172,tBA-iBMA
+42,Suite 2: Core-to-Tail Extrap,Linear,367.0,367.2325,0.8525,MMA-BMA
+42,Suite 2: Core-to-Tail Extrap,Linear,279.0,281.225,0.8525,EA-tBMA
+42,Suite 2: Core-to-Tail Extrap,Linear,333.0,330.6,0.2,BMA-iBMA
+42,Suite 2: Core-to-Tail Extrap,Linear,317.0,311.4768,0.7976000000000001,BMA-iBMA
+42,Suite 2: Core-to-Tail Extrap,Linear,289.0,289.3177,0.8543000000000001,MA-iBA
+42,Suite 2: Core-to-Tail Extrap,Linear,249.0,249.9443,0.8523000000000001,iBA-EHA
+42,Suite 2: Core-to-Tail Extrap,Linear,355.0,358.982,0.16949999999999998,iBA-S
+42,Suite 2: Core-to-Tail Extrap,Linear,279.0,285.4624,0.7624,iBA-S
+42,Suite 2: Core-to-Tail Extrap,Linear,270.0,271.738,0.22460000000000002,MA-EA
+42,Suite 2: Core-to-Tail Extrap,Linear,289.0,289.717,0.8239,MA-EA
+42,Suite 2: Core-to-Tail Extrap,Linear,378.0,364.8527,0.2159,tBA-tBMA
+42,Suite 2: Core-to-Tail Extrap,Linear,336.0,336.59159999999997,0.8172,tBA-tBMA
+42,Suite 2: Core-to-Tail Extrap,Linear,349.0,353.7428,0.16390000000000002,BA-MMA
+42,Suite 2: Core-to-Tail Extrap,Linear,255.0,265.9196,0.7573000000000001,BA-MMA
+42,Suite 2: Core-to-Tail Extrap,Linear,305.0,317.175,0.1625,EHA-iBMA
+42,Suite 2: Core-to-Tail Extrap,Linear,231.0,245.03640000000001,0.7537999999999999,EHA-iBMA
+42,Suite 2: Core-to-Tail Extrap,Linear,309.0,313.6,0.2,iBA-tBA
+42,Suite 2: Core-to-Tail Extrap,Linear,265.0,270.4,0.8,iBA-tBA
+42,Suite 2: Core-to-Tail Extrap,Linear,347.0,354.57500000000005,0.16949999999999998,BA-S
+42,Suite 2: Core-to-Tail Extrap,Linear,257.0,265.64,0.7624,BA-S
+42,Suite 3: One-Sided Extrap,Random Forest,271.0,285.41,0.6889,MA-BA
+42,Suite 3: One-Sided Extrap,Random Forest,283.0,290.82,0.8543000000000001,MA-BA
+42,Suite 3: One-Sided Extrap,Random Forest,338.0,298.31,0.6024,BMA-tBMA
+42,Suite 3: One-Sided Extrap,Random Forest,327.0,292.43,0.7976000000000001,BMA-tBMA
+42,Suite 3: One-Sided Extrap,Random Forest,281.0,289.5392857142857,0.5743,iBA-EMA
+42,Suite 3: One-Sided Extrap,Random Forest,268.0,275.08,0.7778,iBA-EMA
+42,Suite 3: One-Sided Extrap,Random Forest,261.0,255.43,0.5362,EHA-tBMA
+42,Suite 3: One-Sided Extrap,Random Forest,238.0,241.61,0.7537999999999999,EHA-tBMA
+42,Suite 3: One-Sided Extrap,Random Forest,368.0,333.06,0.6786,MMA-iBMA
+42,Suite 3: One-Sided Extrap,Random Forest,372.0,332.88,0.8525,MMA-iBMA
+42,Suite 3: One-Sided Extrap,Random Forest,353.0,326.54,0.5776,EMA-S
+42,Suite 3: One-Sided Extrap,Random Forest,349.0,319.37333333333333,0.7876000000000001,EMA-S
+42,Suite 3: One-Sided Extrap,Random Forest,249.0,255.77,0.6222,BA-BMA
+42,Suite 3: One-Sided Extrap,Random Forest,239.0,248.89,0.8172,BA-BMA
+42,Suite 3: One-Sided Extrap,Random Forest,338.0,325.94,0.65,EMA-iBMA
+42,Suite 3: One-Sided Extrap,Random Forest,337.0,326.18,0.8301999999999999,EMA-iBMA
+42,Suite 3: One-Sided Extrap,Random Forest,356.0,320.65,0.6024,iBMA-tBMA
+42,Suite 3: One-Sided Extrap,Random Forest,352.0,304.04,0.7976000000000001,iBMA-tBMA
+42,Suite 3: One-Sided Extrap,Random Forest,281.0,302.80704761904764,0.6581,EA-tBA
+42,Suite 3: One-Sided Extrap,Random Forest,273.0,290.43571428571425,0.8332999999999999,EA-tBA
+42,Suite 3: One-Sided Extrap,Random Forest,326.0,327.246,0.5368999999999999,MA-MMA
+42,Suite 3: One-Sided Extrap,Random Forest,319.0,319.14099999999996,0.634,MA-MMA
+42,Suite 3: One-Sided Extrap,Random Forest,311.0,313.57099999999997,0.7308,MA-MMA
+42,Suite 3: One-Sided Extrap,Random Forest,307.0,310.301,0.8239,MA-MMA
+42,Suite 3: One-Sided Extrap,Random Forest,303.0,309.86,0.9140999999999999,MA-MMA
+42,Suite 3: One-Sided Extrap,Random Forest,370.0,333.67,0.629,MMA-EMA
+42,Suite 3: One-Sided Extrap,Random Forest,375.0,328.3271428571429,0.8217,MMA-EMA
+42,Suite 3: One-Sided Extrap,Random Forest,359.0,323.2140151515151,0.65,EMA-tBMA
+42,Suite 3: One-Sided Extrap,Random Forest,354.0,320.25468181818184,0.8301999999999999,EMA-tBMA
+42,Suite 3: One-Sided Extrap,Random Forest,266.0,264.08,0.6786,EA-BMA
+42,Suite 3: One-Sided Extrap,Random Forest,265.0,271.48,0.8525,EA-BMA
+42,Suite 3: One-Sided Extrap,Random Forest,375.0,338.515,0.6786,MMA-tBMA
+42,Suite 3: One-Sided Extrap,Random Forest,375.0,334.07,0.8525,MMA-tBMA
+42,Suite 3: One-Sided Extrap,Random Forest,337.0,307.764,0.6857,EMA-VC
+42,Suite 3: One-Sided Extrap,Random Forest,293.0,278.74,0.5221,MA-BMA
+42,Suite 3: One-Sided Extrap,Random Forest,288.0,288.2157142857143,0.7132,MA-BMA
+42,Suite 3: One-Sided Extrap,Random Forest,290.0,294.8533333333333,0.8706999999999999,MA-BMA
+42,Suite 3: One-Sided Extrap,Random Forest,292.0,301.02,0.9362999999999999,MA-BMA
+42,Suite 3: One-Sided Extrap,Random Forest,343.0,307.53766666666667,0.6525,EMA-AN
+42,Suite 3: One-Sided Extrap,Random Forest,277.0,270.07,0.622,BA-AN
+42,Suite 3: One-Sided Extrap,Random Forest,349.0,302.565,0.5982999999999999,iBMA-AN
+42,Suite 3: One-Sided Extrap,XGBoost,271.0,295.91925048828125,0.6889,MA-BA
+42,Suite 3: One-Sided Extrap,XGBoost,283.0,296.00567626953125,0.8543000000000001,MA-BA
+42,Suite 3: One-Sided Extrap,XGBoost,338.0,298.3371887207031,0.6024,BMA-tBMA
+42,Suite 3: One-Sided Extrap,XGBoost,327.0,292.8701171875,0.7976000000000001,BMA-tBMA
+42,Suite 3: One-Sided Extrap,XGBoost,281.0,302.33843994140625,0.5743,iBA-EMA
+42,Suite 3: One-Sided Extrap,XGBoost,268.0,273.637451171875,0.7778,iBA-EMA
+42,Suite 3: One-Sided Extrap,XGBoost,261.0,261.5603332519531,0.5362,EHA-tBMA
+42,Suite 3: One-Sided Extrap,XGBoost,238.0,247.0770263671875,0.7537999999999999,EHA-tBMA
+42,Suite 3: One-Sided Extrap,XGBoost,368.0,349.01849365234375,0.6786,MMA-iBMA
+42,Suite 3: One-Sided Extrap,XGBoost,372.0,344.2736511230469,0.8525,MMA-iBMA
+42,Suite 3: One-Sided Extrap,XGBoost,353.0,324.0323791503906,0.5776,EMA-S
+42,Suite 3: One-Sided Extrap,XGBoost,349.0,308.3955993652344,0.7876000000000001,EMA-S
+42,Suite 3: One-Sided Extrap,XGBoost,249.0,258.18096923828125,0.6222,BA-BMA
+42,Suite 3: One-Sided Extrap,XGBoost,239.0,255.6642303466797,0.8172,BA-BMA
+42,Suite 3: One-Sided Extrap,XGBoost,338.0,331.63677978515625,0.65,EMA-iBMA
+42,Suite 3: One-Sided Extrap,XGBoost,337.0,337.885986328125,0.8301999999999999,EMA-iBMA
+42,Suite 3: One-Sided Extrap,XGBoost,356.0,321.4903564453125,0.6024,iBMA-tBMA
+42,Suite 3: One-Sided Extrap,XGBoost,352.0,314.9848327636719,0.7976000000000001,iBMA-tBMA
+42,Suite 3: One-Sided Extrap,XGBoost,281.0,300.4198913574219,0.6581,EA-tBA
+42,Suite 3: One-Sided Extrap,XGBoost,273.0,287.22088623046875,0.8332999999999999,EA-tBA
+42,Suite 3: One-Sided Extrap,XGBoost,326.0,323.8843688964844,0.5368999999999999,MA-MMA
+42,Suite 3: One-Sided Extrap,XGBoost,319.0,319.6626892089844,0.634,MA-MMA
+42,Suite 3: One-Sided Extrap,XGBoost,311.0,318.78436279296875,0.7308,MA-MMA
+42,Suite 3: One-Sided Extrap,XGBoost,307.0,309.9527893066406,0.8239,MA-MMA
+42,Suite 3: One-Sided Extrap,XGBoost,303.0,309.4995422363281,0.9140999999999999,MA-MMA
+42,Suite 3: One-Sided Extrap,XGBoost,370.0,343.8210754394531,0.629,MMA-EMA
+42,Suite 3: One-Sided Extrap,XGBoost,375.0,332.94366455078125,0.8217,MMA-EMA
+42,Suite 3: One-Sided Extrap,XGBoost,359.0,314.4374084472656,0.65,EMA-tBMA
+42,Suite 3: One-Sided Extrap,XGBoost,354.0,312.47430419921875,0.8301999999999999,EMA-tBMA
+42,Suite 3: One-Sided Extrap,XGBoost,266.0,260.5601806640625,0.6786,EA-BMA
+42,Suite 3: One-Sided Extrap,XGBoost,265.0,262.37939453125,0.8525,EA-BMA
+42,Suite 3: One-Sided Extrap,XGBoost,375.0,340.09228515625,0.6786,MMA-tBMA
+42,Suite 3: One-Sided Extrap,XGBoost,375.0,334.66351318359375,0.8525,MMA-tBMA
+42,Suite 3: One-Sided Extrap,XGBoost,337.0,302.7503356933594,0.6857,EMA-VC
+42,Suite 3: One-Sided Extrap,XGBoost,293.0,273.0991516113281,0.5221,MA-BMA
+42,Suite 3: One-Sided Extrap,XGBoost,288.0,289.8709716796875,0.7132,MA-BMA
+42,Suite 3: One-Sided Extrap,XGBoost,290.0,295.6911315917969,0.8706999999999999,MA-BMA
+42,Suite 3: One-Sided Extrap,XGBoost,292.0,299.2922058105469,0.9362999999999999,MA-BMA
+42,Suite 3: One-Sided Extrap,XGBoost,343.0,306.5927429199219,0.6525,EMA-AN
+42,Suite 3: One-Sided Extrap,XGBoost,277.0,258.49285888671875,0.622,BA-AN
+42,Suite 3: One-Sided Extrap,XGBoost,349.0,303.22637939453125,0.5982999999999999,iBMA-AN
+42,Suite 3: One-Sided Extrap,Concatenation,271.0,258.4178771972656,0.6889,MA-BA
+42,Suite 3: One-Sided Extrap,Concatenation,283.0,257.72247314453125,0.8543000000000001,MA-BA
+42,Suite 3: One-Sided Extrap,Concatenation,338.0,348.3334655761719,0.6024,BMA-tBMA
+42,Suite 3: One-Sided Extrap,Concatenation,327.0,346.7489013671875,0.7976000000000001,BMA-tBMA
+42,Suite 3: One-Sided Extrap,Concatenation,281.0,292.58209228515625,0.5743,iBA-EMA
+42,Suite 3: One-Sided Extrap,Concatenation,268.0,290.9651184082031,0.7778,iBA-EMA
+42,Suite 3: One-Sided Extrap,Concatenation,261.0,303.91241455078125,0.5362,EHA-tBMA
+42,Suite 3: One-Sided Extrap,Concatenation,238.0,301.38348388671875,0.7537999999999999,EHA-tBMA
+42,Suite 3: One-Sided Extrap,Concatenation,368.0,344.4502258300781,0.6786,MMA-iBMA
+42,Suite 3: One-Sided Extrap,Concatenation,372.0,343.0192565917969,0.8525,MMA-iBMA
+42,Suite 3: One-Sided Extrap,Concatenation,353.0,363.7115173339844,0.5776,EMA-S
+42,Suite 3: One-Sided Extrap,Concatenation,349.0,362.20660400390625,0.7876000000000001,EMA-S
+42,Suite 3: One-Sided Extrap,Concatenation,249.0,255.859619140625,0.6222,BA-BMA
+42,Suite 3: One-Sided Extrap,Concatenation,239.0,254.8260498046875,0.8172,BA-BMA
+42,Suite 3: One-Sided Extrap,Concatenation,338.0,328.549072265625,0.65,EMA-iBMA
+42,Suite 3: One-Sided Extrap,Concatenation,337.0,326.9418029785156,0.8301999999999999,EMA-iBMA
+42,Suite 3: One-Sided Extrap,Concatenation,356.0,366.2798767089844,0.6024,iBMA-tBMA
+42,Suite 3: One-Sided Extrap,Concatenation,352.0,365.26092529296875,0.7976000000000001,iBMA-tBMA
+42,Suite 3: One-Sided Extrap,Concatenation,281.0,285.2712707519531,0.6581,EA-tBA
+42,Suite 3: One-Sided Extrap,Concatenation,273.0,284.01922607421875,0.8332999999999999,EA-tBA
+42,Suite 3: One-Sided Extrap,Concatenation,326.0,335.16943359375,0.5368999999999999,MA-MMA
+42,Suite 3: One-Sided Extrap,Concatenation,319.0,334.1836242675781,0.634,MA-MMA
+42,Suite 3: One-Sided Extrap,Concatenation,311.0,333.1972961425781,0.7308,MA-MMA
+42,Suite 3: One-Sided Extrap,Concatenation,307.0,332.2350158691406,0.8239,MA-MMA
+42,Suite 3: One-Sided Extrap,Concatenation,303.0,331.28887939453125,0.9140999999999999,MA-MMA
+42,Suite 3: One-Sided Extrap,Concatenation,370.0,354.22100830078125,0.629,MMA-EMA
+42,Suite 3: One-Sided Extrap,Concatenation,375.0,352.8204650878906,0.8217,MMA-EMA
+42,Suite 3: One-Sided Extrap,Concatenation,359.0,362.372314453125,0.65,EMA-tBMA
+42,Suite 3: One-Sided Extrap,Concatenation,354.0,361.312744140625,0.8301999999999999,EMA-tBMA
+42,Suite 3: One-Sided Extrap,Concatenation,266.0,274.6120300292969,0.6786,EA-BMA
+42,Suite 3: One-Sided Extrap,Concatenation,265.0,273.5923767089844,0.8525,EA-BMA
+42,Suite 3: One-Sided Extrap,Concatenation,375.0,373.392333984375,0.6786,MMA-tBMA
+42,Suite 3: One-Sided Extrap,Concatenation,375.0,372.671142578125,0.8525,MMA-tBMA
+42,Suite 3: One-Sided Extrap,Concatenation,337.0,328.1844482421875,0.6857,EMA-VC
+42,Suite 3: One-Sided Extrap,Concatenation,293.0,289.0186767578125,0.5221,MA-BMA
+42,Suite 3: One-Sided Extrap,Concatenation,288.0,288.07708740234375,0.7132,MA-BMA
+42,Suite 3: One-Sided Extrap,Concatenation,290.0,287.30535888671875,0.8706999999999999,MA-BMA
+42,Suite 3: One-Sided Extrap,Concatenation,292.0,286.9579162597656,0.9362999999999999,MA-BMA
+42,Suite 3: One-Sided Extrap,Concatenation,343.0,358.67401123046875,0.6525,EMA-AN
+42,Suite 3: One-Sided Extrap,Concatenation,277.0,329.807373046875,0.622,BA-AN
+42,Suite 3: One-Sided Extrap,Concatenation,349.0,364.8121032714844,0.5982999999999999,iBMA-AN
+42,Suite 3: One-Sided Extrap,LatentConvex,271.0,270.1636962890625,0.6889,MA-BA
+42,Suite 3: One-Sided Extrap,LatentConvex,283.0,282.0386047363281,0.8543000000000001,MA-BA
+42,Suite 3: One-Sided Extrap,LatentConvex,338.0,334.096435546875,0.6024,BMA-tBMA
+42,Suite 3: One-Sided Extrap,LatentConvex,327.0,319.00653076171875,0.7976000000000001,BMA-tBMA
+42,Suite 3: One-Sided Extrap,LatentConvex,281.0,281.2929382324219,0.5743,iBA-EMA
+42,Suite 3: One-Sided Extrap,LatentConvex,268.0,267.86920166015625,0.7778,iBA-EMA
+42,Suite 3: One-Sided Extrap,LatentConvex,261.0,265.4595642089844,0.5362,EHA-tBMA
+42,Suite 3: One-Sided Extrap,LatentConvex,238.0,235.94395446777344,0.7537999999999999,EHA-tBMA
+42,Suite 3: One-Sided Extrap,LatentConvex,368.0,362.1791687011719,0.6786,MMA-iBMA
+42,Suite 3: One-Sided Extrap,LatentConvex,372.0,371.06634521484375,0.8525,MMA-iBMA
+42,Suite 3: One-Sided Extrap,LatentConvex,353.0,356.0982971191406,0.5776,EMA-S
+42,Suite 3: One-Sided Extrap,LatentConvex,349.0,348.6544494628906,0.7876000000000001,EMA-S
+42,Suite 3: One-Sided Extrap,LatentConvex,249.0,250.65396118164062,0.6222,BA-BMA
+42,Suite 3: One-Sided Extrap,LatentConvex,239.0,241.93905639648438,0.8172,BA-BMA
+42,Suite 3: One-Sided Extrap,LatentConvex,338.0,337.2933349609375,0.65,EMA-iBMA
+42,Suite 3: One-Sided Extrap,LatentConvex,337.0,339.19927978515625,0.8301999999999999,EMA-iBMA
+42,Suite 3: One-Sided Extrap,LatentConvex,356.0,350.073486328125,0.6024,iBMA-tBMA
+42,Suite 3: One-Sided Extrap,LatentConvex,352.0,340.01385498046875,0.7976000000000001,iBMA-tBMA
+42,Suite 3: One-Sided Extrap,LatentConvex,281.0,280.13970947265625,0.6581,EA-tBA
+42,Suite 3: One-Sided Extrap,LatentConvex,273.0,270.85870361328125,0.8332999999999999,EA-tBA
+42,Suite 3: One-Sided Extrap,LatentConvex,326.0,323.88720703125,0.5368999999999999,MA-MMA
+42,Suite 3: One-Sided Extrap,LatentConvex,319.0,313.9073791503906,0.634,MA-MMA
+42,Suite 3: One-Sided Extrap,LatentConvex,311.0,306.8151550292969,0.7308,MA-MMA
+42,Suite 3: One-Sided Extrap,LatentConvex,307.0,301.3949279785156,0.8239,MA-MMA
+42,Suite 3: One-Sided Extrap,LatentConvex,303.0,296.9918518066406,0.9140999999999999,MA-MMA
+42,Suite 3: One-Sided Extrap,LatentConvex,370.0,366.1753234863281,0.629,MMA-EMA
+42,Suite 3: One-Sided Extrap,LatentConvex,375.0,372.3117370605469,0.8217,MMA-EMA
+42,Suite 3: One-Sided Extrap,LatentConvex,359.0,357.99334716796875,0.65,EMA-tBMA
+42,Suite 3: One-Sided Extrap,LatentConvex,354.0,350.2451171875,0.8301999999999999,EMA-tBMA
+42,Suite 3: One-Sided Extrap,LatentConvex,266.0,269.4643249511719,0.6786,EA-BMA
+42,Suite 3: One-Sided Extrap,LatentConvex,265.0,265.90185546875,0.8525,EA-BMA
+42,Suite 3: One-Sided Extrap,LatentConvex,375.0,377.0772705078125,0.6786,MMA-tBMA
+42,Suite 3: One-Sided Extrap,LatentConvex,375.0,377.01422119140625,0.8525,MMA-tBMA
+42,Suite 3: One-Sided Extrap,LatentConvex,337.0,330.82513427734375,0.6857,EMA-VC
+42,Suite 3: One-Sided Extrap,LatentConvex,293.0,289.9303894042969,0.5221,MA-BMA
+42,Suite 3: One-Sided Extrap,LatentConvex,288.0,290.162353515625,0.7132,MA-BMA
+42,Suite 3: One-Sided Extrap,LatentConvex,290.0,291.4186706542969,0.8706999999999999,MA-BMA
+42,Suite 3: One-Sided Extrap,LatentConvex,292.0,292.2034912109375,0.9362999999999999,MA-BMA
+42,Suite 3: One-Sided Extrap,LatentConvex,343.0,347.12567138671875,0.6525,EMA-AN
+42,Suite 3: One-Sided Extrap,LatentConvex,277.0,269.6298522949219,0.622,BA-AN
+42,Suite 3: One-Sided Extrap,LatentConvex,349.0,340.6453857421875,0.5982999999999999,iBMA-AN
+42,Suite 3: One-Sided Extrap,Thermodynamic,271.0,274.3133850097656,0.6889,MA-BA
+42,Suite 3: One-Sided Extrap,Thermodynamic,283.0,285.47027587890625,0.8543000000000001,MA-BA
+42,Suite 3: One-Sided Extrap,Thermodynamic,338.0,334.8561706542969,0.6024,BMA-tBMA
+42,Suite 3: One-Sided Extrap,Thermodynamic,327.0,322.12066650390625,0.7976000000000001,BMA-tBMA
+42,Suite 3: One-Sided Extrap,Thermodynamic,281.0,285.8457946777344,0.5743,iBA-EMA
+42,Suite 3: One-Sided Extrap,Thermodynamic,268.0,271.3795166015625,0.7778,iBA-EMA
+42,Suite 3: One-Sided Extrap,Thermodynamic,261.0,267.21502685546875,0.5362,EHA-tBMA
+42,Suite 3: One-Sided Extrap,Thermodynamic,238.0,238.65402221679688,0.7537999999999999,EHA-tBMA
+42,Suite 3: One-Sided Extrap,Thermodynamic,368.0,364.16943359375,0.6786,MMA-iBMA
+42,Suite 3: One-Sided Extrap,Thermodynamic,372.0,372.5140380859375,0.8525,MMA-iBMA
+42,Suite 3: One-Sided Extrap,Thermodynamic,353.0,355.9671325683594,0.5776,EMA-S
+42,Suite 3: One-Sided Extrap,Thermodynamic,349.0,350.22808837890625,0.7876000000000001,EMA-S
+42,Suite 3: One-Sided Extrap,Thermodynamic,249.0,251.1651611328125,0.6222,BA-BMA
+42,Suite 3: One-Sided Extrap,Thermodynamic,239.0,242.0250244140625,0.8172,BA-BMA
+42,Suite 3: One-Sided Extrap,Thermodynamic,338.0,339.0694885253906,0.65,EMA-iBMA
+42,Suite 3: One-Sided Extrap,Thermodynamic,337.0,341.2834777832031,0.8301999999999999,EMA-iBMA
+42,Suite 3: One-Sided Extrap,Thermodynamic,356.0,358.2300109863281,0.6024,iBMA-tBMA
+42,Suite 3: One-Sided Extrap,Thermodynamic,352.0,347.74456787109375,0.7976000000000001,iBMA-tBMA
+42,Suite 3: One-Sided Extrap,Thermodynamic,281.0,283.8076171875,0.6581,EA-tBA
+42,Suite 3: One-Sided Extrap,Thermodynamic,273.0,274.6572265625,0.8332999999999999,EA-tBA
+42,Suite 3: One-Sided Extrap,Thermodynamic,326.0,329.5833740234375,0.5368999999999999,MA-MMA
+42,Suite 3: One-Sided Extrap,Thermodynamic,319.0,318.9691162109375,0.634,MA-MMA
+42,Suite 3: One-Sided Extrap,Thermodynamic,311.0,310.9003601074219,0.7308,MA-MMA
+42,Suite 3: One-Sided Extrap,Thermodynamic,307.0,304.9840087890625,0.8239,MA-MMA
+42,Suite 3: One-Sided Extrap,Thermodynamic,303.0,300.1294250488281,0.9140999999999999,MA-MMA
+42,Suite 3: One-Sided Extrap,Thermodynamic,370.0,369.50799560546875,0.629,MMA-EMA
+42,Suite 3: One-Sided Extrap,Thermodynamic,375.0,374.66387939453125,0.8217,MMA-EMA
+42,Suite 3: One-Sided Extrap,Thermodynamic,359.0,360.18182373046875,0.65,EMA-tBMA
+42,Suite 3: One-Sided Extrap,Thermodynamic,354.0,353.13311767578125,0.8301999999999999,EMA-tBMA
+42,Suite 3: One-Sided Extrap,Thermodynamic,266.0,270.2957458496094,0.6786,EA-BMA
+42,Suite 3: One-Sided Extrap,Thermodynamic,265.0,267.27301025390625,0.8525,EA-BMA
+42,Suite 3: One-Sided Extrap,Thermodynamic,375.0,377.44915771484375,0.6786,MMA-tBMA
+42,Suite 3: One-Sided Extrap,Thermodynamic,375.0,378.1473388671875,0.8525,MMA-tBMA
+42,Suite 3: One-Sided Extrap,Thermodynamic,337.0,328.7577209472656,0.6857,EMA-VC
+42,Suite 3: One-Sided Extrap,Thermodynamic,293.0,291.2263488769531,0.5221,MA-BMA
+42,Suite 3: One-Sided Extrap,Thermodynamic,288.0,291.1073303222656,0.7132,MA-BMA
+42,Suite 3: One-Sided Extrap,Thermodynamic,290.0,293.00714111328125,0.8706999999999999,MA-BMA
+42,Suite 3: One-Sided Extrap,Thermodynamic,292.0,294.35211181640625,0.9362999999999999,MA-BMA
+42,Suite 3: One-Sided Extrap,Thermodynamic,343.0,338.0025329589844,0.6525,EMA-AN
+42,Suite 3: One-Sided Extrap,Thermodynamic,277.0,275.68048095703125,0.622,BA-AN
+42,Suite 3: One-Sided Extrap,Thermodynamic,349.0,342.0354919433594,0.5982999999999999,iBMA-AN
+42,Suite 3: One-Sided Extrap,BigSMILES_LM,271.0,272.07427978515625,0.6889,MA-BA
+42,Suite 3: One-Sided Extrap,BigSMILES_LM,283.0,300.7765197753906,0.8543000000000001,MA-BA
+42,Suite 3: One-Sided Extrap,BigSMILES_LM,338.0,339.3569641113281,0.6024,BMA-tBMA
+42,Suite 3: One-Sided Extrap,BigSMILES_LM,327.0,345.3055419921875,0.7976000000000001,BMA-tBMA
+42,Suite 3: One-Sided Extrap,BigSMILES_LM,281.0,297.45367431640625,0.5743,iBA-EMA
+42,Suite 3: One-Sided Extrap,BigSMILES_LM,268.0,294.6450500488281,0.7778,iBA-EMA
+42,Suite 3: One-Sided Extrap,BigSMILES_LM,261.0,297.1502380371094,0.5362,EHA-tBMA
+42,Suite 3: One-Sided Extrap,BigSMILES_LM,238.0,294.68536376953125,0.7537999999999999,EHA-tBMA
+42,Suite 3: One-Sided Extrap,BigSMILES_LM,368.0,341.680908203125,0.6786,MMA-iBMA
+42,Suite 3: One-Sided Extrap,BigSMILES_LM,372.0,346.1595764160156,0.8525,MMA-iBMA
+42,Suite 3: One-Sided Extrap,BigSMILES_LM,353.0,360.7188415527344,0.5776,EMA-S
+42,Suite 3: One-Sided Extrap,BigSMILES_LM,349.0,364.978271484375,0.7876000000000001,EMA-S
+42,Suite 3: One-Sided Extrap,BigSMILES_LM,249.0,279.3165588378906,0.6222,BA-BMA
+42,Suite 3: One-Sided Extrap,BigSMILES_LM,239.0,272.499267578125,0.8172,BA-BMA
+42,Suite 3: One-Sided Extrap,BigSMILES_LM,338.0,340.9554748535156,0.65,EMA-iBMA
+42,Suite 3: One-Sided Extrap,BigSMILES_LM,337.0,329.10955810546875,0.8301999999999999,EMA-iBMA
+42,Suite 3: One-Sided Extrap,BigSMILES_LM,356.0,365.4396057128906,0.6024,iBMA-tBMA
+42,Suite 3: One-Sided Extrap,BigSMILES_LM,352.0,359.76123046875,0.7976000000000001,iBMA-tBMA
+42,Suite 3: One-Sided Extrap,BigSMILES_LM,281.0,293.28692626953125,0.6581,EA-tBA
+42,Suite 3: One-Sided Extrap,BigSMILES_LM,273.0,284.4219665527344,0.8332999999999999,EA-tBA
+42,Suite 3: One-Sided Extrap,BigSMILES_LM,326.0,289.9328918457031,0.5368999999999999,MA-MMA
+42,Suite 3: One-Sided Extrap,BigSMILES_LM,319.0,329.5869445800781,0.634,MA-MMA
+42,Suite 3: One-Sided Extrap,BigSMILES_LM,311.0,333.9709777832031,0.7308,MA-MMA
+42,Suite 3: One-Sided Extrap,BigSMILES_LM,307.0,335.706298828125,0.8239,MA-MMA
+42,Suite 3: One-Sided Extrap,BigSMILES_LM,303.0,329.7884826660156,0.9140999999999999,MA-MMA
+42,Suite 3: One-Sided Extrap,BigSMILES_LM,370.0,305.9703674316406,0.629,MMA-EMA
+42,Suite 3: One-Sided Extrap,BigSMILES_LM,375.0,332.1051330566406,0.8217,MMA-EMA
+42,Suite 3: One-Sided Extrap,BigSMILES_LM,359.0,357.3138427734375,0.65,EMA-tBMA
+42,Suite 3: One-Sided Extrap,BigSMILES_LM,354.0,349.7158203125,0.8301999999999999,EMA-tBMA
+42,Suite 3: One-Sided Extrap,BigSMILES_LM,266.0,312.2580871582031,0.6786,EA-BMA
+42,Suite 3: One-Sided Extrap,BigSMILES_LM,265.0,297.4823913574219,0.8525,EA-BMA
+42,Suite 3: One-Sided Extrap,BigSMILES_LM,375.0,361.00836181640625,0.6786,MMA-tBMA
+42,Suite 3: One-Sided Extrap,BigSMILES_LM,375.0,364.51470947265625,0.8525,MMA-tBMA
+42,Suite 3: One-Sided Extrap,BigSMILES_LM,337.0,343.78106689453125,0.6857,EMA-VC
+42,Suite 3: One-Sided Extrap,BigSMILES_LM,293.0,275.2771301269531,0.5221,MA-BMA
+42,Suite 3: One-Sided Extrap,BigSMILES_LM,288.0,313.4066162109375,0.7132,MA-BMA
+42,Suite 3: One-Sided Extrap,BigSMILES_LM,290.0,323.01434326171875,0.8706999999999999,MA-BMA
+42,Suite 3: One-Sided Extrap,BigSMILES_LM,292.0,290.96893310546875,0.9362999999999999,MA-BMA
+42,Suite 3: One-Sided Extrap,BigSMILES_LM,343.0,365.84844970703125,0.6525,EMA-AN
+42,Suite 3: One-Sided Extrap,BigSMILES_LM,277.0,326.8638610839844,0.622,BA-AN
+42,Suite 3: One-Sided Extrap,BigSMILES_LM,349.0,346.6544494628906,0.5982999999999999,iBMA-AN
+42,Suite 3: One-Sided Extrap,Gordon-Taylor,271.0,272.6986272445405,0.6889,MA-BA
+42,Suite 3: One-Sided Extrap,Gordon-Taylor,283.0,284.2909603402456,0.8543000000000001,MA-BA
+42,Suite 3: One-Sided Extrap,Gordon-Taylor,338.0,338.5903643849756,0.6024,BMA-tBMA
+42,Suite 3: One-Sided Extrap,Gordon-Taylor,327.0,323.32807875797863,0.7976000000000001,BMA-tBMA
+42,Suite 3: One-Sided Extrap,Gordon-Taylor,281.0,284.75229033531946,0.5743,iBA-EMA
+42,Suite 3: One-Sided Extrap,Gordon-Taylor,268.0,270.0333277116882,0.7778,iBA-EMA
+42,Suite 3: One-Sided Extrap,Gordon-Taylor,261.0,268.7093039472276,0.5362,EHA-tBMA
+42,Suite 3: One-Sided Extrap,Gordon-Taylor,238.0,240.6367393727432,0.7537999999999999,EHA-tBMA
+42,Suite 3: One-Sided Extrap,Gordon-Taylor,368.0,359.7856506794891,0.6786,MMA-iBMA
+42,Suite 3: One-Sided Extrap,Gordon-Taylor,372.0,368.7331682791601,0.8525,MMA-iBMA
+42,Suite 3: One-Sided Extrap,Gordon-Taylor,353.0,352.271937806292,0.5776,EMA-S
+42,Suite 3: One-Sided Extrap,Gordon-Taylor,349.0,345.6123884068955,0.7876000000000001,EMA-S
+42,Suite 3: One-Sided Extrap,Gordon-Taylor,249.0,248.71980557287935,0.6222,BA-BMA
+42,Suite 3: One-Sided Extrap,Gordon-Taylor,239.0,238.18696328203956,0.8172,BA-BMA
+42,Suite 3: One-Sided Extrap,Gordon-Taylor,338.0,338.35070410704867,0.65,EMA-iBMA
+42,Suite 3: One-Sided Extrap,Gordon-Taylor,337.0,339.0494485235244,0.8301999999999999,EMA-iBMA
+42,Suite 3: One-Sided Extrap,Gordon-Taylor,356.0,363.27525241097,0.6024,iBMA-tBMA
+42,Suite 3: One-Sided Extrap,Gordon-Taylor,352.0,354.5874876524662,0.7976000000000001,iBMA-tBMA
+42,Suite 3: One-Sided Extrap,Gordon-Taylor,281.0,281.9433649626013,0.6581,EA-tBA
+42,Suite 3: One-Sided Extrap,Gordon-Taylor,273.0,272.81699470506663,0.8332999999999999,EA-tBA
+42,Suite 3: One-Sided Extrap,Gordon-Taylor,326.0,333.7822158136135,0.5368999999999999,MA-MMA
+42,Suite 3: One-Sided Extrap,Gordon-Taylor,319.0,325.7004190131405,0.634,MA-MMA
+42,Suite 3: One-Sided Extrap,Gordon-Taylor,311.0,317.617396718027,0.7308,MA-MMA
+42,Suite 3: One-Sided Extrap,Gordon-Taylor,307.0,309.8185399747678,0.8239,MA-MMA
+42,Suite 3: One-Sided Extrap,Gordon-Taylor,303.0,302.23931712161976,0.9140999999999999,MA-MMA
+42,Suite 3: One-Sided Extrap,Gordon-Taylor,370.0,370.49619899267236,0.629,MMA-EMA
+42,Suite 3: One-Sided Extrap,Gordon-Taylor,375.0,374.84572274388563,0.8217,MMA-EMA
+42,Suite 3: One-Sided Extrap,Gordon-Taylor,359.0,358.3464660889277,0.65,EMA-tBMA
+42,Suite 3: One-Sided Extrap,Gordon-Taylor,354.0,350.3252243772778,0.8301999999999999,EMA-tBMA
+42,Suite 3: One-Sided Extrap,Gordon-Taylor,266.0,269.35809768554964,0.6786,EA-BMA
+42,Suite 3: One-Sided Extrap,Gordon-Taylor,265.0,266.7103428566811,0.8525,EA-BMA
+42,Suite 3: One-Sided Extrap,Gordon-Taylor,375.0,377.35609131163795,0.6786,MMA-tBMA
+42,Suite 3: One-Sided Extrap,Gordon-Taylor,375.0,377.7276733501111,0.8525,MMA-tBMA
+42,Suite 3: One-Sided Extrap,Gordon-Taylor,337.0,340.22407040582345,0.6857,EMA-VC
+42,Suite 3: One-Sided Extrap,Gordon-Taylor,293.0,299.779,0.5221,MA-BMA
+42,Suite 3: One-Sided Extrap,Gordon-Taylor,288.0,297.868,0.7132,MA-BMA
+42,Suite 3: One-Sided Extrap,Gordon-Taylor,290.0,296.293,0.8706999999999999,MA-BMA
+42,Suite 3: One-Sided Extrap,Gordon-Taylor,292.0,295.637,0.9362999999999999,MA-BMA
+42,Suite 3: One-Sided Extrap,Gordon-Taylor,343.0,343.5109230895836,0.6525,EMA-AN
+42,Suite 3: One-Sided Extrap,Gordon-Taylor,277.0,274.4058127799203,0.622,BA-AN
+42,Suite 3: One-Sided Extrap,Gordon-Taylor,349.0,348.2008953603939,0.5982999999999999,iBMA-AN
+42,Suite 3: One-Sided Extrap,Fox,271.0,271.15975245932106,0.6889,MA-BA
+42,Suite 3: One-Sided Extrap,Fox,283.0,283.3334377303259,0.8543000000000001,MA-BA
+42,Suite 3: One-Sided Extrap,Fox,338.0,329.4514471379851,0.6024,BMA-tBMA
+42,Suite 3: One-Sided Extrap,Fox,327.0,316.97576711599856,0.7976000000000001,BMA-tBMA
+42,Suite 3: One-Sided Extrap,Fox,281.0,286.0888005963689,0.5743,iBA-EMA
+42,Suite 3: One-Sided Extrap,Fox,268.0,270.86979577712,0.7778,iBA-EMA
+42,Suite 3: One-Sided Extrap,Fox,261.0,268.04236814808905,0.5362,EHA-tBMA
+42,Suite 3: One-Sided Extrap,Fox,238.0,240.23563204691186,0.7537999999999999,EHA-tBMA
+42,Suite 3: One-Sided Extrap,Fox,368.0,363.7756177297564,0.6786,MMA-iBMA
+42,Suite 3: One-Sided Extrap,Fox,372.0,371.3363309745735,0.8525,MMA-iBMA
+42,Suite 3: One-Sided Extrap,Fox,353.0,355.8209218295585,0.5776,EMA-S
+42,Suite 3: One-Sided Extrap,Fox,349.0,347.7755286618717,0.7876000000000001,EMA-S
+42,Suite 3: One-Sided Extrap,Fox,249.0,253.55574431171274,0.6222,BA-BMA
+42,Suite 3: One-Sided Extrap,Fox,239.0,240.82529438017093,0.8172,BA-BMA
+42,Suite 3: One-Sided Extrap,Fox,338.0,338.9439432036681,0.65,EMA-iBMA
+42,Suite 3: One-Sided Extrap,Fox,337.0,339.48684095909624,0.8301999999999999,EMA-iBMA
+42,Suite 3: One-Sided Extrap,Fox,356.0,351.1477913324916,0.6024,iBMA-tBMA
+42,Suite 3: One-Sided Extrap,Fox,352.0,344.0565540493448,0.7976000000000001,iBMA-tBMA
+42,Suite 3: One-Sided Extrap,Fox,281.0,283.6256441698974,0.6581,EA-tBA
+42,Suite 3: One-Sided Extrap,Fox,273.0,273.765590260597,0.8332999999999999,EA-tBA
+42,Suite 3: One-Sided Extrap,Fox,326.0,328.3929595329522,0.5368999999999999,MA-MMA
+42,Suite 3: One-Sided Extrap,Fox,319.0,320.77946735246906,0.634,MA-MMA
+42,Suite 3: One-Sided Extrap,Fox,311.0,313.53294921727826,0.7308,MA-MMA
+42,Suite 3: One-Sided Extrap,Fox,307.0,306.86571797249024,0.8239,MA-MMA
+42,Suite 3: One-Sided Extrap,Fox,303.0,300.67115107356943,0.9140999999999999,MA-MMA
+42,Suite 3: One-Sided Extrap,Fox,370.0,362.95036967167283,0.629,MMA-EMA
+42,Suite 3: One-Sided Extrap,Fox,375.0,370.61452455970067,0.8217,MMA-EMA
+42,Suite 3: One-Sided Extrap,Fox,359.0,351.4817367332874,0.65,EMA-tBMA
+42,Suite 3: One-Sided Extrap,Fox,354.0,345.4750892138613,0.8301999999999999,EMA-tBMA
+42,Suite 3: One-Sided Extrap,Fox,266.0,276.66150939262826,0.6786,EA-BMA
+42,Suite 3: One-Sided Extrap,Fox,265.0,270.22734871280505,0.8525,EA-BMA
+42,Suite 3: One-Sided Extrap,Fox,375.0,377.03057897533864,0.6786,MMA-tBMA
+42,Suite 3: One-Sided Extrap,Fox,375.0,377.5544857068659,0.8525,MMA-tBMA
+42,Suite 3: One-Sided Extrap,Fox,337.0,343.080866178281,0.6857,EMA-VC
+42,Suite 3: One-Sided Extrap,Fox,293.0,299.6958906938555,0.5221,MA-BMA
+42,Suite 3: One-Sided Extrap,Fox,288.0,297.80029920696916,0.7132,MA-BMA
+42,Suite 3: One-Sided Extrap,Fox,290.0,296.2559308807502,0.8706999999999999,MA-BMA
+42,Suite 3: One-Sided Extrap,Fox,292.0,295.6174042179897,0.9362999999999999,MA-BMA
+42,Suite 3: One-Sided Extrap,Fox,343.0,352.30746035444565,0.6525,EMA-AN
+42,Suite 3: One-Sided Extrap,Fox,277.0,269.9530516431925,0.622,BA-AN
+42,Suite 3: One-Sided Extrap,Fox,349.0,352.3522094828566,0.5982999999999999,iBMA-AN
+42,Suite 3: One-Sided Extrap,Linear,271.0,274.7785,0.6889,MA-BA
+42,Suite 3: One-Sided Extrap,Linear,283.0,285.5295,0.8543000000000001,MA-BA
+42,Suite 3: One-Sided Extrap,Linear,338.0,332.832,0.6024,BMA-tBMA
+42,Suite 3: One-Sided Extrap,Linear,327.0,319.168,0.7976000000000001,BMA-tBMA
+42,Suite 3: One-Sided Extrap,Linear,281.0,291.7588,0.5743,iBA-EMA
+42,Suite 3: One-Sided Extrap,Linear,268.0,274.6648,0.7778,iBA-EMA
+42,Suite 3: One-Sided Extrap,Linear,261.0,289.20799999999997,0.5362,EHA-tBMA
+42,Suite 3: One-Sided Extrap,Linear,238.0,254.392,0.7537999999999999,EHA-tBMA
+42,Suite 3: One-Sided Extrap,Linear,368.0,364.8226,0.6786,MMA-iBMA
+42,Suite 3: One-Sided Extrap,Linear,372.0,371.9525,0.8525,MMA-iBMA
+42,Suite 3: One-Sided Extrap,Linear,353.0,356.896,0.5776,EMA-S
+42,Suite 3: One-Sided Extrap,Linear,349.0,348.49600000000004,0.7876000000000001,EMA-S
+42,Suite 3: One-Sided Extrap,Linear,249.0,258.33500000000004,0.6222,BA-BMA
+42,Suite 3: One-Sided Extrap,Linear,239.0,243.71,0.8172,BA-BMA
+42,Suite 3: One-Sided Extrap,Linear,338.0,338.95,0.65,EMA-iBMA
+42,Suite 3: One-Sided Extrap,Linear,337.0,339.4906,0.8301999999999999,EMA-iBMA
+42,Suite 3: One-Sided Extrap,Linear,356.0,352.1088,0.6024,iBMA-tBMA
+42,Suite 3: One-Sided Extrap,Linear,352.0,344.6912,0.7976000000000001,iBMA-tBMA
+42,Suite 3: One-Sided Extrap,Linear,281.0,286.5397,0.6581,EA-tBA
+42,Suite 3: One-Sided Extrap,Linear,273.0,275.5021,0.8332999999999999,EA-tBA
+42,Suite 3: One-Sided Extrap,Linear,326.0,333.4373,0.5368999999999999,MA-MMA
+42,Suite 3: One-Sided Extrap,Linear,319.0,325.378,0.634,MA-MMA
+42,Suite 3: One-Sided Extrap,Linear,311.0,317.34360000000004,0.7308,MA-MMA
+42,Suite 3: One-Sided Extrap,Linear,307.0,309.6163,0.8239,MA-MMA
+42,Suite 3: One-Sided Extrap,Linear,303.0,302.1297,0.9140999999999999,MA-MMA
+42,Suite 3: One-Sided Extrap,Linear,370.0,363.902,0.629,MMA-EMA
+42,Suite 3: One-Sided Extrap,Linear,375.0,371.2246,0.8217,MMA-EMA
+42,Suite 3: One-Sided Extrap,Linear,359.0,352.25,0.65,EMA-tBMA
+42,Suite 3: One-Sided Extrap,Linear,354.0,345.943,0.8301999999999999,EMA-tBMA
+42,Suite 3: One-Sided Extrap,Linear,266.0,277.856,0.6786,EA-BMA
+42,Suite 3: One-Sided Extrap,Linear,265.0,270.90000000000003,0.8525,EA-BMA
+42,Suite 3: One-Sided Extrap,Linear,375.0,377.0358,0.6786,MMA-tBMA
+42,Suite 3: One-Sided Extrap,Linear,375.0,377.5575,0.8525,MMA-tBMA
+42,Suite 3: One-Sided Extrap,Linear,337.0,343.14300000000003,0.6857,EMA-VC
+42,Suite 3: One-Sided Extrap,Linear,293.0,299.779,0.5221,MA-BMA
+42,Suite 3: One-Sided Extrap,Linear,288.0,297.868,0.7132,MA-BMA
+42,Suite 3: One-Sided Extrap,Linear,290.0,296.293,0.8706999999999999,MA-BMA
+42,Suite 3: One-Sided Extrap,Linear,292.0,295.637,0.9362999999999999,MA-BMA
+42,Suite 3: One-Sided Extrap,Linear,343.0,353.20500000000004,0.6525,EMA-AN
+42,Suite 3: One-Sided Extrap,Linear,277.0,285.944,0.622,BA-AN
+42,Suite 3: One-Sided Extrap,Linear,349.0,353.4697,0.5982999999999999,iBMA-AN
+42,Suite 4: Equimolar Gap Interp,Random Forest,261.0,275.20799999999997,0.3383,EHA-VC
+42,Suite 4: Equimolar Gap Interp,Random Forest,245.0,243.47,0.5761,EHA-VC
+42,Suite 4: Equimolar Gap Interp,Random Forest,371.0,350.19999350649346,0.35950000000000004,tBMA-AN
+42,Suite 4: Equimolar Gap Interp,Random Forest,373.0,334.21,0.5982999999999999,tBMA-AN
+42,Suite 4: Equimolar Gap Interp,Random Forest,315.0,277.018,0.3015,EHA-AN
+42,Suite 4: Equimolar Gap Interp,Random Forest,258.0,243.29,0.5367999999999999,EHA-AN
+42,Suite 4: Equimolar Gap Interp,Random Forest,354.0,337.61066666666665,0.3271,iBMA-S
+42,Suite 4: Equimolar Gap Interp,Random Forest,345.0,317.001,0.5253,iBMA-S
+42,Suite 4: Equimolar Gap Interp,Random Forest,325.0,337.43,0.3267,MA-VC
+42,Suite 4: Equimolar Gap Interp,Random Forest,314.0,337.52,0.5205,MA-VC
+42,Suite 4: Equimolar Gap Interp,Random Forest,321.0,335.55944444444435,0.4421,EA-AN
+42,Suite 4: Equimolar Gap Interp,Random Forest,296.0,295.83099999999996,0.6812999999999999,EA-AN
+42,Suite 4: Equimolar Gap Interp,Random Forest,261.0,277.06,0.4483,EHA-MMA
+42,Suite 4: Equimolar Gap Interp,Random Forest,243.0,238.57,0.6849,EHA-MMA
+42,Suite 4: Equimolar Gap Interp,Random Forest,230.0,250.22,0.3506,MA-EHA
+42,Suite 4: Equimolar Gap Interp,Random Forest,251.0,267.32,0.5876,MA-EHA
+42,Suite 4: Equimolar Gap Interp,Random Forest,304.0,300.62600000000003,0.39740000000000003,BMA-VC
+42,Suite 4: Equimolar Gap Interp,Random Forest,297.0,272.41,0.6347999999999999,BMA-VC
+42,Suite 4: Equimolar Gap Interp,Random Forest,327.0,333.6380793650793,0.38270000000000004,iBA-AN
+42,Suite 4: Equimolar Gap Interp,Random Forest,294.0,299.75333333333333,0.622,iBA-AN
+42,Suite 4: Equimolar Gap Interp,Random Forest,337.0,325.2727777777778,0.3271,BMA-S
+42,Suite 4: Equimolar Gap Interp,Random Forest,320.0,300.63,0.5253,BMA-S
+42,Suite 4: Equimolar Gap Interp,Random Forest,376.0,365.22972222222216,0.3271,tBMA-S
+42,Suite 4: Equimolar Gap Interp,Random Forest,378.0,362.285,0.5253,tBMA-S
+42,Suite 4: Equimolar Gap Interp,Random Forest,349.0,341.74,0.4844,MMA-VC
+42,Suite 4: Equimolar Gap Interp,Random Forest,258.0,247.09,0.48100000000000004,EHA-EMA
+42,Suite 4: Equimolar Gap Interp,Random Forest,294.0,320.9965,0.4844,EA-VC
+42,Suite 4: Equimolar Gap Interp,Random Forest,275.0,300.096,0.4224,BA-VC
+42,Suite 4: Equimolar Gap Interp,Random Forest,258.0,272.28,0.6587000000000001,BA-VC
+42,Suite 4: Equimolar Gap Interp,Random Forest,335.0,321.1925,0.35950000000000004,BMA-AN
+42,Suite 4: Equimolar Gap Interp,Random Forest,314.0,271.16,0.5982999999999999,BMA-AN
+42,Suite 4: Equimolar Gap Interp,Random Forest,385.0,378.3896363636364,0.4341,S-AN
+42,Suite 4: Equimolar Gap Interp,Random Forest,380.0,370.316,0.6688,S-AN
+42,Suite 4: Equimolar Gap Interp,Random Forest,223.0,231.36,0.3151,EA-EHA
+42,Suite 4: Equimolar Gap Interp,Random Forest,234.0,245.51,0.5517,EA-EHA
+42,Suite 4: Equimolar Gap Interp,Random Forest,305.0,306.21722943722943,0.5221,MA-iBMA
+42,Suite 4: Equimolar Gap Interp,XGBoost,261.0,271.7122802734375,0.3383,EHA-VC
+42,Suite 4: Equimolar Gap Interp,XGBoost,245.0,242.02224731445312,0.5761,EHA-VC
+42,Suite 4: Equimolar Gap Interp,XGBoost,371.0,345.7873840332031,0.35950000000000004,tBMA-AN
+42,Suite 4: Equimolar Gap Interp,XGBoost,373.0,336.9832458496094,0.5982999999999999,tBMA-AN
+42,Suite 4: Equimolar Gap Interp,XGBoost,315.0,287.8369140625,0.3015,EHA-AN
+42,Suite 4: Equimolar Gap Interp,XGBoost,258.0,242.4364013671875,0.5367999999999999,EHA-AN
+42,Suite 4: Equimolar Gap Interp,XGBoost,354.0,341.8351135253906,0.3271,iBMA-S
+42,Suite 4: Equimolar Gap Interp,XGBoost,345.0,315.00897216796875,0.5253,iBMA-S
+42,Suite 4: Equimolar Gap Interp,XGBoost,325.0,334.77740478515625,0.3267,MA-VC
+42,Suite 4: Equimolar Gap Interp,XGBoost,314.0,327.72900390625,0.5205,MA-VC
+42,Suite 4: Equimolar Gap Interp,XGBoost,321.0,327.83660888671875,0.4421,EA-AN
+42,Suite 4: Equimolar Gap Interp,XGBoost,296.0,290.5898132324219,0.6812999999999999,EA-AN
+42,Suite 4: Equimolar Gap Interp,XGBoost,261.0,263.9286193847656,0.4483,EHA-MMA
+42,Suite 4: Equimolar Gap Interp,XGBoost,243.0,235.83250427246094,0.6849,EHA-MMA
+42,Suite 4: Equimolar Gap Interp,XGBoost,230.0,242.83473205566406,0.3506,MA-EHA
+42,Suite 4: Equimolar Gap Interp,XGBoost,251.0,269.7842712402344,0.5876,MA-EHA
+42,Suite 4: Equimolar Gap Interp,XGBoost,304.0,292.6605224609375,0.39740000000000003,BMA-VC
+42,Suite 4: Equimolar Gap Interp,XGBoost,297.0,261.1711730957031,0.6347999999999999,BMA-VC
+42,Suite 4: Equimolar Gap Interp,XGBoost,327.0,323.6440124511719,0.38270000000000004,iBA-AN
+42,Suite 4: Equimolar Gap Interp,XGBoost,294.0,290.35333251953125,0.622,iBA-AN
+42,Suite 4: Equimolar Gap Interp,XGBoost,337.0,326.4326171875,0.3271,BMA-S
+42,Suite 4: Equimolar Gap Interp,XGBoost,320.0,303.28790283203125,0.5253,BMA-S
+42,Suite 4: Equimolar Gap Interp,XGBoost,376.0,362.1023864746094,0.3271,tBMA-S
+42,Suite 4: Equimolar Gap Interp,XGBoost,378.0,360.7914123535156,0.5253,tBMA-S
+42,Suite 4: Equimolar Gap Interp,XGBoost,349.0,337.86163330078125,0.4844,MMA-VC
+42,Suite 4: Equimolar Gap Interp,XGBoost,258.0,243.18272399902344,0.48100000000000004,EHA-EMA
+42,Suite 4: Equimolar Gap Interp,XGBoost,294.0,315.41326904296875,0.4844,EA-VC
+42,Suite 4: Equimolar Gap Interp,XGBoost,275.0,289.66351318359375,0.4224,BA-VC
+42,Suite 4: Equimolar Gap Interp,XGBoost,258.0,259.11309814453125,0.6587000000000001,BA-VC
+42,Suite 4: Equimolar Gap Interp,XGBoost,335.0,309.37457275390625,0.35950000000000004,BMA-AN
+42,Suite 4: Equimolar Gap Interp,XGBoost,314.0,260.9200744628906,0.5982999999999999,BMA-AN
+42,Suite 4: Equimolar Gap Interp,XGBoost,385.0,384.9528503417969,0.4341,S-AN
+42,Suite 4: Equimolar Gap Interp,XGBoost,380.0,382.1496276855469,0.6688,S-AN
+42,Suite 4: Equimolar Gap Interp,XGBoost,223.0,229.36769104003906,0.3151,EA-EHA
+42,Suite 4: Equimolar Gap Interp,XGBoost,234.0,238.9919891357422,0.5517,EA-EHA
+42,Suite 4: Equimolar Gap Interp,XGBoost,305.0,315.1739196777344,0.5221,MA-iBMA
+42,Suite 4: Equimolar Gap Interp,Concatenation,261.0,303.24884033203125,0.3383,EHA-VC
+42,Suite 4: Equimolar Gap Interp,Concatenation,245.0,301.62799072265625,0.5761,EHA-VC
+42,Suite 4: Equimolar Gap Interp,Concatenation,371.0,371.4136962890625,0.35950000000000004,tBMA-AN
+42,Suite 4: Equimolar Gap Interp,Concatenation,373.0,370.84149169921875,0.5982999999999999,tBMA-AN
+42,Suite 4: Equimolar Gap Interp,Concatenation,315.0,351.8104553222656,0.3015,EHA-AN
+42,Suite 4: Equimolar Gap Interp,Concatenation,258.0,350.5402526855469,0.5367999999999999,EHA-AN
+42,Suite 4: Equimolar Gap Interp,Concatenation,354.0,356.76708984375,0.3271,iBMA-S
+42,Suite 4: Equimolar Gap Interp,Concatenation,345.0,355.17401123046875,0.5253,iBMA-S
+42,Suite 4: Equimolar Gap Interp,Concatenation,325.0,315.968994140625,0.3267,MA-VC
+42,Suite 4: Equimolar Gap Interp,Concatenation,314.0,315.33038330078125,0.5205,MA-VC
+42,Suite 4: Equimolar Gap Interp,Concatenation,321.0,339.8448181152344,0.4421,EA-AN
+42,Suite 4: Equimolar Gap Interp,Concatenation,296.0,338.9573669433594,0.6812999999999999,EA-AN
+42,Suite 4: Equimolar Gap Interp,Concatenation,261.0,303.2884521484375,0.4483,EHA-MMA
+42,Suite 4: Equimolar Gap Interp,Concatenation,243.0,300.5064697265625,0.6849,EHA-MMA
+42,Suite 4: Equimolar Gap Interp,Concatenation,230.0,260.86785888671875,0.3506,MA-EHA
+42,Suite 4: Equimolar Gap Interp,Concatenation,251.0,259.8644714355469,0.5876,MA-EHA
+42,Suite 4: Equimolar Gap Interp,Concatenation,304.0,320.32427978515625,0.39740000000000003,BMA-VC
+42,Suite 4: Equimolar Gap Interp,Concatenation,297.0,319.421875,0.6347999999999999,BMA-VC
+42,Suite 4: Equimolar Gap Interp,Concatenation,327.0,348.43548583984375,0.38270000000000004,iBA-AN
+42,Suite 4: Equimolar Gap Interp,Concatenation,294.0,347.4140319824219,0.622,iBA-AN
+42,Suite 4: Equimolar Gap Interp,Concatenation,337.0,341.2871398925781,0.3271,BMA-S
+42,Suite 4: Equimolar Gap Interp,Concatenation,320.0,339.8041687011719,0.5253,BMA-S
+42,Suite 4: Equimolar Gap Interp,Concatenation,376.0,377.0816345214844,0.3271,tBMA-S
+42,Suite 4: Equimolar Gap Interp,Concatenation,378.0,376.38775634765625,0.5253,tBMA-S
+42,Suite 4: Equimolar Gap Interp,Concatenation,349.0,342.1456298828125,0.4844,MMA-VC
+42,Suite 4: Equimolar Gap Interp,Concatenation,258.0,263.5085754394531,0.48100000000000004,EHA-EMA
+42,Suite 4: Equimolar Gap Interp,Concatenation,294.0,310.4888610839844,0.4844,EA-VC
+42,Suite 4: Equimolar Gap Interp,Concatenation,275.0,302.8720703125,0.4224,BA-VC
+42,Suite 4: Equimolar Gap Interp,Concatenation,258.0,301.90826416015625,0.6587000000000001,BA-VC
+42,Suite 4: Equimolar Gap Interp,Concatenation,335.0,355.23223876953125,0.35950000000000004,BMA-AN
+42,Suite 4: Equimolar Gap Interp,Concatenation,314.0,354.4180908203125,0.5982999999999999,BMA-AN
+42,Suite 4: Equimolar Gap Interp,Concatenation,385.0,382.4334716796875,0.4341,S-AN
+42,Suite 4: Equimolar Gap Interp,Concatenation,380.0,381.9864196777344,0.6688,S-AN
+42,Suite 4: Equimolar Gap Interp,Concatenation,223.0,244.78118896484375,0.3151,EA-EHA
+42,Suite 4: Equimolar Gap Interp,Concatenation,234.0,243.67147827148438,0.5517,EA-EHA
+42,Suite 4: Equimolar Gap Interp,Concatenation,305.0,301.2170715332031,0.5221,MA-iBMA
+42,Suite 4: Equimolar Gap Interp,LatentConvex,261.0,270.1991271972656,0.3383,EHA-VC
+42,Suite 4: Equimolar Gap Interp,LatentConvex,245.0,243.16395568847656,0.5761,EHA-VC
+42,Suite 4: Equimolar Gap Interp,LatentConvex,371.0,369.8231506347656,0.35950000000000004,tBMA-AN
+42,Suite 4: Equimolar Gap Interp,LatentConvex,373.0,372.958984375,0.5982999999999999,tBMA-AN
+42,Suite 4: Equimolar Gap Interp,LatentConvex,315.0,296.196533203125,0.3015,EHA-AN
+42,Suite 4: Equimolar Gap Interp,LatentConvex,258.0,256.8348388671875,0.5367999999999999,EHA-AN
+42,Suite 4: Equimolar Gap Interp,LatentConvex,354.0,357.50396728515625,0.3271,iBMA-S
+42,Suite 4: Equimolar Gap Interp,LatentConvex,345.0,347.216552734375,0.5253,iBMA-S
+42,Suite 4: Equimolar Gap Interp,LatentConvex,325.0,320.5876770019531,0.3267,MA-VC
+42,Suite 4: Equimolar Gap Interp,LatentConvex,314.0,311.3848876953125,0.5205,MA-VC
+42,Suite 4: Equimolar Gap Interp,LatentConvex,321.0,320.31402587890625,0.4421,EA-AN
+42,Suite 4: Equimolar Gap Interp,LatentConvex,296.0,291.1702880859375,0.6812999999999999,EA-AN
+42,Suite 4: Equimolar Gap Interp,LatentConvex,261.0,266.48138427734375,0.4483,EHA-MMA
+42,Suite 4: Equimolar Gap Interp,LatentConvex,243.0,238.339111328125,0.6849,EHA-MMA
+42,Suite 4: Equimolar Gap Interp,LatentConvex,230.0,230.09909057617188,0.3506,MA-EHA
+42,Suite 4: Equimolar Gap Interp,LatentConvex,251.0,247.21051025390625,0.5876,MA-EHA
+42,Suite 4: Equimolar Gap Interp,LatentConvex,304.0,310.9122314453125,0.39740000000000003,BMA-VC
+42,Suite 4: Equimolar Gap Interp,LatentConvex,297.0,303.61492919921875,0.6347999999999999,BMA-VC
+42,Suite 4: Equimolar Gap Interp,LatentConvex,327.0,323.7413330078125,0.38270000000000004,iBA-AN
+42,Suite 4: Equimolar Gap Interp,LatentConvex,294.0,290.47393798828125,0.622,iBA-AN
+42,Suite 4: Equimolar Gap Interp,LatentConvex,337.0,345.8355712890625,0.3271,BMA-S
+42,Suite 4: Equimolar Gap Interp,LatentConvex,320.0,327.4388427734375,0.5253,BMA-S
+42,Suite 4: Equimolar Gap Interp,LatentConvex,376.0,373.54150390625,0.3271,tBMA-S
+42,Suite 4: Equimolar Gap Interp,LatentConvex,378.0,376.4823303222656,0.5253,tBMA-S
+42,Suite 4: Equimolar Gap Interp,LatentConvex,349.0,346.36456298828125,0.4844,MMA-VC
+42,Suite 4: Equimolar Gap Interp,LatentConvex,258.0,252.96018981933594,0.48100000000000004,EHA-EMA
+42,Suite 4: Equimolar Gap Interp,LatentConvex,294.0,294.7015380859375,0.4844,EA-VC
+42,Suite 4: Equimolar Gap Interp,LatentConvex,275.0,278.7845764160156,0.4224,BA-VC
+42,Suite 4: Equimolar Gap Interp,LatentConvex,258.0,257.12286376953125,0.6587000000000001,BA-VC
+42,Suite 4: Equimolar Gap Interp,LatentConvex,335.0,340.6349792480469,0.35950000000000004,BMA-AN
+42,Suite 4: Equimolar Gap Interp,LatentConvex,314.0,322.3858642578125,0.5982999999999999,BMA-AN
+42,Suite 4: Equimolar Gap Interp,LatentConvex,385.0,380.028564453125,0.4341,S-AN
+42,Suite 4: Equimolar Gap Interp,LatentConvex,380.0,376.99761962890625,0.6688,S-AN
+42,Suite 4: Equimolar Gap Interp,LatentConvex,223.0,223.58316040039062,0.3151,EA-EHA
+42,Suite 4: Equimolar Gap Interp,LatentConvex,234.0,234.32040405273438,0.5517,EA-EHA
+42,Suite 4: Equimolar Gap Interp,LatentConvex,305.0,307.5874938964844,0.5221,MA-iBMA
+42,Suite 4: Equimolar Gap Interp,Thermodynamic,261.0,268.212158203125,0.3383,EHA-VC
+42,Suite 4: Equimolar Gap Interp,Thermodynamic,245.0,239.0565948486328,0.5761,EHA-VC
+42,Suite 4: Equimolar Gap Interp,Thermodynamic,371.0,369.09039306640625,0.35950000000000004,tBMA-AN
+42,Suite 4: Equimolar Gap Interp,Thermodynamic,373.0,368.8470458984375,0.5982999999999999,tBMA-AN
+42,Suite 4: Equimolar Gap Interp,Thermodynamic,315.0,314.2274169921875,0.3015,EHA-AN
+42,Suite 4: Equimolar Gap Interp,Thermodynamic,258.0,270.5833435058594,0.5367999999999999,EHA-AN
+42,Suite 4: Equimolar Gap Interp,Thermodynamic,354.0,356.8590393066406,0.3271,iBMA-S
+42,Suite 4: Equimolar Gap Interp,Thermodynamic,345.0,347.2146911621094,0.5253,iBMA-S
+42,Suite 4: Equimolar Gap Interp,Thermodynamic,325.0,325.6484069824219,0.3267,MA-VC
+42,Suite 4: Equimolar Gap Interp,Thermodynamic,314.0,314.7039794921875,0.5205,MA-VC
+42,Suite 4: Equimolar Gap Interp,Thermodynamic,321.0,323.833740234375,0.4421,EA-AN
+42,Suite 4: Equimolar Gap Interp,Thermodynamic,296.0,297.98492431640625,0.6812999999999999,EA-AN
+42,Suite 4: Equimolar Gap Interp,Thermodynamic,261.0,271.23321533203125,0.4483,EHA-MMA
+42,Suite 4: Equimolar Gap Interp,Thermodynamic,243.0,241.52252197265625,0.6849,EHA-MMA
+42,Suite 4: Equimolar Gap Interp,Thermodynamic,230.0,233.17465209960938,0.3506,MA-EHA
+42,Suite 4: Equimolar Gap Interp,Thermodynamic,251.0,250.34141540527344,0.5876,MA-EHA
+42,Suite 4: Equimolar Gap Interp,Thermodynamic,304.0,310.28271484375,0.39740000000000003,BMA-VC
+42,Suite 4: Equimolar Gap Interp,Thermodynamic,297.0,304.1154479980469,0.6347999999999999,BMA-VC
+42,Suite 4: Equimolar Gap Interp,Thermodynamic,327.0,326.5412292480469,0.38270000000000004,iBA-AN
+42,Suite 4: Equimolar Gap Interp,Thermodynamic,294.0,298.3406066894531,0.622,iBA-AN
+42,Suite 4: Equimolar Gap Interp,Thermodynamic,337.0,339.8470764160156,0.3271,BMA-S
+42,Suite 4: Equimolar Gap Interp,Thermodynamic,320.0,325.2852478027344,0.5253,BMA-S
+42,Suite 4: Equimolar Gap Interp,Thermodynamic,376.0,374.48419189453125,0.3271,tBMA-S
+42,Suite 4: Equimolar Gap Interp,Thermodynamic,378.0,375.9390563964844,0.5253,tBMA-S
+42,Suite 4: Equimolar Gap Interp,Thermodynamic,349.0,351.3778381347656,0.4844,MMA-VC
+42,Suite 4: Equimolar Gap Interp,Thermodynamic,258.0,258.5303955078125,0.48100000000000004,EHA-EMA
+42,Suite 4: Equimolar Gap Interp,Thermodynamic,294.0,301.42657470703125,0.4844,EA-VC
+42,Suite 4: Equimolar Gap Interp,Thermodynamic,275.0,284.2306213378906,0.4224,BA-VC
+42,Suite 4: Equimolar Gap Interp,Thermodynamic,258.0,259.27777099609375,0.6587000000000001,BA-VC
+42,Suite 4: Equimolar Gap Interp,Thermodynamic,335.0,333.2411193847656,0.35950000000000004,BMA-AN
+42,Suite 4: Equimolar Gap Interp,Thermodynamic,314.0,318.607177734375,0.5982999999999999,BMA-AN
+42,Suite 4: Equimolar Gap Interp,Thermodynamic,385.0,384.29388427734375,0.4341,S-AN
+42,Suite 4: Equimolar Gap Interp,Thermodynamic,380.0,382.1993103027344,0.6688,S-AN
+42,Suite 4: Equimolar Gap Interp,Thermodynamic,223.0,226.09603881835938,0.3151,EA-EHA
+42,Suite 4: Equimolar Gap Interp,Thermodynamic,234.0,236.2490997314453,0.5517,EA-EHA
+42,Suite 4: Equimolar Gap Interp,Thermodynamic,305.0,306.6703796386719,0.5221,MA-iBMA
+42,Suite 4: Equimolar Gap Interp,BigSMILES_LM,261.0,276.33404541015625,0.3383,EHA-VC
+42,Suite 4: Equimolar Gap Interp,BigSMILES_LM,245.0,270.0050964355469,0.5761,EHA-VC
+42,Suite 4: Equimolar Gap Interp,BigSMILES_LM,371.0,376.8933410644531,0.35950000000000004,tBMA-AN
+42,Suite 4: Equimolar Gap Interp,BigSMILES_LM,373.0,357.33197021484375,0.5982999999999999,tBMA-AN
+42,Suite 4: Equimolar Gap Interp,BigSMILES_LM,315.0,339.94903564453125,0.3015,EHA-AN
+42,Suite 4: Equimolar Gap Interp,BigSMILES_LM,258.0,285.5268859863281,0.5367999999999999,EHA-AN
+42,Suite 4: Equimolar Gap Interp,BigSMILES_LM,354.0,362.8094787597656,0.3271,iBMA-S
+42,Suite 4: Equimolar Gap Interp,BigSMILES_LM,345.0,343.96710205078125,0.5253,iBMA-S
+42,Suite 4: Equimolar Gap Interp,BigSMILES_LM,325.0,342.1333923339844,0.3267,MA-VC
+42,Suite 4: Equimolar Gap Interp,BigSMILES_LM,314.0,298.73876953125,0.5205,MA-VC
+42,Suite 4: Equimolar Gap Interp,BigSMILES_LM,321.0,346.2418212890625,0.4421,EA-AN
+42,Suite 4: Equimolar Gap Interp,BigSMILES_LM,296.0,360.2846374511719,0.6812999999999999,EA-AN
+42,Suite 4: Equimolar Gap Interp,BigSMILES_LM,261.0,263.844482421875,0.4483,EHA-MMA
+42,Suite 4: Equimolar Gap Interp,BigSMILES_LM,243.0,305.249267578125,0.6849,EHA-MMA
+42,Suite 4: Equimolar Gap Interp,BigSMILES_LM,230.0,243.2578582763672,0.3506,MA-EHA
+42,Suite 4: Equimolar Gap Interp,BigSMILES_LM,251.0,253.41384887695312,0.5876,MA-EHA
+42,Suite 4: Equimolar Gap Interp,BigSMILES_LM,304.0,345.5095520019531,0.39740000000000003,BMA-VC
+42,Suite 4: Equimolar Gap Interp,BigSMILES_LM,297.0,333.53253173828125,0.6347999999999999,BMA-VC
+42,Suite 4: Equimolar Gap Interp,BigSMILES_LM,327.0,355.85772705078125,0.38270000000000004,iBA-AN
+42,Suite 4: Equimolar Gap Interp,BigSMILES_LM,294.0,346.0051574707031,0.622,iBA-AN
+42,Suite 4: Equimolar Gap Interp,BigSMILES_LM,337.0,364.76214599609375,0.3271,BMA-S
+42,Suite 4: Equimolar Gap Interp,BigSMILES_LM,320.0,326.0416259765625,0.5253,BMA-S
+42,Suite 4: Equimolar Gap Interp,BigSMILES_LM,376.0,369.665283203125,0.3271,tBMA-S
+42,Suite 4: Equimolar Gap Interp,BigSMILES_LM,378.0,363.4710693359375,0.5253,tBMA-S
+42,Suite 4: Equimolar Gap Interp,BigSMILES_LM,349.0,345.79058837890625,0.4844,MMA-VC
+42,Suite 4: Equimolar Gap Interp,BigSMILES_LM,258.0,276.9598388671875,0.48100000000000004,EHA-EMA
+42,Suite 4: Equimolar Gap Interp,BigSMILES_LM,294.0,300.94329833984375,0.4844,EA-VC
+42,Suite 4: Equimolar Gap Interp,BigSMILES_LM,275.0,310.8921203613281,0.4224,BA-VC
+42,Suite 4: Equimolar Gap Interp,BigSMILES_LM,258.0,281.2108154296875,0.6587000000000001,BA-VC
+42,Suite 4: Equimolar Gap Interp,BigSMILES_LM,335.0,360.60833740234375,0.35950000000000004,BMA-AN
+42,Suite 4: Equimolar Gap Interp,BigSMILES_LM,314.0,332.2699890136719,0.5982999999999999,BMA-AN
+42,Suite 4: Equimolar Gap Interp,BigSMILES_LM,385.0,369.9128112792969,0.4341,S-AN
+42,Suite 4: Equimolar Gap Interp,BigSMILES_LM,380.0,375.6262512207031,0.6688,S-AN
+42,Suite 4: Equimolar Gap Interp,BigSMILES_LM,223.0,244.66781616210938,0.3151,EA-EHA
+42,Suite 4: Equimolar Gap Interp,BigSMILES_LM,234.0,238.6636505126953,0.5517,EA-EHA
+42,Suite 4: Equimolar Gap Interp,BigSMILES_LM,305.0,263.8797912597656,0.5221,MA-iBMA
+42,Suite 4: Equimolar Gap Interp,Gordon-Taylor,261.0,265.4682364731218,0.3383,EHA-VC
+42,Suite 4: Equimolar Gap Interp,Gordon-Taylor,245.0,239.75968196016905,0.5761,EHA-VC
+42,Suite 4: Equimolar Gap Interp,Gordon-Taylor,371.0,375.2454105990091,0.35950000000000004,tBMA-AN
+42,Suite 4: Equimolar Gap Interp,Gordon-Taylor,373.0,375.09744932682565,0.5982999999999999,tBMA-AN
+42,Suite 4: Equimolar Gap Interp,Gordon-Taylor,315.0,318.2428707403636,0.3015,EHA-AN
+42,Suite 4: Equimolar Gap Interp,Gordon-Taylor,258.0,278.8213054452476,0.5367999999999999,EHA-AN
+42,Suite 4: Equimolar Gap Interp,Gordon-Taylor,354.0,356.4218029228251,0.3271,iBMA-S
+42,Suite 4: Equimolar Gap Interp,Gordon-Taylor,345.0,348.4251535104736,0.5253,iBMA-S
+42,Suite 4: Equimolar Gap Interp,Gordon-Taylor,325.0,323.78484277987593,0.3267,MA-VC
+42,Suite 4: Equimolar Gap Interp,Gordon-Taylor,314.0,313.1074827950179,0.5205,MA-VC
+42,Suite 4: Equimolar Gap Interp,Gordon-Taylor,321.0,326.20825092097243,0.4421,EA-AN
+42,Suite 4: Equimolar Gap Interp,Gordon-Taylor,296.0,299.4232175083953,0.6812999999999999,EA-AN
+42,Suite 4: Equimolar Gap Interp,Gordon-Taylor,261.0,271.0509954878866,0.4483,EHA-MMA
+42,Suite 4: Equimolar Gap Interp,Gordon-Taylor,243.0,241.70401885311045,0.6849,EHA-MMA
+42,Suite 4: Equimolar Gap Interp,Gordon-Taylor,230.0,231.6539696238855,0.3506,MA-EHA
+42,Suite 4: Equimolar Gap Interp,Gordon-Taylor,251.0,247.77015015619375,0.5876,MA-EHA
+42,Suite 4: Equimolar Gap Interp,Gordon-Taylor,304.0,310.5536492562716,0.39740000000000003,BMA-VC
+42,Suite 4: Equimolar Gap Interp,Gordon-Taylor,297.0,307.28179786183307,0.6347999999999999,BMA-VC
+42,Suite 4: Equimolar Gap Interp,Gordon-Taylor,327.0,324.86873376971846,0.38270000000000004,iBA-AN
+42,Suite 4: Equimolar Gap Interp,Gordon-Taylor,294.0,296.0303020458115,0.622,iBA-AN
+42,Suite 4: Equimolar Gap Interp,Gordon-Taylor,337.0,338.9911612962814,0.3271,BMA-S
+42,Suite 4: Equimolar Gap Interp,Gordon-Taylor,320.0,325.0190213924911,0.5253,BMA-S
+42,Suite 4: Equimolar Gap Interp,Gordon-Taylor,376.0,379.3931084619172,0.3271,tBMA-S
+42,Suite 4: Equimolar Gap Interp,Gordon-Taylor,378.0,378.8037765613426,0.5253,tBMA-S
+42,Suite 4: Equimolar Gap Interp,Gordon-Taylor,349.0,355.49217800197084,0.4844,MMA-VC
+42,Suite 4: Equimolar Gap Interp,Gordon-Taylor,258.0,259.6717704760916,0.48100000000000004,EHA-EMA
+42,Suite 4: Equimolar Gap Interp,Gordon-Taylor,294.0,295.95178425133525,0.4844,EA-VC
+42,Suite 4: Equimolar Gap Interp,Gordon-Taylor,275.0,278.2099138559658,0.4224,BA-VC
+42,Suite 4: Equimolar Gap Interp,Gordon-Taylor,258.0,254.3412077993966,0.6587000000000001,BA-VC
+42,Suite 4: Equimolar Gap Interp,Gordon-Taylor,335.0,333.87471097434604,0.35950000000000004,BMA-AN
+42,Suite 4: Equimolar Gap Interp,Gordon-Taylor,314.0,319.44070808494473,0.5982999999999999,BMA-AN
+42,Suite 4: Equimolar Gap Interp,Gordon-Taylor,385.0,379.87760323562975,0.4341,S-AN
+42,Suite 4: Equimolar Gap Interp,Gordon-Taylor,380.0,379.95167001531,0.6688,S-AN
+42,Suite 4: Equimolar Gap Interp,Gordon-Taylor,223.0,224.59257421692683,0.3151,EA-EHA
+42,Suite 4: Equimolar Gap Interp,Gordon-Taylor,234.0,234.41932306738735,0.5517,EA-EHA
+42,Suite 4: Equimolar Gap Interp,Gordon-Taylor,305.0,308.3160259358271,0.5221,MA-iBMA
+42,Suite 4: Equimolar Gap Interp,Fox,261.0,288.6786191763165,0.3383,EHA-VC
+42,Suite 4: Equimolar Gap Interp,Fox,245.0,257.0246282535817,0.5761,EHA-VC
+42,Suite 4: Equimolar Gap Interp,Fox,371.0,376.91598961387047,0.35950000000000004,tBMA-AN
+42,Suite 4: Equimolar Gap Interp,Fox,373.0,376.19935938623377,0.5982999999999999,tBMA-AN
+42,Suite 4: Equimolar Gap Interp,Fox,315.0,307.6725050114615,0.3015,EHA-AN
+42,Suite 4: Equimolar Gap Interp,Fox,258.0,268.66257804999964,0.5367999999999999,EHA-AN
+42,Suite 4: Equimolar Gap Interp,Fox,354.0,364.7754420616335,0.3271,iBMA-S
+42,Suite 4: Equimolar Gap Interp,Fox,345.0,356.1298920236193,0.5253,iBMA-S
+42,Suite 4: Equimolar Gap Interp,Fox,325.0,329.9054058156012,0.3267,MA-VC
+42,Suite 4: Equimolar Gap Interp,Fox,314.0,319.03963661926133,0.5205,MA-VC
+42,Suite 4: Equimolar Gap Interp,Fox,321.0,318.043112510807,0.4421,EA-AN
+42,Suite 4: Equimolar Gap Interp,Fox,296.0,292.9059563392633,0.6812999999999999,EA-AN
+42,Suite 4: Equimolar Gap Interp,Fox,261.0,282.11608936487954,0.4483,EHA-MMA
+42,Suite 4: Equimolar Gap Interp,Fox,243.0,248.80701521283305,0.6849,EHA-MMA
+42,Suite 4: Equimolar Gap Interp,Fox,230.0,237.589529203752,0.3506,MA-EHA
+42,Suite 4: Equimolar Gap Interp,Fox,251.0,255.7542178779961,0.5876,MA-EHA
+42,Suite 4: Equimolar Gap Interp,Fox,304.0,330.615114453223,0.39740000000000003,BMA-VC
+42,Suite 4: Equimolar Gap Interp,Fox,297.0,320.0266214182501,0.6347999999999999,BMA-VC
+42,Suite 4: Equimolar Gap Interp,Fox,327.0,319.69404941170717,0.38270000000000004,iBA-AN
+42,Suite 4: Equimolar Gap Interp,Fox,294.0,291.57175398633257,0.622,iBA-AN
+42,Suite 4: Equimolar Gap Interp,Fox,337.0,351.71037758036005,0.3271,BMA-S
+42,Suite 4: Equimolar Gap Interp,Fox,320.0,336.52973671411667,0.5253,BMA-S
+42,Suite 4: Equimolar Gap Interp,Fox,376.0,378.3498900130232,0.3271,tBMA-S
+42,Suite 4: Equimolar Gap Interp,Fox,378.0,377.3569916306191,0.5253,tBMA-S
+42,Suite 4: Equimolar Gap Interp,Fox,349.0,363.0259073726912,0.4844,MMA-VC
+42,Suite 4: Equimolar Gap Interp,Fox,258.0,265.69741026805997,0.48100000000000004,EHA-EMA
+42,Suite 4: Equimolar Gap Interp,Fox,294.0,302.9323195307243,0.4844,EA-VC
+42,Suite 4: Equimolar Gap Interp,Fox,275.0,286.7953029698455,0.4224,BA-VC
+42,Suite 4: Equimolar Gap Interp,Fox,258.0,260.48070824866363,0.6587000000000001,BA-VC
+42,Suite 4: Equimolar Gap Interp,Fox,335.0,348.05211272070244,0.35950000000000004,BMA-AN
+42,Suite 4: Equimolar Gap Interp,Fox,314.0,330.65089958898795,0.5982999999999999,BMA-AN
+42,Suite 4: Equimolar Gap Interp,Fox,385.0,378.8656082132915,0.4341,S-AN
+42,Suite 4: Equimolar Gap Interp,Fox,380.0,379.33526011560696,0.6688,S-AN
+42,Suite 4: Equimolar Gap Interp,Fox,223.0,228.59034283536278,0.3151,EA-EHA
+42,Suite 4: Equimolar Gap Interp,Fox,234.0,239.98062464460966,0.5517,EA-EHA
+42,Suite 4: Equimolar Gap Interp,Fox,305.0,313.6830360946107,0.5221,MA-iBMA
+42,Suite 4: Equimolar Gap Interp,Linear,261.0,304.32949999999994,0.3383,EHA-VC
+42,Suite 4: Equimolar Gap Interp,Linear,245.0,272.2265,0.5761,EHA-VC
+42,Suite 4: Equimolar Gap Interp,Linear,371.0,376.92150000000004,0.35950000000000004,tBMA-AN
+42,Suite 4: Equimolar Gap Interp,Linear,373.0,376.2051,0.5982999999999999,tBMA-AN
+42,Suite 4: Equimolar Gap Interp,Linear,315.0,328.8555,0.3015,EHA-AN
+42,Suite 4: Equimolar Gap Interp,Linear,258.0,290.5016,0.5367999999999999,EHA-AN
+42,Suite 4: Equimolar Gap Interp,Linear,354.0,365.9347,0.3271,iBMA-S
+42,Suite 4: Equimolar Gap Interp,Linear,345.0,357.4121,0.5253,iBMA-S
+42,Suite 4: Equimolar Gap Interp,Linear,325.0,332.0315,0.3267,MA-VC
+42,Suite 4: Equimolar Gap Interp,Linear,314.0,321.3725,0.5205,MA-VC
+42,Suite 4: Equimolar Gap Interp,Linear,321.0,328.0427,0.4421,EA-AN
+42,Suite 4: Equimolar Gap Interp,Linear,296.0,301.0131,0.6812999999999999,EA-AN
+42,Suite 4: Equimolar Gap Interp,Linear,261.0,304.9271,0.4483,EHA-MMA
+42,Suite 4: Equimolar Gap Interp,Linear,243.0,266.3613,0.6849,EHA-MMA
+42,Suite 4: Equimolar Gap Interp,Linear,230.0,243.048,0.3506,MA-EHA
+42,Suite 4: Equimolar Gap Interp,Linear,251.0,262.00800000000004,0.5876,MA-EHA
+42,Suite 4: Equimolar Gap Interp,Linear,304.0,332.117,0.39740000000000003,BMA-VC
+42,Suite 4: Equimolar Gap Interp,Linear,297.0,321.43399999999997,0.6347999999999999,BMA-VC
+42,Suite 4: Equimolar Gap Interp,Linear,327.0,331.3106,0.38270000000000004,iBA-AN
+42,Suite 4: Equimolar Gap Interp,Linear,294.0,302.116,0.622,iBA-AN
+42,Suite 4: Equimolar Gap Interp,Linear,337.0,355.46750000000003,0.3271,BMA-S
+42,Suite 4: Equimolar Gap Interp,Linear,320.0,340.60249999999996,0.5253,BMA-S
+42,Suite 4: Equimolar Gap Interp,Linear,376.0,378.3645,0.3271,tBMA-S
+42,Suite 4: Equimolar Gap Interp,Linear,378.0,377.3735,0.5253,tBMA-S
+42,Suite 4: Equimolar Gap Interp,Linear,349.0,363.5632,0.4844,MMA-VC
+42,Suite 4: Equimolar Gap Interp,Linear,258.0,279.875,0.48100000000000004,EHA-EMA
+42,Suite 4: Equimolar Gap Interp,Linear,294.0,308.826,0.4844,EA-VC
+42,Suite 4: Equimolar Gap Interp,Linear,275.0,299.312,0.4224,BA-VC
+42,Suite 4: Equimolar Gap Interp,Linear,258.0,270.956,0.6587000000000001,BA-VC
+42,Suite 4: Equimolar Gap Interp,Linear,335.0,351.75649999999996,0.35950000000000004,BMA-AN
+42,Suite 4: Equimolar Gap Interp,Linear,314.0,334.32410000000004,0.5982999999999999,BMA-AN
+42,Suite 4: Equimolar Gap Interp,Linear,385.0,378.8682,0.4341,S-AN
+42,Suite 4: Equimolar Gap Interp,Linear,380.0,379.3376,0.6688,S-AN
+42,Suite 4: Equimolar Gap Interp,Linear,223.0,230.755,0.3151,EA-EHA
+42,Suite 4: Equimolar Gap Interp,Linear,234.0,242.585,0.5517,EA-EHA
+42,Suite 4: Equimolar Gap Interp,Linear,305.0,315.0718,0.5221,MA-iBMA

@@ -1,0 +1,667 @@
+ID,Poly1,Poly2,SMILES_0,SMILES_1,comp_0,comp_1,Tg(K),x1
+1,MA,EA,[Th]CC(C(=O)OC)[Lr],[Th]CC(C(=O)OCC)[Lr],0,100,265,0
+2,MA,EA,[Th]CC(C(=O)OC)[Lr],[Th]CC(C(=O)OCC)[Lr],22.46,77.54,270,0.2246
+3,MA,EA,[Th]CC(C(=O)OC)[Lr],[Th]CC(C(=O)OCC)[Lr],43.54,56.46,278,0.4354
+4,MA,EA,[Th]CC(C(=O)OC)[Lr],[Th]CC(C(=O)OCC)[Lr],63.4,36.6,284,0.634
+5,MA,EA,[Th]CC(C(=O)OC)[Lr],[Th]CC(C(=O)OCC)[Lr],82.39,17.61,289,0.8239
+6,MA,EA,[Th]CC(C(=O)OC)[Lr],[Th]CC(C(=O)OCC)[Lr],100,0,295,1
+7,MA,BA,[Th]CC(C(=O)OC)[Lr],[Th]CC(C(=O)OCCCC)[Lr],0,100,230,0
+8,MA,BA,[Th]CC(C(=O)OC)[Lr],[Th]CC(C(=O)OCCCC)[Lr],27.1,72.9,246,0.271
+9,MA,BA,[Th]CC(C(=O)OC)[Lr],[Th]CC(C(=O)OCCCC)[Lr],50,50,260,0.5
+10,MA,BA,[Th]CC(C(=O)OC)[Lr],[Th]CC(C(=O)OCCCC)[Lr],68.89,31.11,271,0.6889
+11,MA,BA,[Th]CC(C(=O)OC)[Lr],[Th]CC(C(=O)OCCCC)[Lr],85.43,14.57,283,0.8543
+12,MA,iBA,[Th]CC(C(=O)OC)[Lr],[Th]CC(C(=O)OCC(C)C)[Lr],0,100,256,0
+13,MA,iBA,[Th]CC(C(=O)OC)[Lr],[Th]CC(C(=O)OCC(C)C)[Lr],27.1,72.9,263,0.271
+14,MA,iBA,[Th]CC(C(=O)OC)[Lr],[Th]CC(C(=O)OCC(C)C)[Lr],50,50,272,0.5
+15,MA,iBA,[Th]CC(C(=O)OC)[Lr],[Th]CC(C(=O)OCC(C)C)[Lr],68.89,31.11,280,0.6889
+16,MA,iBA,[Th]CC(C(=O)OC)[Lr],[Th]CC(C(=O)OCC(C)C)[Lr],85.43,14.57,289,0.8543
+17,MA,tBA,[Th]CC(C(=O)OC)[Lr],[Th]CC(C(=O)OC(C)(C)C)[Lr],0,100,328,0
+18,MA,tBA,[Th]CC(C(=O)OC)[Lr],[Th]CC(C(=O)OC(C)(C)C)[Lr],27.1,72.9,315,0.271
+19,MA,tBA,[Th]CC(C(=O)OC)[Lr],[Th]CC(C(=O)OC(C)(C)C)[Lr],50,50,307,0.5
+20,MA,tBA,[Th]CC(C(=O)OC)[Lr],[Th]CC(C(=O)OC(C)(C)C)[Lr],68.89,31.11,302,0.6889
+21,MA,tBA,[Th]CC(C(=O)OC)[Lr],[Th]CC(C(=O)OC(C)(C)C)[Lr],85.43,14.57,299,0.8543
+22,MA,EHA,[Th]CC(C(=O)OC)[Lr],[Th]CC(C(=O)OCC(CC)CCCC)[Lr],0,100,215,0
+23,MA,EHA,[Th]CC(C(=O)OC)[Lr],[Th]CC(C(=O)OCC(CC)CCCC)[Lr],35.06,64.94,230,0.3506
+24,MA,EHA,[Th]CC(C(=O)OC)[Lr],[Th]CC(C(=O)OCC(CC)CCCC)[Lr],58.76,41.24,251,0.5876
+25,MA,EHA,[Th]CC(C(=O)OC)[Lr],[Th]CC(C(=O)OCC(CC)CCCC)[Lr],76.27,23.73,264,0.7627
+26,MA,EHA,[Th]CC(C(=O)OC)[Lr],[Th]CC(C(=O)OCC(CC)CCCC)[Lr],89.36,10.64,279,0.8936
+27,MA,MMA,[Th]CC(C(=O)OC)[Lr],[Th]CC(C(=O)OC)(C)[Lr],0,100,378,0
+28,MA,MMA,[Th]CC(C(=O)OC)[Lr],[Th]CC(C(=O)OC)(C)[Lr],11.43,88.57,375,0.1143
+29,MA,MMA,[Th]CC(C(=O)OC)[Lr],[Th]CC(C(=O)OC)(C)[Lr],22.46,77.54,364,0.2246
+30,MA,MMA,[Th]CC(C(=O)OC)[Lr],[Th]CC(C(=O)OC)(C)[Lr],33.33,66.67,349,0.3333
+31,MA,MMA,[Th]CC(C(=O)OC)[Lr],[Th]CC(C(=O)OC)(C)[Lr],43.54,56.46,338,0.4354
+32,MA,MMA,[Th]CC(C(=O)OC)[Lr],[Th]CC(C(=O)OC)(C)[Lr],53.69,46.31,326,0.5369
+33,MA,MMA,[Th]CC(C(=O)OC)[Lr],[Th]CC(C(=O)OC)(C)[Lr],63.4,36.6,319,0.634
+34,MA,MMA,[Th]CC(C(=O)OC)[Lr],[Th]CC(C(=O)OC)(C)[Lr],73.08,26.92,311,0.7308
+35,MA,MMA,[Th]CC(C(=O)OC)[Lr],[Th]CC(C(=O)OC)(C)[Lr],82.39,17.61,307,0.8239
+36,MA,MMA,[Th]CC(C(=O)OC)[Lr],[Th]CC(C(=O)OC)(C)[Lr],91.41,8.59,303,0.9141
+37,MA,EMA,[Th]CC(C(=O)OC)[Lr],[Th]CC(C(=O)OCC)(C)[Lr],0,100,340,0
+38,MA,EMA,[Th]CC(C(=O)OC)[Lr],[Th]CC(C(=O)OCC)(C)[Lr],24.79,75.21,325,0.2479
+39,MA,EMA,[Th]CC(C(=O)OC)[Lr],[Th]CC(C(=O)OCC)(C)[Lr],46.97,53.03,309,0.4697
+40,MA,EMA,[Th]CC(C(=O)OC)[Lr],[Th]CC(C(=O)OCC)(C)[Lr],66.43,33.57,302,0.6643
+41,MA,EMA,[Th]CC(C(=O)OC)[Lr],[Th]CC(C(=O)OCC)(C)[Lr],83.87,16.13,296,0.8387
+42,MA,BMA,[Th]CC(C(=O)OC)[Lr],[Th]CC(C(=O)OCCCC)(C)[Lr],0,100,305,0
+43,MA,BMA,[Th]CC(C(=O)OC)[Lr],[Th]CC(C(=O)OCCCC)(C)[Lr],29.29,70.71,297,0.2929
+44,MA,BMA,[Th]CC(C(=O)OC)[Lr],[Th]CC(C(=O)OCCCC)(C)[Lr],52.21,47.79,293,0.5221
+45,MA,BMA,[Th]CC(C(=O)OC)[Lr],[Th]CC(C(=O)OCCCC)(C)[Lr],71.32,28.68,288,0.7132
+46,MA,BMA,[Th]CC(C(=O)OC)[Lr],[Th]CC(C(=O)OCCCC)(C)[Lr],87.07,12.93,290,0.8707
+47,MA,BMA,[Th]CC(C(=O)OC)[Lr],[Th]CC(C(=O)OCCCC)(C)[Lr],93.63,6.37,292,0.9363
+48,MA,iBMA,[Th]CC(C(=O)OC)[Lr],[Th]CC(C(=O)OCC(C)C)(C)[Lr],0,100,337,0
+49,MA,iBMA,[Th]CC(C(=O)OC)[Lr],[Th]CC(C(=O)OCC(C)C)(C)[Lr],29.29,70.71,319,0.2929
+50,MA,iBMA,[Th]CC(C(=O)OC)[Lr],[Th]CC(C(=O)OCC(C)C)(C)[Lr],52.21,47.79,305,0.5221
+51,MA,iBMA,[Th]CC(C(=O)OC)[Lr],[Th]CC(C(=O)OCC(C)C)(C)[Lr],71.32,28.68,301,0.7132
+52,MA,iBMA,[Th]CC(C(=O)OC)[Lr],[Th]CC(C(=O)OCC(C)C)(C)[Lr],87.07,12.93,297,0.8707
+53,MA,tBMA,[Th]CC(C(=O)OC)[Lr],[Th]CC(C(=O)OC(C)(C)C)(C)[Lr],0,100,375,0
+54,MA,tBMA,[Th]CC(C(=O)OC)[Lr],[Th]CC(C(=O)OC(C)(C)C)(C)[Lr],29.29,70.71,360,0.2929
+55,MA,tBMA,[Th]CC(C(=O)OC)[Lr],[Th]CC(C(=O)OC(C)(C)C)(C)[Lr],52.21,47.79,339,0.5221
+56,MA,tBMA,[Th]CC(C(=O)OC)[Lr],[Th]CC(C(=O)OC(C)(C)C)(C)[Lr],71.32,28.68,318,0.7132
+57,MA,tBMA,[Th]CC(C(=O)OC)[Lr],[Th]CC(C(=O)OC(C)(C)C)(C)[Lr],87.07,12.93,303,0.8707
+58,MA,S,[Th]CC(C(=O)OC)[Lr],[Th]CC(C1=CC=CC=C1)[Lr],0,100,380,0
+59,MA,S,[Th]CC(C(=O)OC)[Lr],[Th]CC(C1=CC=CC=C1)[Lr],23.31,76.69,364,0.2331
+60,MA,S,[Th]CC(C(=O)OC)[Lr],[Th]CC(C1=CC=CC=C1)[Lr],44.68,55.32,344,0.4468
+61,MA,S,[Th]CC(C(=O)OC)[Lr],[Th]CC(C1=CC=CC=C1)[Lr],64.43,35.57,326,0.6443
+62,MA,S,[Th]CC(C(=O)OC)[Lr],[Th]CC(C1=CC=CC=C1)[Lr],82.91,17.09,309,0.8291
+63,MA,AN,[Th]CC(C(=O)OC)[Lr],[Th]CC(C#N)[Lr],0,100,378,0
+64,MA,AN,[Th]CC(C(=O)OC)[Lr],[Th]CC(C#N)[Lr],6.41,93.59,375,0.0641
+65,MA,AN,[Th]CC(C(=O)OC)[Lr],[Th]CC(C#N)[Lr],13.36,86.64,372,0.1336
+66,MA,AN,[Th]CC(C(=O)OC)[Lr],[Th]CC(C#N)[Lr],20.88,79.12,364,0.2088
+67,MA,AN,[Th]CC(C(=O)OC)[Lr],[Th]CC(C#N)[Lr],29.11,70.89,354,0.2911
+68,MA,AN,[Th]CC(C(=O)OC)[Lr],[Th]CC(C#N)[Lr],38.05,61.95,346,0.3805
+69,MA,AN,[Th]CC(C(=O)OC)[Lr],[Th]CC(C#N)[Lr],48.11,51.89,338,0.4811
+70,MA,AN,[Th]CC(C(=O)OC)[Lr],[Th]CC(C#N)[Lr],58.91,41.09,329,0.5891
+71,MA,AN,[Th]CC(C(=O)OC)[Lr],[Th]CC(C#N)[Lr],71.05,28.95,316,0.7105
+72,MA,AN,[Th]CC(C(=O)OC)[Lr],[Th]CC(C#N)[Lr],84.83,15.17,303,0.8483
+73,MA,VC,[Th]CC(C(=O)OC)[Lr],[Th]CC(Cl)[Lr],0,100,350,0
+74,MA,VC,[Th]CC(C(=O)OC)[Lr],[Th]CC(Cl)[Lr],15.38,84.62,335,0.1538
+75,MA,VC,[Th]CC(C(=O)OC)[Lr],[Th]CC(Cl)[Lr],32.67,67.33,325,0.3267
+76,MA,VC,[Th]CC(C(=O)OC)[Lr],[Th]CC(Cl)[Lr],52.05,47.95,314,0.5205
+77,MA,VC,[Th]CC(C(=O)OC)[Lr],[Th]CC(Cl)[Lr],74.35,25.65,305,0.7435
+79,EA,BA,[Th]CC(C(=O)OCC)[Lr],[Th]CC(C(=O)OCCCC)[Lr],24.27,75.73,241,0.2427
+80,EA,BA,[Th]CC(C(=O)OCC)[Lr],[Th]CC(C(=O)OCCCC)[Lr],45.87,54.13,248,0.4587
+81,EA,BA,[Th]CC(C(=O)OCC)[Lr],[Th]CC(C(=O)OCCCC)[Lr],65.81,34.19,254,0.6581
+82,EA,BA,[Th]CC(C(=O)OCC)[Lr],[Th]CC(C(=O)OCCCC)[Lr],83.33,16.67,259,0.8333
+85,EA,iBA,[Th]CC(C(=O)OCC)[Lr],[Th]CC(C(=O)OCC(C)C)[Lr],24.27,75.73,260,0.2427
+86,EA,iBA,[Th]CC(C(=O)OCC)[Lr],[Th]CC(C(=O)OCC(C)C)[Lr],45.87,54.13,261,0.4587
+87,EA,iBA,[Th]CC(C(=O)OCC)[Lr],[Th]CC(C(=O)OCC(C)C)[Lr],65.81,34.19,263,0.6581
+88,EA,iBA,[Th]CC(C(=O)OCC)[Lr],[Th]CC(C(=O)OCC(C)C)[Lr],83.33,16.67,263,0.8333
+90,EA,tBA,[Th]CC(C(=O)OCC)[Lr],[Th]CC(C(=O)OC(C)(C)C)[Lr],24.27,75.73,308,0.2427
+91,EA,tBA,[Th]CC(C(=O)OCC)[Lr],[Th]CC(C(=O)OC(C)(C)C)[Lr],45.87,54.13,294,0.4587
+92,EA,tBA,[Th]CC(C(=O)OCC)[Lr],[Th]CC(C(=O)OC(C)(C)C)[Lr],65.81,34.19,281,0.6581
+93,EA,tBA,[Th]CC(C(=O)OCC)[Lr],[Th]CC(C(=O)OC(C)(C)C)[Lr],83.33,16.67,273,0.8333
+95,EA,EHA,[Th]CC(C(=O)OCC)[Lr],[Th]CC(C(=O)OCC(CC)CCCC)[Lr],31.51,68.49,223,0.3151
+96,EA,EHA,[Th]CC(C(=O)OCC)[Lr],[Th]CC(C(=O)OCC(CC)CCCC)[Lr],55.17,44.83,234,0.5517
+97,EA,EHA,[Th]CC(C(=O)OCC)[Lr],[Th]CC(C(=O)OCC(CC)CCCC)[Lr],73.27,26.73,244,0.7327
+98,EA,EHA,[Th]CC(C(=O)OCC)[Lr],[Th]CC(C(=O)OCC(CC)CCCC)[Lr],88.03,11.97,255,0.8803
+100,EA,MMA,[Th]CC(C(=O)OCC)[Lr],[Th]CC(C(=O)OC)(C)[Lr],20,80,354,0.2
+101,EA,MMA,[Th]CC(C(=O)OCC)[Lr],[Th]CC(C(=O)OC)(C)[Lr],39.85,60.15,323,0.3985
+102,EA,MMA,[Th]CC(C(=O)OCC)[Lr],[Th]CC(C(=O)OC)(C)[Lr],60.15,39.85,297,0.6015
+103,EA,MMA,[Th]CC(C(=O)OCC)[Lr],[Th]CC(C(=O)OC)(C)[Lr],79.85,20.15,278,0.7985
+105,EA,EMA,[Th]CC(C(=O)OCC)[Lr],[Th]CC(C(=O)OCC)(C)[Lr],22.22,77.78,318,0.2222
+106,EA,EMA,[Th]CC(C(=O)OCC)[Lr],[Th]CC(C(=O)OCC)(C)[Lr],43.33,56.67,294,0.4333
+107,EA,EMA,[Th]CC(C(=O)OCC)[Lr],[Th]CC(C(=O)OCC)(C)[Lr],62.9,37.1,280,0.629
+108,EA,EMA,[Th]CC(C(=O)OCC)[Lr],[Th]CC(C(=O)OCC)(C)[Lr],82.17,17.83,270,0.8217
+110,EA,BMA,[Th]CC(C(=O)OCC)[Lr],[Th]CC(C(=O)OCCCC)(C)[Lr],26.09,73.91,283,0.2609
+111,EA,BMA,[Th]CC(C(=O)OCC)[Lr],[Th]CC(C(=O)OCCCC)(C)[Lr],48.54,51.46,272,0.4854
+112,EA,BMA,[Th]CC(C(=O)OCC)[Lr],[Th]CC(C(=O)OCCCC)(C)[Lr],67.86,32.14,266,0.6786
+113,EA,BMA,[Th]CC(C(=O)OCC)[Lr],[Th]CC(C(=O)OCCCC)(C)[Lr],85.25,14.75,265,0.8525
+115,EA,iBMA,[Th]CC(C(=O)OCC)[Lr],[Th]CC(C(=O)OCC(C)C)(C)[Lr],26.09,73.91,311,0.2609
+116,EA,iBMA,[Th]CC(C(=O)OCC)[Lr],[Th]CC(C(=O)OCC(C)C)(C)[Lr],48.54,51.46,294,0.4854
+117,EA,iBMA,[Th]CC(C(=O)OCC)[Lr],[Th]CC(C(=O)OCC(C)C)(C)[Lr],67.86,32.14,279,0.6786
+118,EA,iBMA,[Th]CC(C(=O)OCC)[Lr],[Th]CC(C(=O)OCC(C)C)(C)[Lr],85.25,14.75,272,0.8525
+120,EA,tBMA,[Th]CC(C(=O)OCC)[Lr],[Th]CC(C(=O)OC(C)(C)C)(C)[Lr],26.09,73.91,355,0.2609
+121,EA,tBMA,[Th]CC(C(=O)OCC)[Lr],[Th]CC(C(=O)OC(C)(C)C)(C)[Lr],48.54,51.46,324,0.4854
+122,EA,tBMA,[Th]CC(C(=O)OCC)[Lr],[Th]CC(C(=O)OC(C)(C)C)(C)[Lr],67.86,32.14,299,0.6786
+123,EA,tBMA,[Th]CC(C(=O)OCC)[Lr],[Th]CC(C(=O)OC(C)(C)C)(C)[Lr],85.25,14.75,279,0.8525
+125,EA,S,[Th]CC(C(=O)OCC)[Lr],[Th]CC(C1=CC=CC=C1)[Lr],20.63,79.37,357,0.2063
+126,EA,S,[Th]CC(C(=O)OCC)[Lr],[Th]CC(C1=CC=CC=C1)[Lr],41.09,58.91,334,0.4109
+127,EA,S,[Th]CC(C(=O)OCC)[Lr],[Th]CC(C1=CC=CC=C1)[Lr],60.77,39.23,310,0.6077
+128,EA,S,[Th]CC(C(=O)OCC)[Lr],[Th]CC(C1=CC=CC=C1)[Lr],80.92,19.08,285,0.8092
+130,EA,AN,[Th]CC(C(=O)OCC)[Lr],[Th]CC(C#N)[Lr],11.69,88.31,364,0.1169
+131,EA,AN,[Th]CC(C(=O)OCC)[Lr],[Th]CC(C#N)[Lr],26.15,73.85,347,0.2615
+132,EA,AN,[Th]CC(C(=O)OCC)[Lr],[Th]CC(C#N)[Lr],44.21,55.79,321,0.4421
+133,EA,AN,[Th]CC(C(=O)OCC)[Lr],[Th]CC(C#N)[Lr],68.13,31.87,296,0.6813
+135,EA,VC,[Th]CC(C(=O)OCC)[Lr],[Th]CC(Cl)[Lr],13.5,86.5,333,0.135
+136,EA,VC,[Th]CC(C(=O)OCC)[Lr],[Th]CC(Cl)[Lr],29.44,70.56,312,0.2944
+137,EA,VC,[Th]CC(C(=O)OCC)[Lr],[Th]CC(Cl)[Lr],48.44,51.56,294,0.4844
+138,EA,VC,[Th]CC(C(=O)OCC)[Lr],[Th]CC(Cl)[Lr],71.43,28.57,279,0.7143
+140,BA,iBA,[Th]CC(C(=O)OCCCC)[Lr],[Th]CC(C(=O)OCC(C)C)[Lr],20,80,253,0.2
+141,BA,iBA,[Th]CC(C(=O)OCCCC)[Lr],[Th]CC(C(=O)OCC(C)C)[Lr],40,60,249,0.4
+142,BA,iBA,[Th]CC(C(=O)OCCCC)[Lr],[Th]CC(C(=O)OCC(C)C)[Lr],60,40,243,0.6
+143,BA,iBA,[Th]CC(C(=O)OCCCC)[Lr],[Th]CC(C(=O)OCC(C)C)[Lr],80,20,238,0.8
+146,BA,tBA,[Th]CC(C(=O)OCCCC)[Lr],[Th]CC(C(=O)OC(C)(C)C)[Lr],20,80,299,0.2
+147,BA,tBA,[Th]CC(C(=O)OCCCC)[Lr],[Th]CC(C(=O)OC(C)(C)C)[Lr],40,60,278,0.4
+148,BA,tBA,[Th]CC(C(=O)OCCCC)[Lr],[Th]CC(C(=O)OC(C)(C)C)[Lr],60,40,260,0.6
+149,BA,tBA,[Th]CC(C(=O)OCCCC)[Lr],[Th]CC(C(=O)OC(C)(C)C)[Lr],80,20,246,0.8
+151,BA,EHA,[Th]CC(C(=O)OCCCC)[Lr],[Th]CC(C(=O)OCC(CC)CCCC)[Lr],26.47,73.53,218,0.2647
+152,BA,EHA,[Th]CC(C(=O)OCCCC)[Lr],[Th]CC(C(=O)OCC(CC)CCCC)[Lr],48.65,51.35,221,0.4865
+153,BA,EHA,[Th]CC(C(=O)OCCCC)[Lr],[Th]CC(C(=O)OCC(CC)CCCC)[Lr],67.9,32.1,224,0.679
+154,BA,EHA,[Th]CC(C(=O)OCCCC)[Lr],[Th]CC(C(=O)OCC(CC)CCCC)[Lr],85.23,14.77,227,0.8523
+156,BA,MMA,[Th]CC(C(=O)OCCCC)[Lr],[Th]CC(C(=O)OC)(C)[Lr],16.39,83.61,349,0.1639
+157,BA,MMA,[Th]CC(C(=O)OCCCC)[Lr],[Th]CC(C(=O)OC)(C)[Lr],34.19,65.81,314,0.3419
+158,BA,MMA,[Th]CC(C(=O)OCCCC)[Lr],[Th]CC(C(=O)OC)(C)[Lr],54.13,45.87,281,0.5413
+159,BA,MMA,[Th]CC(C(=O)OCCCC)[Lr],[Th]CC(C(=O)OC)(C)[Lr],75.73,24.27,255,0.7573
+161,BA,EMA,[Th]CC(C(=O)OCCCC)[Lr],[Th]CC(C(=O)OCC)(C)[Lr],18.18,81.82,314,0.1818
+162,BA,EMA,[Th]CC(C(=O)OCCCC)[Lr],[Th]CC(C(=O)OCC)(C)[Lr],37.14,62.86,285,0.3714
+163,BA,EMA,[Th]CC(C(=O)OCCCC)[Lr],[Th]CC(C(=O)OCC)(C)[Lr],57.43,42.57,262,0.5743
+164,BA,EMA,[Th]CC(C(=O)OCCCC)[Lr],[Th]CC(C(=O)OCC)(C)[Lr],77.78,22.22,247,0.7778
+166,BA,BMA,[Th]CC(C(=O)OCCCC)[Lr],[Th]CC(C(=O)OCCCC)(C)[Lr],21.59,78.41,282,0.2159
+167,BA,BMA,[Th]CC(C(=O)OCCCC)[Lr],[Th]CC(C(=O)OCCCC)(C)[Lr],42.53,57.47,260,0.4253
+168,BA,BMA,[Th]CC(C(=O)OCCCC)[Lr],[Th]CC(C(=O)OCCCC)(C)[Lr],62.22,37.78,249,0.6222
+169,BA,BMA,[Th]CC(C(=O)OCCCC)[Lr],[Th]CC(C(=O)OCCCC)(C)[Lr],81.72,18.28,239,0.8172
+171,BA,iBMA,[Th]CC(C(=O)OCCCC)[Lr],[Th]CC(C(=O)OCC(C)C)(C)[Lr],21.59,78.41,310,0.2159
+172,BA,iBMA,[Th]CC(C(=O)OCCCC)[Lr],[Th]CC(C(=O)OCC(C)C)(C)[Lr],42.53,57.47,280,0.4253
+173,BA,iBMA,[Th]CC(C(=O)OCCCC)[Lr],[Th]CC(C(=O)OCC(C)C)(C)[Lr],62.22,37.78,261,0.6222
+174,BA,iBMA,[Th]CC(C(=O)OCCCC)[Lr],[Th]CC(C(=O)OCC(C)C)(C)[Lr],81.72,18.28,245,0.8172
+176,BA,tBMA,[Th]CC(C(=O)OCCCC)[Lr],[Th]CC(C(=O)OC(C)(C)C)(C)[Lr],21.59,78.41,350,0.2159
+177,BA,tBMA,[Th]CC(C(=O)OCCCC)[Lr],[Th]CC(C(=O)OC(C)(C)C)(C)[Lr],42.53,57.47,313,0.4253
+178,BA,tBMA,[Th]CC(C(=O)OCCCC)[Lr],[Th]CC(C(=O)OC(C)(C)C)(C)[Lr],62.22,37.78,279,0.6222
+179,BA,tBMA,[Th]CC(C(=O)OCCCC)[Lr],[Th]CC(C(=O)OC(C)(C)C)(C)[Lr],81.72,18.28,256,0.8172
+181,BA,S,[Th]CC(C(=O)OCCCC)[Lr],[Th]CC(C1=CC=CC=C1)[Lr],16.95,83.05,347,0.1695
+182,BA,S,[Th]CC(C(=O)OCCCC)[Lr],[Th]CC(C1=CC=CC=C1)[Lr],35.09,64.91,314,0.3509
+183,BA,S,[Th]CC(C(=O)OCCCC)[Lr],[Th]CC(C1=CC=CC=C1)[Lr],55.14,44.86,286,0.5514
+184,BA,S,[Th]CC(C(=O)OCCCC)[Lr],[Th]CC(C1=CC=CC=C1)[Lr],76.24,23.76,257,0.7624
+186,BA,AN,[Th]CC(C(=O)OCCCC)[Lr],[Th]CC(C#N)[Lr],9.39,90.61,353,0.0939
+187,BA,AN,[Th]CC(C(=O)OCCCC)[Lr],[Th]CC(C#N)[Lr],21.61,78.39,337,0.2161
+188,BA,AN,[Th]CC(C(=O)OCCCC)[Lr],[Th]CC(C#N)[Lr],38.27,61.73,311,0.3827
+189,BA,AN,[Th]CC(C(=O)OCCCC)[Lr],[Th]CC(C#N)[Lr],62.2,37.8,277,0.622
+191,BA,VC,[Th]CC(C(=O)OCCCC)[Lr],[Th]CC(Cl)[Lr],10.85,89.15,325,0.1085
+192,BA,VC,[Th]CC(C(=O)OCCCC)[Lr],[Th]CC(Cl)[Lr],24.52,75.48,303,0.2452
+193,BA,VC,[Th]CC(C(=O)OCCCC)[Lr],[Th]CC(Cl)[Lr],42.24,57.76,275,0.4224
+194,BA,VC,[Th]CC(C(=O)OCCCC)[Lr],[Th]CC(Cl)[Lr],65.87,34.13,258,0.6587
+196,iBA,tBA,[Th]CC(C(=O)OCC(C)C)[Lr],[Th]CC(C(=O)OC(C)(C)C)[Lr],20,80,309,0.2
+197,iBA,tBA,[Th]CC(C(=O)OCC(C)C)[Lr],[Th]CC(C(=O)OC(C)(C)C)[Lr],40,60,297,0.4
+198,iBA,tBA,[Th]CC(C(=O)OCC(C)C)[Lr],[Th]CC(C(=O)OC(C)(C)C)[Lr],60,40,279,0.6
+199,iBA,tBA,[Th]CC(C(=O)OCC(C)C)[Lr],[Th]CC(C(=O)OC(C)(C)C)[Lr],80,20,265,0.8
+202,iBA,EHA,[Th]CC(C(=O)OCC(C)C)[Lr],[Th]CC(C(=O)OCC(CC)CCCC)[Lr],26.47,73.53,223,0.2647
+203,iBA,EHA,[Th]CC(C(=O)OCC(C)C)[Lr],[Th]CC(C(=O)OCC(CC)CCCC)[Lr],48.65,51.35,230,0.4865
+204,iBA,EHA,[Th]CC(C(=O)OCC(C)C)[Lr],[Th]CC(C(=O)OCC(CC)CCCC)[Lr],67.9,32.1,240,0.679
+205,iBA,EHA,[Th]CC(C(=O)OCC(C)C)[Lr],[Th]CC(C(=O)OCC(CC)CCCC)[Lr],85.23,14.77,249,0.8523
+207,iBA,MMA,[Th]CC(C(=O)OCC(C)C)[Lr],[Th]CC(C(=O)OC)(C)[Lr],16.39,83.61,353,0.1639
+208,iBA,MMA,[Th]CC(C(=O)OCC(C)C)[Lr],[Th]CC(C(=O)OC)(C)[Lr],34.19,65.81,327,0.3419
+209,iBA,MMA,[Th]CC(C(=O)OCC(C)C)[Lr],[Th]CC(C(=O)OC)(C)[Lr],54.13,45.87,299,0.5413
+210,iBA,MMA,[Th]CC(C(=O)OCC(C)C)[Lr],[Th]CC(C(=O)OC)(C)[Lr],75.73,24.27,276,0.7573
+212,iBA,EMA,[Th]CC(C(=O)OCC(C)C)[Lr],[Th]CC(C(=O)OCC)(C)[Lr],18.18,81.82,322,0.1818
+213,iBA,EMA,[Th]CC(C(=O)OCC(C)C)[Lr],[Th]CC(C(=O)OCC)(C)[Lr],37.14,62.86,300,0.3714
+214,iBA,EMA,[Th]CC(C(=O)OCC(C)C)[Lr],[Th]CC(C(=O)OCC)(C)[Lr],57.43,42.57,281,0.5743
+215,iBA,EMA,[Th]CC(C(=O)OCC(C)C)[Lr],[Th]CC(C(=O)OCC)(C)[Lr],77.78,22.22,268,0.7778
+217,iBA,BMA,[Th]CC(C(=O)OCC(C)C)[Lr],[Th]CC(C(=O)OCCCC)(C)[Lr],21.59,78.41,289,0.2159
+218,iBA,BMA,[Th]CC(C(=O)OCC(C)C)[Lr],[Th]CC(C(=O)OCCCC)(C)[Lr],42.53,57.47,275,0.4253
+219,iBA,BMA,[Th]CC(C(=O)OCC(C)C)[Lr],[Th]CC(C(=O)OCCCC)(C)[Lr],62.22,37.78,264,0.6222
+220,iBA,BMA,[Th]CC(C(=O)OCC(C)C)[Lr],[Th]CC(C(=O)OCCCC)(C)[Lr],81.72,18.28,261,0.8172
+222,iBA,iBMA,[Th]CC(C(=O)OCC(C)C)[Lr],[Th]CC(C(=O)OCC(C)C)(C)[Lr],21.59,78.41,311,0.2159
+223,iBA,iBMA,[Th]CC(C(=O)OCC(C)C)[Lr],[Th]CC(C(=O)OCC(C)C)(C)[Lr],42.53,57.47,292,0.4253
+224,iBA,iBMA,[Th]CC(C(=O)OCC(C)C)[Lr],[Th]CC(C(=O)OCC(C)C)(C)[Lr],62.22,37.78,279,0.6222
+225,iBA,iBMA,[Th]CC(C(=O)OCC(C)C)[Lr],[Th]CC(C(=O)OCC(C)C)(C)[Lr],81.72,18.28,266,0.8172
+227,iBA,tBMA,[Th]CC(C(=O)OCC(C)C)[Lr],[Th]CC(C(=O)OC(C)(C)C)(C)[Lr],21.59,78.41,353,0.2159
+228,iBA,tBMA,[Th]CC(C(=O)OCC(C)C)[Lr],[Th]CC(C(=O)OC(C)(C)C)(C)[Lr],42.53,57.47,339,0.4253
+229,iBA,tBMA,[Th]CC(C(=O)OCC(C)C)[Lr],[Th]CC(C(=O)OC(C)(C)C)(C)[Lr],62.22,37.78,314,0.6222
+230,iBA,tBMA,[Th]CC(C(=O)OCC(C)C)[Lr],[Th]CC(C(=O)OC(C)(C)C)(C)[Lr],81.72,18.28,295,0.8172
+232,iBA,S,[Th]CC(C(=O)OCC(C)C)[Lr],[Th]CC(C1=CC=CC=C1)[Lr],16.95,83.05,355,0.1695
+233,iBA,S,[Th]CC(C(=O)OCC(C)C)[Lr],[Th]CC(C1=CC=CC=C1)[Lr],35.09,64.91,328,0.3509
+234,iBA,S,[Th]CC(C(=O)OCC(C)C)[Lr],[Th]CC(C1=CC=CC=C1)[Lr],55.14,44.86,302,0.5514
+235,iBA,S,[Th]CC(C(=O)OCC(C)C)[Lr],[Th]CC(C1=CC=CC=C1)[Lr],76.24,23.76,279,0.7624
+237,iBA,AN,[Th]CC(C(=O)OCC(C)C)[Lr],[Th]CC(C#N)[Lr],9.39,90.61,360,0.0939
+238,iBA,AN,[Th]CC(C(=O)OCC(C)C)[Lr],[Th]CC(C#N)[Lr],21.61,78.39,349,0.2161
+239,iBA,AN,[Th]CC(C(=O)OCC(C)C)[Lr],[Th]CC(C#N)[Lr],38.27,61.73,327,0.3827
+240,iBA,AN,[Th]CC(C(=O)OCC(C)C)[Lr],[Th]CC(C#N)[Lr],62.2,37.8,294,0.622
+242,tBA,EHA,[Th]CC(C(=O)OC(C)(C)C)[Lr],[Th]CC(C(=O)OCC(CC)CCCC)[Lr],26.47,73.53,230,0.2647
+243,tBA,EHA,[Th]CC(C(=O)OC(C)(C)C)[Lr],[Th]CC(C(=O)OCC(CC)CCCC)[Lr],48.65,51.35,251,0.4865
+244,tBA,EHA,[Th]CC(C(=O)OC(C)(C)C)[Lr],[Th]CC(C(=O)OCC(CC)CCCC)[Lr],67.9,32.1,271,0.679
+245,tBA,EHA,[Th]CC(C(=O)OC(C)(C)C)[Lr],[Th]CC(C(=O)OCC(CC)CCCC)[Lr],85.23,14.77,295,0.8523
+248,tBA,MMA,[Th]CC(C(=O)OC(C)(C)C)[Lr],[Th]CC(C(=O)OC)(C)[Lr],16.39,83.61,368,0.1639
+249,tBA,MMA,[Th]CC(C(=O)OC(C)(C)C)[Lr],[Th]CC(C(=O)OC)(C)[Lr],34.19,65.81,354,0.3419
+250,tBA,MMA,[Th]CC(C(=O)OC(C)(C)C)[Lr],[Th]CC(C(=O)OC)(C)[Lr],54.13,45.87,342,0.5413
+251,tBA,MMA,[Th]CC(C(=O)OC(C)(C)C)[Lr],[Th]CC(C(=O)OC)(C)[Lr],75.73,24.27,334,0.7573
+253,tBA,EMA,[Th]CC(C(=O)OC(C)(C)C)[Lr],[Th]CC(C(=O)OCC)(C)[Lr],18.18,81.82,336,0.1818
+254,tBA,EMA,[Th]CC(C(=O)OC(C)(C)C)[Lr],[Th]CC(C(=O)OCC)(C)[Lr],37.14,62.86,327,0.3714
+255,tBA,EMA,[Th]CC(C(=O)OC(C)(C)C)[Lr],[Th]CC(C(=O)OCC)(C)[Lr],57.43,42.57,322,0.5743
+256,tBA,EMA,[Th]CC(C(=O)OC(C)(C)C)[Lr],[Th]CC(C(=O)OCC)(C)[Lr],77.78,22.22,320,0.7778
+258,tBA,BMA,[Th]CC(C(=O)OC(C)(C)C)[Lr],[Th]CC(C(=O)OCCCC)(C)[Lr],21.59,78.41,296,0.2159
+259,tBA,BMA,[Th]CC(C(=O)OC(C)(C)C)[Lr],[Th]CC(C(=O)OCCCC)(C)[Lr],42.53,57.47,298,0.4253
+260,tBA,BMA,[Th]CC(C(=O)OC(C)(C)C)[Lr],[Th]CC(C(=O)OCCCC)(C)[Lr],62.22,37.78,307,0.6222
+261,tBA,BMA,[Th]CC(C(=O)OC(C)(C)C)[Lr],[Th]CC(C(=O)OCCCC)(C)[Lr],81.72,18.28,312,0.8172
+263,tBA,iBMA,[Th]CC(C(=O)OC(C)(C)C)[Lr],[Th]CC(C(=O)OCC(C)C)(C)[Lr],21.59,78.41,331,0.2159
+264,tBA,iBMA,[Th]CC(C(=O)OC(C)(C)C)[Lr],[Th]CC(C(=O)OCC(C)C)(C)[Lr],42.53,57.47,319,0.4253
+265,tBA,iBMA,[Th]CC(C(=O)OC(C)(C)C)[Lr],[Th]CC(C(=O)OCC(C)C)(C)[Lr],62.22,37.78,314,0.6222
+266,tBA,iBMA,[Th]CC(C(=O)OC(C)(C)C)[Lr],[Th]CC(C(=O)OCC(C)C)(C)[Lr],81.72,18.28,318,0.8172
+268,tBA,tBMA,[Th]CC(C(=O)OC(C)(C)C)[Lr],[Th]CC(C(=O)OC(C)(C)C)(C)[Lr],21.59,78.41,378,0.2159
+269,tBA,tBMA,[Th]CC(C(=O)OC(C)(C)C)[Lr],[Th]CC(C(=O)OC(C)(C)C)(C)[Lr],42.53,57.47,361,0.4253
+270,tBA,tBMA,[Th]CC(C(=O)OC(C)(C)C)[Lr],[Th]CC(C(=O)OC(C)(C)C)(C)[Lr],62.22,37.78,344,0.6222
+271,tBA,tBMA,[Th]CC(C(=O)OC(C)(C)C)[Lr],[Th]CC(C(=O)OC(C)(C)C)(C)[Lr],81.72,18.28,336,0.8172
+273,tBA,S,[Th]CC(C(=O)OC(C)(C)C)[Lr],[Th]CC(C1=CC=CC=C1)[Lr],16.95,83.05,371,0.1695
+274,tBA,S,[Th]CC(C(=O)OC(C)(C)C)[Lr],[Th]CC(C1=CC=CC=C1)[Lr],35.09,64.91,360,0.3509
+275,tBA,S,[Th]CC(C(=O)OC(C)(C)C)[Lr],[Th]CC(C1=CC=CC=C1)[Lr],55.14,44.86,350,0.5514
+276,tBA,S,[Th]CC(C(=O)OC(C)(C)C)[Lr],[Th]CC(C1=CC=CC=C1)[Lr],76.24,23.76,338,0.7624
+278,tBA,AN,[Th]CC(C(=O)OC(C)(C)C)[Lr],[Th]CC(C#N)[Lr],9.39,90.61,374,0.0939
+279,tBA,AN,[Th]CC(C(=O)OC(C)(C)C)[Lr],[Th]CC(C#N)[Lr],21.61,78.39,369,0.2161
+280,tBA,AN,[Th]CC(C(=O)OC(C)(C)C)[Lr],[Th]CC(C#N)[Lr],38.27,61.73,356,0.3827
+281,tBA,AN,[Th]CC(C(=O)OC(C)(C)C)[Lr],[Th]CC(C#N)[Lr],62.2,37.8,342,0.622
+283,EHA,MMA,[Th]CC(C(=O)OCC(CC)CCCC)[Lr],[Th]CC(C(=O)OC)(C)[Lr],11.97,88.03,339,0.1197
+284,EHA,MMA,[Th]CC(C(=O)OCC(CC)CCCC)[Lr],[Th]CC(C(=O)OC)(C)[Lr],26.47,73.53,303,0.2647
+285,EHA,MMA,[Th]CC(C(=O)OCC(CC)CCCC)[Lr],[Th]CC(C(=O)OC)(C)[Lr],44.83,55.17,261,0.4483
+286,EHA,MMA,[Th]CC(C(=O)OCC(CC)CCCC)[Lr],[Th]CC(C(=O)OC)(C)[Lr],68.49,31.51,243,0.6849
+289,EHA,EMA,[Th]CC(C(=O)OCC(CC)CCCC)[Lr],[Th]CC(C(=O)OCC)(C)[Lr],13.4,86.6,315,0.134
+290,EHA,EMA,[Th]CC(C(=O)OCC(CC)CCCC)[Lr],[Th]CC(C(=O)OCC)(C)[Lr],29.21,70.79,283,0.2921
+291,EHA,EMA,[Th]CC(C(=O)OCC(CC)CCCC)[Lr],[Th]CC(C(=O)OCC)(C)[Lr],48.1,51.9,258,0.481
+292,EHA,EMA,[Th]CC(C(=O)OCC(CC)CCCC)[Lr],[Th]CC(C(=O)OCC)(C)[Lr],71.43,28.57,234,0.7143
+294,EHA,BMA,[Th]CC(C(=O)OCC(CC)CCCC)[Lr],[Th]CC(C(=O)OCCCC)(C)[Lr],16.25,83.75,276,0.1625
+295,EHA,BMA,[Th]CC(C(=O)OCC(CC)CCCC)[Lr],[Th]CC(C(=O)OCCCC)(C)[Lr],33.78,66.22,257,0.3378
+296,EHA,BMA,[Th]CC(C(=O)OCC(CC)CCCC)[Lr],[Th]CC(C(=O)OCCCC)(C)[Lr],53.62,46.38,239,0.5362
+297,EHA,BMA,[Th]CC(C(=O)OCC(CC)CCCC)[Lr],[Th]CC(C(=O)OCCCC)(C)[Lr],75.38,24.62,224,0.7538
+299,EHA,iBMA,[Th]CC(C(=O)OCC(CC)CCCC)[Lr],[Th]CC(C(=O)OCC(C)C)(C)[Lr],16.25,83.75,305,0.1625
+300,EHA,iBMA,[Th]CC(C(=O)OCC(CC)CCCC)[Lr],[Th]CC(C(=O)OCC(C)C)(C)[Lr],33.78,66.22,276,0.3378
+301,EHA,iBMA,[Th]CC(C(=O)OCC(CC)CCCC)[Lr],[Th]CC(C(=O)OCC(C)C)(C)[Lr],53.62,46.38,252,0.5362
+302,EHA,iBMA,[Th]CC(C(=O)OCC(CC)CCCC)[Lr],[Th]CC(C(=O)OCC(C)C)(C)[Lr],75.38,24.62,231,0.7538
+304,EHA,tBMA,[Th]CC(C(=O)OCC(CC)CCCC)[Lr],[Th]CC(C(=O)OC(C)(C)C)(C)[Lr],16.25,83.75,333,0.1625
+305,EHA,tBMA,[Th]CC(C(=O)OCC(CC)CCCC)[Lr],[Th]CC(C(=O)OC(C)(C)C)(C)[Lr],33.78,66.22,302,0.3378
+306,EHA,tBMA,[Th]CC(C(=O)OCC(CC)CCCC)[Lr],[Th]CC(C(=O)OC(C)(C)C)(C)[Lr],53.62,46.38,261,0.5362
+307,EHA,tBMA,[Th]CC(C(=O)OCC(CC)CCCC)[Lr],[Th]CC(C(=O)OC(C)(C)C)(C)[Lr],75.38,24.62,238,0.7538
+309,EHA,S,[Th]CC(C(=O)OCC(CC)CCCC)[Lr],[Th]CC(C1=CC=CC=C1)[Lr],12.39,87.61,335,0.1239
+310,EHA,S,[Th]CC(C(=O)OCC(CC)CCCC)[Lr],[Th]CC(C1=CC=CC=C1)[Lr],27.27,72.73,297,0.2727
+311,EHA,S,[Th]CC(C(=O)OCC(CC)CCCC)[Lr],[Th]CC(C1=CC=CC=C1)[Lr],45.88,54.12,266,0.4588
+312,EHA,S,[Th]CC(C(=O)OCC(CC)CCCC)[Lr],[Th]CC(C1=CC=CC=C1)[Lr],69.44,30.56,239,0.6944
+314,EHA,AN,[Th]CC(C(=O)OCC(CC)CCCC)[Lr],[Th]CC(C#N)[Lr],6.73,93.27,375,0.0673
+315,EHA,AN,[Th]CC(C(=O)OCC(CC)CCCC)[Lr],[Th]CC(C#N)[Lr],16.11,83.89,339,0.1611
+316,EHA,AN,[Th]CC(C(=O)OCC(CC)CCCC)[Lr],[Th]CC(C#N)[Lr],30.15,69.85,315,0.3015
+317,EHA,AN,[Th]CC(C(=O)OCC(CC)CCCC)[Lr],[Th]CC(C#N)[Lr],53.68,46.32,258,0.5368
+319,EHA,VC,[Th]CC(C(=O)OCC(CC)CCCC)[Lr],[Th]CC(Cl)[Lr],7.82,92.18,317,0.0782
+320,EHA,VC,[Th]CC(C(=O)OCC(CC)CCCC)[Lr],[Th]CC(Cl)[Lr],18.48,81.52,295,0.1848
+321,EHA,VC,[Th]CC(C(=O)OCC(CC)CCCC)[Lr],[Th]CC(Cl)[Lr],33.83,66.17,261,0.3383
+322,EHA,VC,[Th]CC(C(=O)OCC(CC)CCCC)[Lr],[Th]CC(Cl)[Lr],57.61,42.39,245,0.5761
+324,MMA,EMA,[Th]CC(C(=O)OC)(C)[Lr],[Th]CC(C(=O)OCC)(C)[Lr],22.22,77.78,356,0.2222
+325,MMA,EMA,[Th]CC(C(=O)OC)(C)[Lr],[Th]CC(C(=O)OCC)(C)[Lr],43.33,56.67,364,0.4333
+326,MMA,EMA,[Th]CC(C(=O)OC)(C)[Lr],[Th]CC(C(=O)OCC)(C)[Lr],62.9,37.1,370,0.629
+327,MMA,EMA,[Th]CC(C(=O)OC)(C)[Lr],[Th]CC(C(=O)OCC)(C)[Lr],82.17,17.83,375,0.8217
+330,MMA,BMA,[Th]CC(C(=O)OC)(C)[Lr],[Th]CC(C(=O)OCCCC)(C)[Lr],26.09,73.91,321,0.2609
+331,MMA,BMA,[Th]CC(C(=O)OC)(C)[Lr],[Th]CC(C(=O)OCCCC)(C)[Lr],48.54,51.46,336,0.4854
+332,MMA,BMA,[Th]CC(C(=O)OC)(C)[Lr],[Th]CC(C(=O)OCCCC)(C)[Lr],67.86,32.14,356,0.6786
+333,MMA,BMA,[Th]CC(C(=O)OC)(C)[Lr],[Th]CC(C(=O)OCCCC)(C)[Lr],85.25,14.75,367,0.8525
+335,MMA,iBMA,[Th]CC(C(=O)OC)(C)[Lr],[Th]CC(C(=O)OCC(C)C)(C)[Lr],26.09,73.91,342,0.2609
+336,MMA,iBMA,[Th]CC(C(=O)OC)(C)[Lr],[Th]CC(C(=O)OCC(C)C)(C)[Lr],48.54,51.46,353,0.4854
+337,MMA,iBMA,[Th]CC(C(=O)OC)(C)[Lr],[Th]CC(C(=O)OCC(C)C)(C)[Lr],67.86,32.14,368,0.6786
+338,MMA,iBMA,[Th]CC(C(=O)OC)(C)[Lr],[Th]CC(C(=O)OCC(C)C)(C)[Lr],85.25,14.75,372,0.8525
+340,MMA,tBMA,[Th]CC(C(=O)OC)(C)[Lr],[Th]CC(C(=O)OC(C)(C)C)(C)[Lr],26.09,73.91,378,0.2609
+341,MMA,tBMA,[Th]CC(C(=O)OC)(C)[Lr],[Th]CC(C(=O)OC(C)(C)C)(C)[Lr],48.54,51.46,375,0.4854
+342,MMA,tBMA,[Th]CC(C(=O)OC)(C)[Lr],[Th]CC(C(=O)OC(C)(C)C)(C)[Lr],67.86,32.14,375,0.6786
+343,MMA,tBMA,[Th]CC(C(=O)OC)(C)[Lr],[Th]CC(C(=O)OC(C)(C)C)(C)[Lr],85.25,14.75,375,0.8525
+345,MMA,S,[Th]CC(C(=O)OC)(C)[Lr],[Th]CC(C1=CC=CC=C1)[Lr],20.63,79.37,376,0.2063
+346,MMA,S,[Th]CC(C(=O)OC)(C)[Lr],[Th]CC(C1=CC=CC=C1)[Lr],41.09,58.91,376,0.4109
+347,MMA,S,[Th]CC(C(=O)OC)(C)[Lr],[Th]CC(C1=CC=CC=C1)[Lr],60.77,39.23,379,0.6077
+348,MMA,S,[Th]CC(C(=O)OC)(C)[Lr],[Th]CC(C1=CC=CC=C1)[Lr],80.92,19.08,382,0.8092
+350,MMA,AN,[Th]CC(C(=O)OC)(C)[Lr],[Th]CC(C#N)[Lr],11.69,88.31,377,0.1169
+351,MMA,AN,[Th]CC(C(=O)OC)(C)[Lr],[Th]CC(C#N)[Lr],26.15,73.85,374,0.2615
+352,MMA,AN,[Th]CC(C(=O)OC)(C)[Lr],[Th]CC(C#N)[Lr],44.21,55.79,370,0.4421
+353,MMA,AN,[Th]CC(C(=O)OC)(C)[Lr],[Th]CC(C#N)[Lr],68.13,31.87,374,0.6813
+355,MMA,VC,[Th]CC(C(=O)OC)(C)[Lr],[Th]CC(Cl)[Lr],13.5,86.5,343,0.135
+356,MMA,VC,[Th]CC(C(=O)OC)(C)[Lr],[Th]CC(Cl)[Lr],29.44,70.56,340,0.2944
+357,MMA,VC,[Th]CC(C(=O)OC)(C)[Lr],[Th]CC(Cl)[Lr],48.44,51.56,349,0.4844
+358,MMA,VC,[Th]CC(C(=O)OC)(C)[Lr],[Th]CC(Cl)[Lr],71.43,28.57,367,0.7143
+360,EMA,BMA,[Th]CC(C(=O)OCC)(C)[Lr],[Th]CC(C(=O)OCCCC)(C)[Lr],23.86,76.14,315,0.2386
+361,EMA,BMA,[Th]CC(C(=O)OCC)(C)[Lr],[Th]CC(C(=O)OCCCC)(C)[Lr],45.26,54.74,321,0.4526
+362,EMA,BMA,[Th]CC(C(=O)OCC)(C)[Lr],[Th]CC(C(=O)OCCCC)(C)[Lr],65,35,324,0.65
+363,EMA,BMA,[Th]CC(C(=O)OCC)(C)[Lr],[Th]CC(C(=O)OCCCC)(C)[Lr],83.02,16.98,334,0.8302
+366,EMA,iBMA,[Th]CC(C(=O)OCC)(C)[Lr],[Th]CC(C(=O)OCC(C)C)(C)[Lr],23.86,76.14,337,0.2386
+367,EMA,iBMA,[Th]CC(C(=O)OCC)(C)[Lr],[Th]CC(C(=O)OCC(C)C)(C)[Lr],45.26,54.74,338,0.4526
+368,EMA,iBMA,[Th]CC(C(=O)OCC)(C)[Lr],[Th]CC(C(=O)OCC(C)C)(C)[Lr],65,35,338,0.65
+369,EMA,iBMA,[Th]CC(C(=O)OCC)(C)[Lr],[Th]CC(C(=O)OCC(C)C)(C)[Lr],83.02,16.98,337,0.8302
+371,EMA,tBMA,[Th]CC(C(=O)OCC)(C)[Lr],[Th]CC(C(=O)OC(C)(C)C)(C)[Lr],23.86,76.14,372,0.2386
+372,EMA,tBMA,[Th]CC(C(=O)OCC)(C)[Lr],[Th]CC(C(=O)OC(C)(C)C)(C)[Lr],45.26,54.74,364,0.4526
+373,EMA,tBMA,[Th]CC(C(=O)OCC)(C)[Lr],[Th]CC(C(=O)OC(C)(C)C)(C)[Lr],65,35,359,0.65
+374,EMA,tBMA,[Th]CC(C(=O)OCC)(C)[Lr],[Th]CC(C(=O)OC(C)(C)C)(C)[Lr],83.02,16.98,354,0.8302
+376,EMA,S,[Th]CC(C(=O)OCC)(C)[Lr],[Th]CC(C1=CC=CC=C1)[Lr],18.55,81.45,369,0.1855
+377,EMA,S,[Th]CC(C(=O)OCC)(C)[Lr],[Th]CC(C1=CC=CC=C1)[Lr],37.82,62.18,360,0.3782
+378,EMA,S,[Th]CC(C(=O)OCC)(C)[Lr],[Th]CC(C1=CC=CC=C1)[Lr],57.76,42.24,353,0.5776
+379,EMA,S,[Th]CC(C(=O)OCC)(C)[Lr],[Th]CC(C1=CC=CC=C1)[Lr],78.76,21.24,349,0.7876
+381,EMA,AN,[Th]CC(C(=O)OCC)(C)[Lr],[Th]CC(C#N)[Lr],10.4,89.6,368,0.104
+382,EMA,AN,[Th]CC(C(=O)OCC)(C)[Lr],[Th]CC(C#N)[Lr],23.67,76.33,351,0.2367
+383,EMA,AN,[Th]CC(C(=O)OCC)(C)[Lr],[Th]CC(C#N)[Lr],41.04,58.96,347,0.4104
+384,EMA,AN,[Th]CC(C(=O)OCC)(C)[Lr],[Th]CC(C#N)[Lr],65.25,34.75,343,0.6525
+386,EMA,VC,[Th]CC(C(=O)OCC)(C)[Lr],[Th]CC(Cl)[Lr],12.03,87.97,334,0.1203
+387,EMA,VC,[Th]CC(C(=O)OCC)(C)[Lr],[Th]CC(Cl)[Lr],26.73,73.27,325,0.2673
+388,EMA,VC,[Th]CC(C(=O)OCC)(C)[Lr],[Th]CC(Cl)[Lr],45.14,54.86,330,0.4514
+389,EMA,VC,[Th]CC(C(=O)OCC)(C)[Lr],[Th]CC(Cl)[Lr],68.57,31.43,337,0.6857
+391,BMA,iBMA,[Th]CC(C(=O)OCCCC)(C)[Lr],[Th]CC(C(=O)OCC(C)C)(C)[Lr],20,80,333,0.2
+392,BMA,iBMA,[Th]CC(C(=O)OCCCC)(C)[Lr],[Th]CC(C(=O)OCC(C)C)(C)[Lr],39.76,60.24,328,0.3976
+393,BMA,iBMA,[Th]CC(C(=O)OCCCC)(C)[Lr],[Th]CC(C(=O)OCC(C)C)(C)[Lr],60.24,39.76,323,0.6024
+394,BMA,iBMA,[Th]CC(C(=O)OCCCC)(C)[Lr],[Th]CC(C(=O)OCC(C)C)(C)[Lr],79.76,20.24,317,0.7976
+397,BMA,tBMA,[Th]CC(C(=O)OCCCC)(C)[Lr],[Th]CC(C(=O)OC(C)(C)C)(C)[Lr],20,80,367,0.2
+398,BMA,tBMA,[Th]CC(C(=O)OCCCC)(C)[Lr],[Th]CC(C(=O)OC(C)(C)C)(C)[Lr],39.76,60.24,351,0.3976
+399,BMA,tBMA,[Th]CC(C(=O)OCCCC)(C)[Lr],[Th]CC(C(=O)OC(C)(C)C)(C)[Lr],60.24,39.76,338,0.6024
+400,BMA,tBMA,[Th]CC(C(=O)OCCCC)(C)[Lr],[Th]CC(C(=O)OC(C)(C)C)(C)[Lr],79.76,20.24,327,0.7976
+402,BMA,S,[Th]CC(C(=O)OCCCC)(C)[Lr],[Th]CC(C1=CC=CC=C1)[Lr],15.52,84.48,357,0.1552
+403,BMA,S,[Th]CC(C(=O)OCCCC)(C)[Lr],[Th]CC(C1=CC=CC=C1)[Lr],32.71,67.29,337,0.3271
+404,BMA,S,[Th]CC(C(=O)OCCCC)(C)[Lr],[Th]CC(C1=CC=CC=C1)[Lr],52.53,47.47,320,0.5253
+405,BMA,S,[Th]CC(C(=O)OCCCC)(C)[Lr],[Th]CC(C1=CC=CC=C1)[Lr],74.73,25.27,313,0.7473
+407,BMA,AN,[Th]CC(C(=O)OCCCC)(C)[Lr],[Th]CC(C#N)[Lr],8.55,91.45,364,0.0855
+408,BMA,AN,[Th]CC(C(=O)OCCCC)(C)[Lr],[Th]CC(C#N)[Lr],19.9,80.1,348,0.199
+409,BMA,AN,[Th]CC(C(=O)OCCCC)(C)[Lr],[Th]CC(C#N)[Lr],35.95,64.05,335,0.3595
+410,BMA,AN,[Th]CC(C(=O)OCCCC)(C)[Lr],[Th]CC(C#N)[Lr],59.83,40.17,314,0.5983
+412,BMA,VC,[Th]CC(C(=O)OCCCC)(C)[Lr],[Th]CC(Cl)[Lr],9.88,90.12,327,0.0988
+413,BMA,VC,[Th]CC(C(=O)OCCCC)(C)[Lr],[Th]CC(Cl)[Lr],22.61,77.39,314,0.2261
+414,BMA,VC,[Th]CC(C(=O)OCCCC)(C)[Lr],[Th]CC(Cl)[Lr],39.74,60.26,304,0.3974
+415,BMA,VC,[Th]CC(C(=O)OCCCC)(C)[Lr],[Th]CC(Cl)[Lr],63.48,36.52,297,0.6348
+417,iBMA,tBMA,[Th]CC(C(=O)OCC(C)C)(C)[Lr],[Th]CC(C(=O)OC(C)(C)C)(C)[Lr],20,80,372,0.2
+418,iBMA,tBMA,[Th]CC(C(=O)OCC(C)C)(C)[Lr],[Th]CC(C(=O)OC(C)(C)C)(C)[Lr],39.76,60.24,369,0.3976
+419,iBMA,tBMA,[Th]CC(C(=O)OCC(C)C)(C)[Lr],[Th]CC(C(=O)OC(C)(C)C)(C)[Lr],60.24,39.76,356,0.6024
+420,iBMA,tBMA,[Th]CC(C(=O)OCC(C)C)(C)[Lr],[Th]CC(C(=O)OC(C)(C)C)(C)[Lr],79.76,20.24,352,0.7976
+423,iBMA,S,[Th]CC(C(=O)OCC(C)C)(C)[Lr],[Th]CC(C1=CC=CC=C1)[Lr],15.52,84.48,368,0.1552
+424,iBMA,S,[Th]CC(C(=O)OCC(C)C)(C)[Lr],[Th]CC(C1=CC=CC=C1)[Lr],32.71,67.29,354,0.3271
+425,iBMA,S,[Th]CC(C(=O)OCC(C)C)(C)[Lr],[Th]CC(C1=CC=CC=C1)[Lr],52.53,47.47,345,0.5253
+426,iBMA,S,[Th]CC(C(=O)OCC(C)C)(C)[Lr],[Th]CC(C1=CC=CC=C1)[Lr],74.73,25.27,339,0.7473
+428,iBMA,AN,[Th]CC(C(=O)OCC(C)C)(C)[Lr],[Th]CC(C#N)[Lr],8.55,91.45,375,0.0855
+429,iBMA,AN,[Th]CC(C(=O)OCC(C)C)(C)[Lr],[Th]CC(C#N)[Lr],19.9,80.1,369,0.199
+430,iBMA,AN,[Th]CC(C(=O)OCC(C)C)(C)[Lr],[Th]CC(C#N)[Lr],35.95,64.05,353,0.3595
+431,iBMA,AN,[Th]CC(C(=O)OCC(C)C)(C)[Lr],[Th]CC(C#N)[Lr],59.83,40.17,349,0.5983
+433,tBMA,S,[Th]CC(C(=O)OC(C)(C)C)(C)[Lr],[Th]CC(C1=CC=CC=C1)[Lr],15.52,84.48,373,0.1552
+434,tBMA,S,[Th]CC(C(=O)OC(C)(C)C)(C)[Lr],[Th]CC(C1=CC=CC=C1)[Lr],32.71,67.29,376,0.3271
+435,tBMA,S,[Th]CC(C(=O)OC(C)(C)C)(C)[Lr],[Th]CC(C1=CC=CC=C1)[Lr],52.53,47.47,378,0.5253
+436,tBMA,S,[Th]CC(C(=O)OC(C)(C)C)(C)[Lr],[Th]CC(C1=CC=CC=C1)[Lr],74.73,25.27,379,0.7473
+439,tBMA,AN,[Th]CC(C(=O)OC(C)(C)C)(C)[Lr],[Th]CC(C#N)[Lr],8.55,91.45,376,0.0855
+440,tBMA,AN,[Th]CC(C(=O)OC(C)(C)C)(C)[Lr],[Th]CC(C#N)[Lr],19.9,80.1,369,0.199
+441,tBMA,AN,[Th]CC(C(=O)OC(C)(C)C)(C)[Lr],[Th]CC(C#N)[Lr],35.95,64.05,371,0.3595
+442,tBMA,AN,[Th]CC(C(=O)OC(C)(C)C)(C)[Lr],[Th]CC(C#N)[Lr],59.83,40.17,373,0.5983
+444,S,AN,[Th]CC(C1=CC=CC=C1)[Lr],[Th]CC(C#N)[Lr],11.29,88.71,378,0.1129
+445,S,AN,[Th]CC(C1=CC=CC=C1)[Lr],[Th]CC(C#N)[Lr],25.35,74.65,390,0.2535
+446,S,AN,[Th]CC(C1=CC=CC=C1)[Lr],[Th]CC(C#N)[Lr],43.41,56.59,385,0.4341
+447,S,AN,[Th]CC(C1=CC=CC=C1)[Lr],[Th]CC(C#N)[Lr],66.88,33.12,380,0.6688
+449,Poly[oxy(diethylsilylene)],,CC[Si]([Th])(O[Lr])CC,,100,0,130,1
+450,Poly(dimethyl siloxane),,C[Si]([Th])(C)O[Lr],,100,0,152,1
+451,"Poly(1,4-butadiene) (cis)",,[Th]C/C=C\C[Lr],,100,0,171,1
+452,Poly(dimethylsilylenemethylene),,[Th]C[Si]([Lr])(C)C,,100,0,173,1
+453,Poly[oxy(methylphenylsilylene)],,[Th]O[Si]([Lr])(C)c1ccccc1,,100,0,187,1
+454,Poly(3-hexoxypropylene oxide),,[Th]CC(O[Lr])COCCCCCC,,100,0,188,1
+455,Polyoxytetramethylene,,[Th]OCCCC[Lr],,100,0,190,1
+456,"Poly(1 , 1 -dimethylsilazane)",,C[Si]([Th])(C)N[Lr],,100,0,191,1
+457,"Poly(2-n-butyl- 1 ,4-butadiene)",,[Th]C\C=C(C[Lr])\CCCC,,100,0,192,1
+458,Poly(vinyl n-octyl ether),,[Th]CC([Lr])OCCCCCCCC,,100,0,194,1
+459,Poly(3-butoxypropylene oxide),,[Th]CC(O[Lr])COCCCC,,100,0,194,1
+460,Polyethylene,,[Th]CC[Lr],,100,0,195,1
+461,Polyoxytrimethylene,,[Th]CCCO[Lr],,100,0,195,1
+462,"Poly(2-n-propyl-1 ,4-butadiene)",,[Th]C\C=C(C[Lr])\CCC,,100,0,196,1
+463,Poly(vinyl n-decyl ether),,[Th]CC([Lr])OCCCCCCCCCC,,100,0,197,1
+464,"Poly(2-ethyl- 1 ,4-butadiene)",,CC/C(C[Th])=C\C[Lr],,100,0,197,1
+465,Poly[oxy(methyl y-trifluoropropylsilylene)],,FC(F)(F)CC[Si]([Th])(C)O[Lr],,100,0,199,1
+466,Polyisobutylene,,CC([Th])(C[Lr])C,,100,0,199,1
+467,Poly(dimethylsilylenetrimethylene),,[Th]CCC[Si]([Lr])(C)C,,100,0,203,1
+468,Polyoxyoctamethylene,,[Th]OCCCCCCCC[Lr],,100,0,203,1
+469,Polyisoprene,,[Th]C/C(C)=C/C[Lr],,100,0,203,1
+470,Polyoxyhexamethylene,,[Th]OCCCCCC[Lr],,100,0,204,1
+471,Poly(tetramethylene adipate),,[Th]CCCCOC(=O)CCCCC(=O)O[Lr],,100,0,205,1
+472,Polyoxyethylene,,[Th]OCC[Lr],,100,0,206,1
+473,Poly(propylene oxide),,[Th]OC(C[Lr])C,,100,0,206,1
+474,Poly(vinyl n-pentyl ether),,[Th]CC([Lr])OCCCCC,,100,0,207,1
+475,Poly(vinyl 2-ethylhexyl ether),,CCCCC(CC)COC([Th])C[Lr],,100,0,207,1
+476,Poly(n-octyl acrylate),,[Th]CC([Lr])C(=O)OCCCCCCCC,,100,0,208,1
+477,Poly(vinyl n-hexyl ether),,[Th]CC([Lr])OCCCCCC,,100,0,209,1
+478,Poly(3-methoxypropylene oxide),,[Th]CC(O[Lr])COC,,100,0,211,1
+479,Polypentadiene,,C\C=C\C([Th])C[Lr],,100,0,213,1
+480,Poly(n-heptyl acrylate),,[Th]CC([Lr])C(=O)OCCCCCCC,,100,0,213,1
+481,Poly(e-caprolactone),,O=C([Th])CCCCCO[Lr],,100,0,213,1
+482,Poly(n-nonyl acrylate),,[Th]CC([Lr])C(=O)OCCCCCCCCC,,100,0,215,1
+483,Poly(n-hexyl acrylate),,[Th]CC([Lr])C(=O)OCCCCCC,,100,0,216,1
+484,Poly(decamethylene adipate),,[Th]OC(=O)CCCCC(=O)OCCCCCCCCCC[Lr],,100,0,217,1
+485,Polyoxymethylene,,[Th]CO[Lr],,100,0,218,1
+486,Poly(n-dodecyl methacrylate),,[Th]CC([Lr])(C)C(=O)OCCCCCCCCCCCC,,100,0,218,1
+488,Poly (1 -heptene),,[Th]CC([Lr])CCCCC,,100,0,220,1
+489,Poly(oxycarbonyl-3-methylpentamethylene),,[Th]OC(=O)CCC(C)CC[Lr],,100,0,220,1
+490,Poly(vinyl n-butyl ether),,[Th]CC([Lr])OCCCC,,100,0,221,1
+491,"Poly(2-isopropyl-1 ,4-butadiene)",,CC(C)/C(C[Th])=C/C[Lr],,100,0,221,1
+492,Poly(1-hexene),,[Th]CC([Lr])CCCC,,100,0,223,1
+493,Poly(1-pentene),,[Th]CC([Lr])CCC,,100,0,223,1
+494,Polychloroprene,,[Th]C/C(Cl)=C/C[Lr],,100,0,225,1
+495,Poly(propylene sulfide),,[Th]SC(C[Lr])C,,100,0,226,1
+496,Poly(1-butene),,[Th]CC([Lr])CC,,100,0,228,1
+497,Poly(ethylene azelate),,[Th]CCOC(=O)CCCCCCCC(=O)O[Lr],,100,0,228,1
+498,Poly(2-octyl acrylate),,[Th]CC([Lr])C(=O)OC(C)CCCCCC,,100,0,228,1
+499,Poly(n-propyl acrylate),,[Th]CC([Lr])C(=O)OCCC,,100,0,229,1
+500,Polypropylene,,CC([Th])C[Lr],,100,0,233,1
+501,Poly(vinylidene fluoride),,FC(F)([Th])C[Lr],,100,0,233,1
+502,Poly(ethylene adipate),,[Th]CCOC(=O)CCCCC(=O)O[Lr],,100,0,233,1
+503,Poly(2-heptyl acrylate),,[Th]CC([Lr])C(=O)OC(C)CCCCC,,100,0,235,1
+504,Poly(6-methyl-1 -heptene),,[Th]CC([Lr])CCCC(C)C,,100,0,239,1
+505,"Poly(2-bromo-1 ,4-butadiene)",,[Th]C/C(Br)=C/C[Lr],,100,0,241,1
+506,Poly(ethylene sebacate),,[Th]CCOC(=O)CCCCCCCCC(=O)O[Lr],,100,0,243,1
+507,Poly[(methyl)phenylsilylenetrimethylene],,[Th]CCC[Si]([Lr])(C)c1ccccc1,,100,0,243,1
+509,Poly(vinyl isobutyl ether),,CC(C)COC([Th])C[Lr],,100,0,251,1
+511,Poly(n-octyl methacrylate),,[Th]CC([Lr])(C)C(=O)OCCCCCCCC,,100,0,253,1
+512,Poly(vinyl sec-butyl ether),,CCC(C)OC([Th])C[Lr],,100,0,253,1
+513,Poly(sec-butyl acrylate),,[Th]CC([Lr])C(=O)OC(C)CC,,100,0,253,1
+514,Poly(vinyl ethyl ether),,[Th]CC([Lr])OCC,,100,0,254,1
+515,Perfluoropolymer 2,,FC(F)([Th])C(F)(F)C(F)(F)C(F)(F)c1nc(nc(n1)[Lr])C(F)(F)C(F)(F)OC(F)(F)F,,100,0,255,1
+516,Poly(vinylidene chloride),,ClC(Cl)([Th])C[Lr],,100,0,256,1
+517,Poly(3-pentyl acrylate),,[Th]CC([Lr])C(=O)OC(CC)CC,,100,0,257,1
+518,Poly(5-methyl-1-hexene),,[Th]CC([Lr])CCC(C)C,,100,0,259,1
+519,Perfluoropolymer 1,,FC(F)(F)C(F)([Th])OC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)OC(F)(C(F)(F)F)c1nc(C(F)(F)F)nc(n1)[Lr],,100,0,260,1
+520,"Poly(oxy-2,2-dichloromethyltrimethylene)",,ClCC(CCl)(C[Th])CO[Lr],,100,0,265,1
+521,Poly[(4-dimethylaminophenyl)methylsilylenetrimethylene],,[Th]CCC[Si]([Lr])(C)c(cc1)ccc1N(C)C,,100,0,267,1
+522,Poly(n-hexyl methacrylate),,[Th]CC([Lr])(C)C(=O)OCCCCCC,,100,0,268,1
+523,"Poly(1,2-butadiene)",,C=CC([Th])C[Lr],,100,0,269,1
+524,Poly(vinyl isopropyl ether),,CC(C)OC([Th])C[Lr],,100,0,270,1
+525,Poly(ethylene succinate),,O=C([Th])CCC(=O)OCCO[Lr],,100,0,272,1
+526,Poly(vinyl methyl sulfide),,[Th]CC([Lr])SC,,100,0,272,1
+527,"Poly(oxydiphenylsilyleneoxydimethylsilylene-1,4-phenylenedimethylsilylene)",,C[Si]([Th])(C)c(cc1)ccc1[Si](C)(C)O[Si](O[Lr])(c2ccccc2)c3ccccc3,,100,0,273,1
+528,Poly(vinyl butyrate),,CCCC(=O)OC([Th])C[Lr],,100,0,278,1
+529,Poly(p-n-hexoxymethyl styrene),,[Th]CC([Lr])c1ccc(cc1)COCCCCCC,,100,0,278,1
+530,Poly(p-n-butyl styrene),,[Th]CC([Lr])c1ccc(cc1)CCCC,,100,0,279,1
+532,Poly(vinyl propionate),,CCC(=O)OC([Th])C[Lr],,100,0,283,1
+533,Poly(2-ethylbutyl methacrylate),,[Th]CC([Lr])(C)C(=O)OCC(CC)CC,,100,0,284,1
+534,Poly(o-n-octoxy styrene),,c1cccc(c1C([Th])C[Lr])OCCCCCCCC,,100,0,286,1
+535,"Poly(2-t-butyl-1,4-butadiene)",,CC(C)(C)/C(C[Th])=C\C[Lr],,100,0,293,1
+537,Poly(2-methoxyethyl methacrylate),,[Th]CC([Lr])(C)C(=O)OCCOC,,100,0,293,1
+538,Poly(p-n-propoxymethyl styrene),,[Th]CC([Lr])c1ccc(cc1)COCCC,,100,0,295,1
+539,Poly(ethyl-p-xylylene),,CCc1c(C[Th])ccc(C[Lr])c1,,100,0,298,1
+540,"Poly(3,3,3-trifluoropropylene)",,FC(F)(F)C([Th])C[Lr],,100,0,300,1
+541,Poly(vinyl acetate),,CC(=O)OC([Th])C[Lr],,100,0,301,1
+542,Poly(4-methyl-1-pentene),,[Th]CC([Lr])CC(C)C,,100,0,302,1
+543,Poly(vinyl formate),,O=COC([Th])C[Lr],,100,0,304,1
+544,Poly(vinyl chloroacetate),,ClCC(=O)OC([Th])C[Lr],,100,0,304,1
+545,Poly(neopentyl methacrylate),,[Th]CC([Lr])(C)C(=O)OCC(C)(C)C,,100,0,306,1
+546,Poly(n-propyl methacrylate),,[Th]CC([Lr])(C)C(=O)OCCC,,100,0,308,1
+547,Poly(12-aminododecanoic acid),,O=C([Th])CCCCCCCCCCCN[Lr],,100,0,310,1
+548,Poly[di(p-tolyl)silylenetrimethylene],,Cc1ccc(cc1)[Si]([Th])(CCC[Lr])c(cc2)ccc2C,,100,0,311,1
+549,Poly(hexamethylene sebacamide),,[Th]NCCCCCCNC(=O)CCCCCCCCC(=O)[Lr],,100,0,313,1
+550,Poly(4-cyclohexyl- 1 -butene),,[Th]CC([Lr])CCC1CCCCC1,,100,0,313,1
+551,Poly[(pentafluoroethyl)ethylene],,FC(F)(F)C(F)(F)C([Th])C[Lr],,100,0,314,1
+552,Poly(11-aminoundecanoic acid),,O=C([Th])CCCCCCCCCCN[Lr],,100,0,315,1
+554,Poly(3-phenoxypropylene oxide),,[Th]CC(O[Lr])COc1ccccc1,,100,0,315,1
+555,"Poly(2,3,3,3-tetrafluoropropylene)",,FC(F)(F)C(F)([Th])C[Lr],,100,0,315,1
+556,Poly(10-aminodecanoic acid),,O=C([Th])CCCCCCCCCN[Lr],,100,0,316,1
+557,Poly[oxy(m-phenylene)],,[Th]Oc1cc([Lr])ccc1,,100,0,318,1
+558,"Poly(3,3-dimethylbutyl methacrylate)",,[Th]CC([Lr])(C)C(=O)OCCC(C)(C)C,,100,0,318,1
+559,Poly(decamethylene sebacamide),,O=C([Th])CCCCCCCCC(=O)NCCCCCCCCCCN[Lr],,100,0,319,1
+560,Poly(N-butyl acrylamide),,[Th]CC([Lr])C(=O)NCCCC,,100,0,319,1
+561,Poly(vinyl trifluoroacetate),,FC(F)(F)C(=O)OC([Th])C[Lr],,100,0,319,1
+562,Poly(p-n-butoxy styrene),,[Th]CC([Lr])c1ccc(cc1)OCCCC,,100,0,320,1
+564,Poly(3-methyl-1-butene),,CC(C)C([Th])C[Lr],,100,0,323,1
+565,Poly(9-aminononanoic acid),,O=C([Th])CCCCCCCCN[Lr],,100,0,324,1
+566,Poly(8-aminocaprylic acid),,O=C([Th])CCCCCCCN[Lr],,100,0,324,1
+567,Poly(vinyl butyral),,CCCC(O1)OC([Th])CC1C[Lr],,100,0,324,1
+568,Poly(ethylene isophthalate),,[Th]CCOC(=O)c1cc(C(=O)O[Lr])ccc1,,100,0,324,1
+570,Poly[(4-dimethylaminophenyl)phenylsilylenetrimethylene)],,c1ccccc1[Si]([Th])(CCC[Lr])c(cc2)ccc2N(C)C,,100,0,325,1
+571,Poly(isopropyl methacrylate),,[Th]CC([Lr])(C)C(=O)OC(C)C,,100,0,327,1
+572,Poly(methyl-p-xylylene),,[Th]Cc1c(C)cc(C[Lr])cc1,,100,0,328,1
+573,Poly(vinyl isobutyral),,CC(C)C(=O)C([Th])C[Lr],,100,0,329,1
+574,Poly(n-butyl a-chloroacrylate),,[Th]CC(Cl)([Lr])C(=O)OCCCC,,100,0,330,1
+575,Poly(7-aminoheptanoic acid),,O=C([Th])CCCCCCN[Lr],,100,0,330,1
+576,Poly(sec-butyl methacrylate),,[Th]CC([Lr])(C)C(=O)OC(C)CC,,100,0,330,1
+577,Poly(hexamethylene adipamide),,O=C([Th])CCCCC(=O)NCCCCCCN[Lr],,100,0,330,1
+578,Poly(p-isopentoxy styrene),,CC(C)CCOc(cc1)ccc1C([Th])C[Lr],,100,0,330,1
+579,Poly[(heptafluoropropyl)ethylene],,FC(F)(F)C(F)(F)C(F)(F)C([Th])C[Lr],,100,0,331,1
+580,"Poly(oxydiphenylsilylene-1,3-phenylene)",,c1ccc([Th])cc1[Si](O[Lr])(c2ccccc2)c3ccccc3,,100,0,331,1
+581,Poly(p-xylylene),,[Th]Cc1ccc(C[Lr])cc1,,100,0,333,1
+582,Poly(3-cyclopentyl- 1 -propene),,[Th]CC([Lr])CC1CCCC1,,100,0,333,1
+583,Poly(3-phenyl- 1-propene),,[Th]CC([Lr])Cc1ccccc1,,100,0,333,1
+584,Poly(e-caprolactam),,O=C([Th])CCCCCN[Lr],,100,0,335,1
+585,"Poly(ethylene- 1 ,4-naphthalenedicarboxylate)",,[Th]CCOC(=O)c1ccc(C(=O)O[Lr])c(c12)cccc2,,100,0,337,1
+586,Poly(p-n-propoxy styrene),,[Th]CC([Lr])c1ccc(cc1)OCCC,,100,0,343,1
+587,Poly(n-propyl a-chloroacrylate),,[Th]CC(Cl)([Lr])C(=O)OCCC,,100,0,344,1
+588,"Poly(ethylene-1,5-naphthalenedicarboxylate)",,[Th]CCOC(=O)c1cccc(c12)c(C(=O)O[Lr])ccc2,,100,0,344,1
+589,Poly(vinyl propional),,O=CC(C)C([Th])C[Lr],,100,0,345,1
+590,Poly(ethylene terephthalate),,[Th]CCOC(=O)c1ccc(C(=O)O[Lr])cc1,,100,0,345,1
+591,Poly(sec-butyl a-chloroacrylate),,[Th]CC(Cl)([Lr])C(=O)OC(C)CC,,100,0,347,1
+593,Poly(3-cyclohexyl- 1-propene),,[Th]CC([Lr])CC1CCCCC1,,100,0,348,1
+594,Poly(vinyl cyclopentane),,[Th]CC([Lr])C1CCCC1,,100,0,348,1
+595,Poly(2-hydroxypropyl methacrylate),,[Th]CC([Lr])(C)C(=O)OCC(C)O,,100,0,349,1
+596,Poly(p-methoxymethyl styrene),,[Th]CC([Lr])c1ccc(cc1)COC,,100,0,350,1
+597,Poly(chloro-p-xylylene),,[Th]Cc1c(Cl)cc(C[Lr])cc1,,100,0,353,1
+598,Poly(bromo-p-xylylene),,[Th]Cc1c(Br)cc(C[Lr])cc1,,100,0,353,1
+599,Poly(ethylene oxybenzoate),,[Th]CCOC(=O)c1ccc(O[Lr])cc1,,100,0,355,1
+600,Poly(vinyl alcohol),,OC([Th])C[Lr],,100,0,358,1
+601,Poly[oxy(p-phenylene)],,[Th]Oc1ccc([Lr])cc1,,100,0,358,1
+602,Poly(p-sec-butyl styrene),,CCC(C)c1ccc(C([Th])C[Lr])cc1,,100,0,359,1
+603,Poly(p-ethoxy styrene),,[Th]CC([Lr])c1ccc(cc1)OCC,,100,0,359,1
+604,Poly(2-hydroxyethyl methacrylate),,[Th]CC([Lr])(C)C(=O)OCCO,,100,0,359,1
+605,Poly[thio(p-phenylene)],,[Th]Sc1ccc([Lr])cc1,,100,0,360,1
+606,Poly(p-isopropyl styrene),,CC(C)c1ccc(C([Th])C[Lr])cc1,,100,0,360,1
+607,Poly(2-methyl-5-t-butyl styrene),,CC(C)(C)c1cc(C([Th])C[Lr])c(C)cc1,,100,0,360,1
+608,Poly(p-methoxy styrene),,[Th]CC([Lr])c1ccc(cc1)OC,,100,0,362,1
+609,Poly(isopropyl a-chloroacrylate),,[Th]CC(Cl)([Lr])C(=O)OC(C)C,,100,0,363,1
+610,Poly(4-methoxy-2-methyl styrene),,[Th]CC([Lr])c1c(C)cc(cc1)OC,,100,0,363,1
+611,Poly(vinyl cyclohexane),,[Th]CC([Lr])C1CCCCC1,,100,0,363,1
+612,Poly(cyano-p-xylylene),,N#Cc1c(C[Th])ccc(C[Lr])c1,,100,0,363,1
+613,"Poly(a,a,a',a'-tetrafluoro-p-xylylene)",,FC(F)([Th])c1ccc(C(F)(F)[Lr])cc1,,100,0,363,1
+614,Poly(m-xylylene adipamide),,O=C([Th])CCCCC(=O)NCc1cc(CN[Lr])ccc1,,100,0,363,1
+615,Poly(m-chloro styrene),,[Th]CC([Lr])c1cc(Cl)ccc1,,100,0,363,1
+616,Poly(2-chloroethyl methacrylate),,[Th]CC([Lr])(C)C(=O)OCCCl,,100,0,365,1
+617,Poly(ethyl a-chloroacrylate),,[Th]CC(Cl)([Lr])C(=O)OCC,,100,0,366,1
+618,Poly(cyclohexylmethylsilane),,C[Si]([Th])([Lr])C1CCCCC1,,100,0,366,1
+619,"Poly(1,4-cyclohexylidene dimethylene terephthalate)",,c1cc(C(=O)[Th])ccc1C(=O)OCC2CCC(CO[Lr])CC2,,100,0,368,1
+620,Poly(m-methyl styrene),,[Th]CC([Lr])c1cc(C)ccc1,,100,0,370,1
+621,"Poly(2,5-dimethyl-p-xylylene)",,[Th]Cc1c(C)cc(C[Lr])c(C)c1,,100,0,373,1
+622,Polychlorotrifluoroethylene,,FC(F)([Th])C(F)(Cl)[Lr],,100,0,373,1
+624,Phenoxy resin,,c1cc([Th])ccc1C(C)(C)c2ccc(cc2)OCC(O)CO[Lr],,100,0,373,1
+625,Poly(p-methyl styrene),,[Th]CC([Lr])c1ccc(C)cc1,,100,0,374,1
+626,"Poly(2,5-difluoro styrene)",,[Th]CC([Lr])c1c(F)ccc(F)c1,,100,0,374,1
+627,Poly(o-ethyl styrene),,[Th]CC([Lr])c1c(CC)cccc1,,100,0,376,1
+628,"Poly(3,5-dimethyl styrene)",,[Th]CC([Lr])c1cc(C)cc(C)c1,,100,0,377,1
+629,Poly(cyclohexyl methacrylate),,[Th]CC([Lr])(C)C(=O)OC1CCCCC1,,100,0,377,1
+630,Poly(o-vinyl pyridine),,[Th]CC([Lr])c1ccccn1,,100,0,377,1
+633,Poly(vinyl formal),,[Th]CC1CC([Lr])OCO1,,100,0,378,1
+634,Poly(o-fluoro styrene),,[Th]CC([Lr])c1c(F)cccc1,,100,0,378,1
+635,"Poly(2,3,4,5,6-pentafluoro styrene)",,[Th]CC([Lr])c1c(F)c(F)c(F)c(F)c1F,,100,0,378,1
+636,Poly(acrylic acid),,O=C(O)C([Th])C[Lr],,100,0,379,1
+637,Poly(p-fluoro styrene),,[Th]CC([Lr])c1ccc(F)cc1,,100,0,379,1
+639,"Poly(3,4-dimethyl styrene)",,[Th]CC([Lr])c1cc(C)c(C)cc1,,100,0,384,1
+640,Poly(2-fluoro-5-methyl styrene),,[Th]CC([Lr])c1c(F)ccc(C)c1,,100,0,384,1
+641,Resin F,,[Th]OCC(O)COc(ccc1)cc1NC(=O)CCCC(=O)Nc2cc([Lr])ccc2,,100,0,384,1
+642,"Poly(2,4-dimethyl styrene)",,[Th]CC([Lr])c1c(C)cc(C)cc1,,100,0,385,1
+643,Poly(p-methoxycarbonyl styrene),,COC(=O)c1ccc(C([Th])C[Lr])cc1,,100,0,386,1
+644,Poly(3-methyl-4-chloro styrene),,[Th]CC([Lr])c1cc(C)c(Cl)cc1,,100,0,387,1
+645,Poly(cyclohexyl a-chloroacrylate),,[Th]CC(Cl)([Lr])C(=O)OC1CCCCC1,,100,0,387,1
+646,Poly(p-xylylene sebacamide),,[Th]NCc(cc1)ccc1CNC(=O)CCCCCCCCC(=O)[Lr],,100,0,388,1
+647,Poly[thio bis(4-phenyl)carbonate],,[Th]OC(=O)Oc1ccc(cc1)Sc2ccc([Lr])cc2,,100,0,388,1
+648,Poly(p-chloro styrene),,[Th]CC([Lr])c1ccc(Cl)cc1,,100,0,389,1
+649,Perfluoropolymer 3,,FC(F)([Th])C1(F)C(F)(F)C(F)(F)C(F)([Lr])C1(F)F,,100,0,390,1
+650,Poly(phenylmethylsilane),,C[Si]([Th])([Lr])c1ccccc1,,100,0,390,1
+651,Poly(o-chloro styrene),,[Th]CC([Lr])c1c(Cl)cccc1,,100,0,392,1
+652,"Poly[2,2-butane bis{4-(2-methylphenyl)}carbonate]",,c1cc([Th])cc(C)c1C(C)(CC)c2c(C)cc(cc2)OC(=O)O[Lr],,100,0,392,1
+653,"Poly(2,5-dichloro styrene)",,[Th]CC([Lr])c1c(Cl)ccc(Cl)c1,,100,0,393,1
+654,Poly(phenyl methacrylate),,[Th]CC([Lr])(C)C(=O)Oc1ccccc1,,100,0,393,1
+655,Polymethacrylonitrile,,N#CC([Th])(C[Lr])C,,100,0,393,1
+656,Poly(a-p-dimethyl styrene),,[Th]CC([Lr])(C)c1ccc(C)cc1,,100,0,394,1
+657,Poly(3-fluoro-4-chloro styrene),,[Th]CC([Lr])c1cc(F)c(Cl)cc1,,100,0,395,1
+658,"Poly[1,1-butane bis(4-phenyl)carbonate]",,[Th]OC(=O)Oc(cc1)ccc1C(CCC)c2ccc([Lr])cc2,,100,0,396,1
+659,"Poly(ethylene-2,6-naphthalenedicarboxylate)",,[Th]OCCOC(=O)c(c1)ccc(c12)cc(C(=O)[Lr])cc2,,100,0,397,1
+660,Poly(m-hydroxymethyl styrene),,[Th]CC([Lr])c1cc(CO)ccc1,,100,0,398,1
+661,"Poly(3,4-dichlorostyrene)",,[Th]CC([Lr])c1cc(Cl)c(Cl)cc1,,100,0,401,1
+662,Polyetherimide 1,,c1c([Th])ccc(c12)C(=O)N(C2=O)CCCCCCN(C3=O)C(=O)c(c34)ccc(c4)Oc5ccc(cc5)Oc6ccc(O[Lr])cc6,,100,0,401,1
+663,Poly(p-t-butyl styrene),,CC(C)(C)c1ccc(C([Th])C[Lr])cc1,,100,0,402,1
+664,Poly(hexamethylene isophthalamide),,c1ccc(C(=O)[Th])cc1C(=O)NCCCCCCN[Lr],,100,0,403,1
+665,"Poly[1,1-ethane bis(4-phenyl)carbonate]",,[Th]OC(=O)Oc(cc1)ccc1C(C)c2ccc([Lr])cc2,,100,0,403,1
+666,"Poly(2,4-dichloro styrene)",,[Th]CC([Lr])c1c(Cl)cc(Cl)cc1,,100,0,406,1
+667,"Poly[2,2-butane bis(4-phenyl)carbonate]",,c1cc([Th])ccc1C(C)(CC)c2ccc(cc2)OC(=O)O[Lr],,100,0,407,1
+668,Poly(o-methyl styrene),,[Th]CC([Lr])c1c(C)cccc1,,100,0,409,1
+669,Poly(a-methyl styrene),,[Th]CC([Lr])(C)c1ccccc1,,100,0,409,1
+670,"Poly[2,2-pentane bis(4-phenyl)carbonate]",,c1cc([Th])ccc1C(C)(CCC)c2ccc(cc2)OC(=O)O[Lr],,100,0,410,1
+671,Poly(m-phenylene isophthalate),,c1ccc(C(=O)[Th])cc1C(=O)Oc2cc(O[Lr])ccc2,,100,0,411,1
+672,Poly(p-phenyl styrene),,[Th]CC([Lr])c1ccc(cc1)-c2ccccc2,,100,0,411,1
+673,"Poly(oxycarbonyloxy-2-chloro-1,4-phenyleneisopropylidene-2-methyl- 1,4-phenylene)",,c1cc([Th])c(C)cc1C(C)(C)c2cc(Cl)c(cc2)OC(=O)O[Lr],,100,0,411,1
+674,Poly(p-hydroxymethyl styrene),,[Th]CC([Lr])c1ccc(CO)cc1,,100,0,413,1
+675,Poly(p-vinyl pyridine),,[Th]CC([Lr])c1ccncc1,,100,0,415,1
+676,"Poly [2,2-butane bis {4-(2-chlorophenyl)} carbonate]",,c1cc([Th])cc(Cl)c1C(C)(CC)c2c(Cl)cc(cc2)OC(=O)O[Lr],,100,0,415,1
+677,"Poly(2,5-dimethyl styrene)",,[Th]CC([Lr])c1c(C)ccc(C)c1,,100,0,416,1
+678,Poly(p-bromo styrene),,[Th]CC([Lr])c1ccc(Br)cc1,,100,0,417,1
+679,Poly(2-methyl-4-chloro styrene),,[Th]CC([Lr])c1c(C)cc(Cl)cc1,,100,0,418,1
+680,Poly(N-vinyl pyrrolidone),,[Th]CC([Lr])N1CCCC1=O,,100,0,418,1
+681,"Poly(oxycarbonyloxy-2-chloro- 1 ,4-phenyleneisopropylidene-1,4-phenylene)",,c1cc([Th])ccc1C(C)(C)c2cc(Cl)c(cc2)OC(=O)O[Lr],,100,0,419,1
+682,"Poly[2,2-propane bis{4-(2-chlorophenyl)}carbonate]",,c1cc([Th])cc(Cl)c1C(C)(C)c2c(Cl)cc(cc2)OC(=O)O[Lr],,100,0,419,1
+683,"Poly(oxy- 1 ,4-phenylene-oxy- 1 ,4-phenylene-carbonyl-1 ,4-phenylene)",,c1cc([Th])ccc1C(=O)c2ccc(cc2)Oc3ccc(O[Lr])cc3,,100,0,419,1
+684,Poly[methane bis(4-phenyl)carbonate],,[Th]OC(=O)Oc(cc1)ccc1Cc2ccc([Lr])cc2,,100,0,420,1
+685,Poly(p-hydroxybenzoate),,O=C([Th])c1ccc(O[Lr])cc1,,100,0,420,1
+686,"Poly[4,4-heptane bis(4-phenyl)carbonate]",,c1cc([Th])ccc1C(CCC)(CCC)c2ccc(cc2)OC(=O)O[Lr],,100,0,421,1
+687,"Poly[1,1-(2-methyl propane) bis(4-phenyl)carbonate]",,[Th]OC(=O)Oc(cc1)ccc1C(C(C)C)c2ccc([Lr])cc2,,100,0,422,1
+688,Bisphenol-A polycarbonate,,c1cc(O[Th])ccc1C(C)(C)c2ccc(cc2)OC(=O)[Lr],,100,0,423,1
+689,Poly(N-vinyl carbazole),,c1cccc(c1c23)n(C([Th])C[Lr])c2cccc3,,100,0,423,1
+690,Poly(p-vinyl naphthalene),,[Th]CC([Lr])c(c1)ccc(c12)cccc2,,100,0,424,1
+691,Polyhexafluoropropylene,,FC(F)([Th])C(F)([Lr])C(F)(F)F,,100,0,425,1
+692,"Poly[1 ,1-dichloroethylene bis(4-phenyl)carbonate]",,c1cc([Th])ccc1C(=C(Cl)Cl)c2ccc(cc2)OC(=O)O[Lr],,100,0,430,1
+693,Poly(a-vinyl naphthalene),,[Th]CC([Lr])c1cccc(c12)cccc2,,100,0,432,1
+694,Poly(o-hydroxymethyl styrene),,[Th]CC([Lr])c1c(CO)cccc1,,100,0,433,1
+695,Poly(methyl a-cyanoacrylate),,N#CC([Th])(C[Lr])C(=O)OC,,100,0,433,1
+696,"Poly [1,1 -cyclopentane bis(4-phenyl)carbonate]",,[Th]OC(=O)Oc(cc1)ccc1C2(CCCC2)c3ccc([Lr])cc3,,100,0,440,1
+697,"Poly(oxyterephthaloyloxy-2-methyl-1 ,4-phenyleneisopropylidene-3-methyl-1 ,4-phenylene)",,c1cc([Th])c(C)cc1C(C)(C)c2cc(C)c(cc2)OC(=O)c3ccc(C(=O)O[Lr])cc3,,100,0,444,1
+698,"Poly[1,1-cyclohexane bis(4-phenyl)carbonate]",,[Th]OC(=O)Oc(cc1)ccc1C2(CCCCC2)c3ccc([Lr])cc3,,100,0,444,1
+699,"Poly[2,2-hexafluoropropane bis(4-phenyl)carbonate]",,c1cc([Th])ccc1C(C(F)(F)F)(C(F)(F)F)c2ccc(cc2)OC(=O)O[Lr],,100,0,449,1
+700,"Poly[1,1-(1-phenylethane) bis(4-phenyl)carbonate]",,c1cc([Th])ccc1C(C)(c2ccccc2)c3ccc(cc3)OC(=O)O[Lr],,100,0,449,1
+701,"Poly [2,2-( 1 ,3-dichloro-1 ,1 ,3,3-tetrafluoro)propane bis(4-phenyl)carbonate]",,c1cc([Th])ccc1C(C(F)(F)Cl)(C(F)(F)Cl)c2ccc(cc2)OC(=O)O[Lr],,100,0,457,1
+702,"Poly[4,4'-isopropylidene diphenoxy di(4-phenylene)sulfone]",,c1cc([Th])ccc1C(C)(C)c2ccc(cc2)Oc3ccc(cc3)S(=O)(=O)c(cc4)ccc4O[Lr],,100,0,458,1
+703,"Poly(oxycarbonyloxy-2,6-dichloro-1,4-phenyleneisopropylidene-1,4-phenylene)",,c1cc([Th])ccc1C(C)(C)c2cc(Cl)c(c(Cl)c2)OC(=O)O[Lr],,100,0,459,1
+704,Poly(perfluorostyrene),,FC(F)([Th])C(F)([Lr])c1c(F)c(F)c(F)c(F)c1F,,100,0,467,1
+705,"Poly[2,2-propane bis{4-(2,6-dimethylphenyl)} carbonate]",,Cc1cc([Th])cc(C)c1C(C)(C)c2c(C)cc(cc2C)OC(=O)O[Lr],,100,0,473,1
+706,Polyetherimide 6,,c1ccc([Th])cc1C(=O)c2cc(ccc2)N(C3=O)C(=O)c(c34)ccc(c4)Oc5ccc(cc5)Sc(cc6)ccc6Oc(c7)ccc(c78)C(=O)N([Lr])C8=O,,100,0,473,1
+707,"Poly(a,b,b-trifluoro styrene)",,FC(F)([Th])C(F)([Lr])c1ccccc1,,100,0,475,1
+708,Poly(bisphenol-A terephthalate),,c1cc([Th])ccc1C(C)(C)c2ccc(cc2)OC(=O)c3ccc(C(=O)O[Lr])cc3,,100,0,478,1
+709,"Poly[oxy(2,6-dimethyl-1 ,4-phenylene)]",,Cc1c(O[Th])c(C)cc([Lr])c1,,100,0,482,1
+710,Polyetherimide 2,,c1c([Th])ccc(c12)C(=O)N(C2=O)c(ccc3)cc3N(C4=O)C(=O)c(c45)ccc(c5)Oc6ccc(cc6)Sc(cc7)ccc7O[Lr],,100,0,482,1
+711,Polyetherimide 7,,c1cc([Th])ccc1C(=O)c2c(cccc2)N(C3=O)C(=O)c(c34)ccc(c4)Oc5ccc(cc5)Sc(cc6)ccc6Oc(c7)ccc(c78)C(=O)N([Lr])C8=O,,100,0,485,1
+712,Polyetherimide 8,,c1cc([Th])ccc1C(=O)c2cc(ccc2)N(C3=O)C(=O)c(c34)ccc(c4)Oc5ccc(cc5)Sc(cc6)ccc6Oc(c7)ccc(c78)C(=O)N([Lr])C8=O,,100,0,486,1
+713,"Poly[oxy(2,6-diphenyl-1,4-phenylene)]",,c1ccccc1-c2c(O[Th])c(cc([Lr])c2)-c3ccccc3,,100,0,493,1
+714,"Poly[4,4'-diphenoxy di(4-phenylene)sulfone]",,c1cc(O[Th])ccc1-c2ccc(cc2)Oc3ccc(cc3)S(=O)(=O)c4ccc([Lr])cc4,,100,0,493,1
+715,"Poly[4,4'-sulfone diphenoxy di(4-phenylene)sulfone]",,[Th]Oc1ccc(cc1)S(=O)(=O)c(cc2)ccc2Oc3ccc(cc3)S(=O)(=O)c4ccc([Lr])cc4,,100,0,493,1
+716,Ultem,,c1cc(O[Th])ccc1C(C)(C)c2ccc(cc2)Oc(c3)ccc(c34)C(=O)N(C4=O)c5cc(ccc5)N(C6=O)C(=O)c(c67)ccc([Lr])c7,,100,0,493,1
+717,Polyetherimide 9,,c1cc([Th])ccc1C(=O)c2ccc(cc2)N(C3=O)C(=O)c(c34)ccc(c4)Oc5ccc(cc5)Sc(cc6)ccc6Oc(c7)ccc(c78)C(=O)N([Lr])C8=O,,100,0,494,1
+718,"Poly[N,N'-(m,m'-oxydiphenylene-oxy-m-phenylene)pyromellitimide]",,c1ccc([Th])cc1-n(c2=O)c(=O)c(c3)c2cc(c34)c(=O)n(c4=O)-c5cc(ccc5)Oc6cc(O[Lr])ccc6,,100,0,494,1
+719,Polyetherimide 3,,c1c([Th])ccc(c12)C(=O)N(C2=O)c(ccc3)cc3N(C4=O)C(=O)c(c45)ccc(c5)Oc6ccc(cc6)Oc7ccc(O[Lr])cc7,,100,0,500,1
+720,"Poly[2,2-propane bis{4-(2,6-dichlorophenyl)} carbonate]",,c1c(Cl)c([Th])c(Cl)cc1C(C)(C)c2cc(Cl)c(c(Cl)c2)OC(=O)O[Lr],,100,0,503,1
+721,Polycarbonate 2,,[Th]OC(=O)Oc(cc1)ccc1C(C23)(CC(C2)CC3)c4ccc([Lr])cc4,,100,0,505,1
+722,Polyetherimide 4,,c1cc(O[Th])ccc1C(=O)c2ccc(cc2)Oc(c3)ccc(c34)C(=O)N(C4=O)c5cc(ccc5)N(C6=O)C(=O)c(c67)ccc([Lr])c7,,100,0,512,1
+723,Polyimide 10,,O=C1N([Th])C(=O)c(c12)ccc(c2)C(=O)c(c3)ccc(c34)C(=O)N(C4=O)c(ccc5)cc5C(=O)c6cc([Lr])ccc6,,100,0,513,1
+724,Polycarbonate 3,,[Th]OC(=O)Oc(cc1)ccc1C2(CC(C3)C(C4C23)CCC4)c5ccc([Lr])cc5,,100,0,520,1
+725,Polyetherimide 5,,c1c([Th])ccc(c12)C(=O)N(C2=O)c(ccc3)cc3N(C4=O)C(=O)c(c45)ccc(c5)Oc(cc6)ccc6-c7ccc(O[Lr])cc7,,100,0,520,1
+726,"Poly[2,2-propane bis{4-(2,6-dibromophenyl)}carbonate]",,c1c(Br)c([Th])c(Br)cc1C(C)(C)c2cc(Br)c(c(Br)c2)OC(=O)O[Lr],,100,0,523,1
+727,Polyimide 1F,,O=C1N([Th])C(=O)c(c12)ccc(c2)C(C(F)(F)F)(C(F)(F)F)c(c3)ccc(c34)C(=O)N(C4=O)c(ccc5)cc5C(=O)c6cc([Lr])ccc6,,100,0,533,1
+728,Polyquinoline 5,,c1cc([Th])ccc1Oc(cc2)ccc2-c(cc3-c4ccccc4)nc(c35)ccc(c5)Oc(c6)ccc(c67)nc([Lr])cc7-c8ccccc8,,100,0,539,1
+729,Polyquinoline 1,,c1cccc(c12)nc(-c3cc([Th])ccc3)cc2-c4ccc(cc4)Oc(cc5)ccc5-c6cc([Lr])nc(c67)cccc7,,100,0,541,1
+730,"Poly[3,5-(4-phenyl-1,2,4-triazole)-1,4-phenylene-3,5-(4-phenyl-1,2,4-triazole)-1,3-phenylene]",,c1cc([Th])ccc1-c(nn2)n(-c3ccccc3)c2-c4cc(ccc4)-c5n(c([Lr])nn5)-c6ccccc6,,100,0,543,1
+731,Poly(m-phenylene isophthalamide),,c1ccc(C(=O)[Th])cc1C(=O)Nc2cc(N[Lr])ccc2,,100,0,545,1
+732,Polyquinoline 2,,c1cccc(c12)nc(-c3cc([Th])ccc3)c(-c4ccccc4)c2-c5ccc(cc5)Oc(cc6)ccc6-c7c(-c8ccccc8)c([Lr])nc(c79)cccc9,,100,0,546,1
+733,Torlon,,[Th]NC(=O)c(c1)ccc(c12)C(=O)N(C2=O)c(cc3)ccc3Cc4ccc([Lr])cc4,,100,0,550,1
+734,Polyimide 3F,,O=C1N([Th])C(=O)c(c12)ccc(c2)C(C(F)(F)F)(C(F)(F)F)c(c3)ccc(c34)C(=O)N(C4=O)c(ccc5)cc5C(=O)c6ccc([Lr])cc6,,100,0,561,1
+735,Polyimide 2F,,O=C1N([Th])C(=O)c(c12)ccc(c2)C(C(F)(F)F)(C(F)(F)F)c(c3)ccc(c34)C(=O)N(C4=O)c(cccc5)c5C(=O)c6ccc([Lr])cc6,,100,0,562,1
+736,Polyquinoline 9,,c1ccccc1-c2cc(-c3ccc([Th])cc3)nc(c24)ccc(c4)Oc(c5)ccc(c56)nc([Lr])cc6-c7ccccc7,,100,0,573,1
+737,Polyquinoline 6,,c1cc([Th])ccc1Oc(cc2)ccc2-c(c(-c3ccccc3)c4-c5ccccc5)nc(c46)ccc(c6)Oc(c7)ccc(c78)nc([Lr])c(-c9ccccc9)c8-c1ccccc1,,100,0,578,1
+738,"Poly(quinoxaline-2,7-diylquinoxaline-7,2-diyl-p-terphenyl-4,4'-ylene)",,n1c([Th])cnc(c12)ccc(c2)-c(c3)ccc(c34)ncc(n4)-c(cc5)ccc5-c6ccc(cc6)-c7ccc([Lr])cc7,,100,0,578,1
+739,"Poly(quinoxaline-2,7-diyloxyquinoxaline-7,2-diyl-1,4-phenylene)",,c1cc([Th])ccc1-c(n2)cnc(c23)ccc(c3)Oc(c4)ccc(c45)ncc(n5)[Lr],,100,0,579,1
+740,Polyphenolphthalein 2,,c1cc([Th])ccc1C(OC2=O)(c(c23)cccc3)c(cc4)ccc4C(=O)Oc(cc5)ccc5-c6ccc(cc6)OC(=O)[Lr],,100,0,580,1
+741,Polyquinoline 7,,c1cc([Th])ccc1-c2ccc(cc2)-c(cc3-c4ccccc4)nc(c35)ccc(c5)Oc(c6)ccc(c67)nc([Lr])cc7-c8ccccc8,,100,0,581,1
+742,Polyphenolphthalein 3,,c1cc([Th])ccc1C(OC2=O)(c(c23)cccc3)c(cc4)ccc4C(=O)Oc(cc5)ccc5C(OC6=O)(c(c67)cccc7)c8ccc(cc8)OC(=O)[Lr],,100,0,583,1
+743,Polyimide 4F,,O=C1N([Th])C(=O)c(c12)ccc(c2)C(C(F)(F)F)(C(F)(F)F)c(c3)ccc(c34)C(=O)N(C4=O)c(cc5)ccc5C(=O)c6ccc([Lr])cc6,,100,0,584,1
+744,"Poly(quinoxaline-2,7-diylcarbonylquinoxaline-7,2-diyl-1,4-phenylene)",,n1c([Th])cnc(c12)ccc(c2)C(=O)c(c3)ccc(c34)ncc(n4)-c5ccc([Lr])cc5,,100,0,591,1
+745,Polyphenolphthalein 1,,c1cc([Th])ccc1C(OC2=O)(c(c23)cccc3)c(cc4)ccc4C(=O)Nc5ccc(cc5)Oc(cc6)ccc6NC(=O)[Lr],,100,0,593,1
+746,Polyquinoline 3,,c1cc([Th])ccc1Oc(cc2)ccc2-c(nc(c34)cccc4)cc3-c5ccc(cc5)Oc(cc6)ccc6-c7cc([Lr])nc(c78)cccc8,,100,0,599,1
+747,Poly(p-phenylene terephthalamide),,c1cc(C(=O)[Th])ccc1C(=O)Nc2ccc(N[Lr])cc2,,100,0,600,1
+748,Polyimide 11,,O=C1N([Th])C(=O)c(c12)ccc(c2)C(=O)c(c3)ccc(c34)C(=O)N(C4=O)c5ccc([Lr])cc5,,100,0,606,1
+749,"Poly(quinoxaline-2,7-diylsulfonylquinoxaline-7,2-diyl-1,4-phenylene)",,c1cc([Th])ccc1-c(n2)cnc(c23)ccc(c3)S(=O)c(c4)ccc(c45)ncc(n5)[Lr],,100,0,615,1
+750,Polyetherimide 12,,c1cc([Th])ccc1N(C2=O)C(=O)c(c23)ccc(c3)Oc(c4)ccc(c45)C(=O)N([Lr])C5=O,,100,0,615,1
+751,Polyquinoline 4,,c1cc([Th])ccc1Oc(cc2)ccc2-c(nc(c34)cccc4)c(-c5ccccc5)c3-c6ccc(cc6)Oc(cc7)ccc7-c8c(-c9ccccc9)c([Lr])nc(c18)cccc1,,100,0,618,1
+752,Polyquinoline 10,,c1ccccc1-c2c(-c3ccccc3)c(-c4ccc([Th])cc4)nc(c25)ccc(c5)Oc(c6)ccc(c67)nc([Lr])c(-c8ccccc8)c7-c9ccccc9,,100,0,618,1
+753,Polyquinoline 8,,c1cc([Th])ccc1-c(cc2)ccc2-c(c(-c3ccccc3)c4-c5ccccc5)nc(c46)ccc(c6)Oc(c7)ccc(c78)nc([Lr])c(-c9ccccc9)c8-c1ccccc1,,100,0,624,1
+754,Polytricyclic 1,,c1cc([Th])ccc1Oc(cc2)ccc2-c(n3)cnc(c34)cc5c(c4)nc([Lr])cn5,,100,0,626,1
+755,"Poly(3-phenylquinoxaline-2,7-diyl-3-phenylquinoxaline-7,2-diyl-1,4-phenylene)",,c1cc([Th])ccc1-c(n2)c(-c3ccccc3)nc(c24)ccc(c4)-c(c5)ccc(c56)nc(c(n6)[Lr])-c7ccccc7,,100,0,645,1
+756,"Poly(quinoxaline-2,7-diylquinoxaline-7,2-diyl-1,4-phenylene)",,n1c([Th])cnc(c12)ccc(c2)-c(c3)ccc(c34)ncc(n4)-c5ccc([Lr])cc5,,100,0,649,1
+757,Polyphenolphthalein 4,,c1cc([Th])ccc1C(OC2=O)(c(c23)cccc3)c(cc4)ccc4C(=O)Nc(cc5)ccc5C(OC6=O)(c(c67)cccc7)c8ccc(cc8)NC(=O)[Lr],,100,0,658,1
+758,Polytricyclic 3,,c1ccccc1-c(n2)c(-c3cc([Th])ccc3)nc(c24)cc5c(c4)nc(c(n5)[Lr])-c6ccccc6,,100,0,668,1
+759,Polytricyclic 2,,c1ccccc1-c(n2)c(-c3ccc([Th])cc3)nc(c24)cc5c(c4)nc(c(n5)[Lr])-c6ccccc6,,100,0,668,1
+760,"Poly[N,N'-(p,p'-oxydiphenylene)pyromellitimide]",,c1cc(O[Th])ccc1-n(c2=O)c(=O)c(c23)cc4c(c3)c(=O)n(c4=O)-c5ccc([Lr])cc5,,100,0,672,1
+761,Polyphenolphthalein 5,,c1cc([Th])ccc1C(OC2=O)(c(c23)cccc3)c(cc4)ccc4C(=O)Nc(cc5)ccc5C(NC6=O)(c(c67)cccc7)c8ccc(cc8)NC(=O)[Lr],,100,0,673,1
+762,"Poly[N,N'-(p,p'-carbonyldiphenylene)pyromellitimide]",,O=C([Th])c1ccc(cc1)-n(c2=O)c(=O)c(c23)cc4c(c3)c(=O)n(c4=O)-c5ccc([Lr])cc5,,100,0,685,1

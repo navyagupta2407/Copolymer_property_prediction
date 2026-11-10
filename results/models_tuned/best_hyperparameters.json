@@ -1,0 +1,27 @@
+{
+  "XGBoost": {
+    "max_depth": 4,
+    "learning_rate": 0.08,
+    "min_child_weight": 3,
+    "reg_lambda": 3.0,
+    "subsample": 0.85
+  },
+  "RandomForest": {
+    "max_depth": 10,
+    "min_samples_leaf": 2,
+    "min_samples_split": 4,
+    "max_features": 0.8
+  },
+  "Concatenation": {
+    "lr": 0.0003,
+    "weight_decay": 0.0001,
+    "epochs": 150,
+    "batch_size": 16
+  },
+  "BigSMILES_LM": {
+    "lr": 0.0005,
+    "weight_decay": 1e-05,
+    "epochs": 140,
+    "batch_size": 16
+  }
+}

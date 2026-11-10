@@ -1,0 +1,5 @@
+Model,Baseline Train (K),Tuned Train (K),Baseline Suite 1 (K),Tuned Suite 1 (K),Suite 1 Change,Baseline Gap (K),Tuned Gap (K),Baseline Suite 3 OOD (K),Tuned Suite 3 OOD (K)
+Random Forest,6.00,7.30 ± 0.11,13.70,14.35 ± 0.39,+4.8%,+7.70,+7.06,25.95,25.53 ± 0.70
+XGBoost,1.58,3.63 ± 0.09,12.08,12.05 ± 0.52,-0.2%,+10.51,+8.42,25.11,23.82 ± 0.63
+Concatenation,15.25,13.05 ± 1.38,21.47,17.81 ± 2.37,-17.0%,+6.22,+4.77,23.45,21.51 ± 1.57
+BigSMILES_LM,15.19,10.95 ± 3.26,25.58,26.20 ± 2.79,+2.4%,+10.39,+15.25,25.11,24.88 ± 2.06

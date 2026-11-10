@@ -1,0 +1,6 @@
+Split / Test Suite,Sample Count,Pct of Dataset,Description
+Unified Training Set (D_train),214,61.0%,Single training partition for all candidate models
+Suite 1: Random Holdout,25,7.1%,IID control sampled across general background pairs
+Suite 2: Core-to-Tail Extrap,35,10.0%,Tails (f < 0.25 or f > 0.75) of pairs trained on core only
+Suite 3: One-Sided Extrap,41,11.7%,Upper compositions (f > 0.50) of pairs trained on lower side
+Suite 4: Equimolar Gap Interp,36,10.3%,Core (0.30 <= f <= 0.70) of pairs trained on tails only
